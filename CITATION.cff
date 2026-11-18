@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the article (and this archive)."
-title: "The Dormancy Rule: code and data for a pre-registered phylogenetic test of seed-bank theory across 7,327 bacterial species"
+title: "Code and data for: Dormancy gene content tracks phylogeny (Ancestry), not seasonal temperature, across 7,327 bacterial species: a pre-registered test"
 authors:
   - family-names: "Fathy"
     given-names: "Melad Naieem"

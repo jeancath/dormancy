@@ -1,5 +1,5 @@
 {
-  "title": "The Dormancy Rule: code and data for a pre-registered phylogenetic test of seed-bank theory across 7,327 bacterial species",
+  "title": "Code and data for: Dormancy gene content tracks phylogeny (Ancestry), not seasonal temperature, across 7,327 bacterial species: a pre-registered test",
   "upload_type": "software",
   "description": "Code, dormancy-gene HMM dictionary, analysis tables, model outputs, the frozen pre-registration, deviation log, phenotype calibration, within-species replication and independent audit for the article 'Dormancy gene content of bacterial genomes tracks ancestry, not environmental variability'.",
   "creators": [

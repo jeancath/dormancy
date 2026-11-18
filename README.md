@@ -1,10 +1,8 @@
-# Dormancy-associated gene content and seasonal temperature amplitude across 7,327 bacterial species
+# Dormancy gene content tracks phylogeny (Ancestry), not seasonal temperature, across 7,327 bacterial species: a pre-registered test
 
 [![DOI](https://zenodo.org/badge/1463415847.svg)](https://doi.org/10.5281/zenodo.24355693)
 
-Code, derived data and results for the pre-registered study *"Dormancy-associated genomic repertoire
-across bacterial taxa and the seasonal temperature amplitude of their sampling environments: a
-pre-registered phylogenetic test across 7,327 species"*. The manuscript is in [`paper/`](paper/).
+Code, derived data and results for the study of the same title. The manuscript is in [`paper/`](paper/).
 
 ## Summary
 **Question.** Seed-bank theory predicts that microbial dormancy is favoured where environments

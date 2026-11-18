@@ -218,3 +218,6 @@ departure or addition made after that point is listed here, together with the re
       residual variance is 95 %, and P0 accounts for about 0.01 % of the variance in DORM_z.
     - **Student report:** "sleep genes" flagged as a nickname; "publicly" pre-registered corrected
       to "a dated git commit".
+26. **Final title (18 Nov 2026).** "Dormancy gene content tracks phylogeny (Ancestry), not seasonal
+    temperature, across 7,327 bacterial species: a pre-registered test". The title was changed
+    after the analyses were frozen; no result changed.

@@ -1,5 +1,5 @@
 ---
-title: "Dormancy-associated genomic repertoire across bacterial taxa and the seasonal temperature amplitude of their sampling environments: a pre-registered phylogenetic test across 7,327 species"
+title: "Dormancy gene content tracks phylogeny (Ancestry), not seasonal temperature, across 7,327 bacterial species: a pre-registered test"
 author:
   - "Melad Naieem Fathy"
 subtitle: "Independent researcher · ORCID 0009-0002-4553-8894"
