@@ -1,5 +1,7 @@
 # Dormancy-associated gene content and seasonal temperature amplitude across 7,327 bacterial species
 
+[![DOI](https://zenodo.org/badge/1463415847.svg)](https://doi.org/10.5281/zenodo.24355693)
+
 Code, derived data and results for the pre-registered study *"Dormancy-associated genomic repertoire
 across bacterial taxa and the seasonal temperature amplitude of their sampling environments: a
 pre-registered phylogenetic test across 7,327 species"*. The manuscript is in [`paper/`](paper/).
@@ -73,7 +75,8 @@ can be refitted without the raw inputs. `python3 audit/number_check_v2.py` re-co
 reported in the manuscript from the result files.
 
 ## Citation and licence
-- **Citation:** see `CITATION.cff`. Please cite the article and this archive.
+- **Citation:** see `CITATION.cff`. Please cite the article and this archive: version 1.0.0,
+  doi:[10.5281/zenodo.24355694](https://doi.org/10.5281/zenodo.24355694) (all versions: doi:[10.5281/zenodo.24355693](https://doi.org/10.5281/zenodo.24355693)).
 - **Licence:** code under MIT; data, results and text under CC BY 4.0 (`LICENSE`).
 - **Use of AI tools:** the author found the idea, critiqued it, searched the literature, reviewed
   the work, and analysed and interpreted the results. A generative AI assistant also did some of

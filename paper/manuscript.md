@@ -1250,7 +1250,7 @@ numbers are not interchangeable. Units: DORM_z per SD of P0.
 ![**Figure 7. Within-species replication (exploratory).** (a) Within-species slopes (species fixed effects, site-clustered 95 % CI) for MAG genomes (purple dots) and isolate genomes (green dots), against the between-species estimates of the main analysis (open diamonds). (b) In the 71 species with both genome types, the MAG − isolate difference in DORM_z against the difference in P0 between their sites.](figures/Figure7.png)
 
 # Data and code availability
-**Archive.** All code, derived data and outputs are archived at Zenodo (doi:[10.5281/zenodo.XXXXXXX]) and
+**Archive.** All code, derived data and outputs are archived at Zenodo (doi:10.5281/zenodo.24355694) and
 mirrored at https://github.com/jeancath/dormancy. The archive contains:
 - all scripts;
 - the dormancy-gene dictionary and its HMM library;
