@@ -1,0 +1,7 @@
+Pre-registration freeze (private research repository)
+commit: 9fae630e8a330e53c32556567a0fabb939452bd1
+date:   2026-11-17T10:16:55+00:00
+file:   prereg/PREREGISTRATION.md (unchanged since this commit; compare with the copy in this release)
+sha256 at the freeze:  455b860e5a37a3361b2d4e789a8e614c8f5a8ad68650d08bf3d88a64ba570cc6
+sha256 in this release: 455b860e5a37a3361b2d4e789a8e614c8f5a8ad68650d08bf3d88a64ba570cc6
+The full git history is available to editors and reviewers on request.

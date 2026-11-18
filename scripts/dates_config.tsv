@@ -1,0 +1,6 @@
+id	response	family	predictor	covars	filter	fdr_family
+D_H1_has_year	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	has_year == 1	dates
+D_H1_in_window	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	in_window == 1	dates
+D_H1_year_cov	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+year_z	has_year == 1	dates
+D_interaction_in_window	DORM_z	gaussian	T_logsd_total:is_mag	T_logsd_total+domain+lgs+checkm2_completeness+is_mag	in_window == 1	dates
+D_TA_marine_in_window	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	in_window == 1	dates

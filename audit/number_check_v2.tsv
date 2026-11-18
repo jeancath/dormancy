@@ -1,0 +1,183 @@
+claim	document	expected	status
+within interaction	paper	−0.011 [−0.028, +0.005]	found
+within interaction	report	−0.011 [−0.028, +0.005]	found
+within MAG slope	paper	−0.008 [−0.023, +0.006]	found
+within MAG slope	report	−0.008 [−0.023, +0.006]	found
+within MAG slope >=95%	paper	+0.009 [−0.001, +0.019]	found
+within MAG slope >=95%	report	+0.009 [−0.001, +0.019]	found
+within interaction >=95%	paper	+0.005 [−0.007, +0.018]	found
+within interaction >=95%	report	+0.005 [−0.007, +0.018]	found
+within pooled	paper	+0.001 [−0.006, +0.009]	found
+within pooled	report	+0.001 [−0.006, +0.009]	found
+MCMC Poisson Rpf	paper	−0.004 [−0.035, +0.023]	found
+MCMC Poisson Rpf	report	−0.004 [−0.035, +0.023]	found
+MCMC Poisson hibernation	paper	+0.017 [+0.003, +0.031]	found
+MCMC Poisson hibernation	report	+0.017 [+0.003, +0.031]	found
+MCMC Poisson stringent response	paper	+0.010 [+0.000, +0.021]	found
+MCMC Poisson stringent response	report	+0.010 [+0.000, +0.021]	found
+MCMC pooled phylo+site	paper	+0.0039 [−0.0027, +0.0098]	found
+MCMC pooled phylo+site	report	+0.0039 [−0.0027, +0.0098]	found
+MCMC interaction	paper	+0.026 [+0.015, +0.038]	found
+MCMC interaction	report	+0.026 [+0.015, +0.038]	found
+MCMC MAGs	paper	+0.022 [+0.012, +0.032]	found
+MCMC MAGs	report	+0.022 [+0.012, +0.032]	found
+MCMC isolates	paper	−0.009 [−0.017, −0.002]	found
+MCMC isolates	report	−0.009 [−0.017, −0.002]	found
+MAG slope, zero strain heterogeneity	paper	+0.024	found
+MAG slope, SH > 0	paper	+0.013	found
+MAG CI lower bound	paper	+0.018 [0.011, 0.025]	found
+MAG CI (report)	report	+0.018 [+0.011, +0.025]	found
+top-10 site share	paper	42 %	found
+top-10 site share	report	42 %	found
+Balon <5 °C	paper	21 %	found
+Balon <5 °C	student	21 %	found
+Balon <5 °C	report	21 %	found
+Balon >20 °C	paper	8 %	found
+Balon >20 °C	student	8 %	found
+Balon >20 °C	report	8 %	found
+S_marine upper limit	paper	+0.0155	found
+S_marine upper limit	report	+0.0155	found
+TOST H1 direct	paper	| 0.0003 |	found
+TOST jackknife	paper	| 0.012 |	found
+TA R_TA_comp95	paper	−0.188 | 17 %	found
+TA R_TA_comp98	paper	−0.161 | 15 %	found
+TA R_TA_comp98_cont1	paper	−0.111 | 10 %	found
+H1 in window	paper	+0.0044 [−0.0010, +0.0098]	found
+H1 in window	report	+0.0044 [−0.0010, +0.0098]	found
+calibration P(equiv) at -0.015	paper	5.0 % (4.4–5.6 %	found
+calibration P(equiv) at 0.015	paper	4.5 % (3.9–5.1 %	found
+calibration P(equiv) at 0.0	paper	97.5 % (96.7–98.1 %	found
+calibration P(equiv) at 0.005	paper	83.8 % (81.4–86.0 %	found
+calibration P(equiv) at 0.01	paper	37.1 % (34.1–40.2 %	found
+calibration boundary combined	paper	4.75 %	found
+calibration boundary combined	report	4.75 %	found
+dated genomes	paper	7,140	found
+dated genomes	report	7,140	found
+in-window share of all	paper	90.7 %	found
+in-window share of all	report	90.7 %	found
+in-window share of dated	paper	93.1 %	found
+in-window share of dated	report	93.1 %	found
+interaction phylolm	paper	| +0.024 | [0.016, 0.032] | [0.014, 0.034] |	found
+composition M0_unadjusted	paper	| +0.024 |	found
+composition M0_unadjusted	report	| +0.024 |	found
+composition M0_unadjusted P CI	paper	[0.009, 0.039]	found
+composition M0_unadjusted P CI	report	[0.009, 0.039]	found
+composition M1_habitat	paper	| +0.027 |	found
+composition M1_habitat	report	| +0.027 |	found
+composition M1_habitat P CI	paper	[0.015, 0.040]	found
+composition M1_habitat P CI	report	[0.015, 0.040]	found
+composition M2_phylum	paper	| +0.026 |	found
+composition M2_phylum	report	| +0.026 |	found
+composition M2_phylum P CI	paper	[0.010, 0.041]	found
+composition M2_phylum P CI	report	[0.010, 0.041]	found
+composition M3_lat_meanT	paper	| +0.024 |	found
+composition M3_lat_meanT	report	| +0.024 |	found
+composition M3_lat_meanT P CI	paper	[0.008, 0.039]	found
+composition M3_lat_meanT P CI	report	[0.008, 0.039]	found
+composition M4_all	paper	| +0.028 |	found
+composition M4_all	report	| +0.028 |	found
+composition M4_all P CI	paper	[0.010, 0.045]	found
+composition M4_all P CI	report	[0.010, 0.045]	found
+composition M5_common_support	paper	| +0.025 |	found
+composition M5_common_support	report	| +0.025 |	found
+composition M5_common_support P CI	paper	[0.007, 0.043]	found
+composition M5_common_support P CI	report	[0.007, 0.043]	found
+provenance discarded	report	115 misresolved	found
+provenance efetch	report	7,593 records fetched by accession	found
+P-bar pooled 90% CI	paper	0.0004–0.0125	found
+P-bar pooled 90% CI (report)	report	[0.0004, 0.0125]	found
+P-bar pooled p_TOST	paper	p_TOST = 0.012	found
+P-bar pooled p_TOST	report	p_TOST = 0.012	found
+P-bar pooled p vs 0	paper	p = 0.08	found
+P-bar pooled p vs 0	report	p = 0.08	found
+P-bar MAG row	paper	| +0.017 | [0.006, 0.028] | [0.004, 0.031] |	found
+P-bar MAG p two-sided	paper	p = 0.013	found
+P-bar MAG p two-sided	report	p = 0.013	found
+P-bar MAG p > 0	paper	p = 0.006	found
+P-bar MAG p > 0	report	p = 0.006	found
+P-bar MAG p > SESOI	paper	p = 0.35	found
+P-bar MAG p > SESOI	report	p = 0.35	found
+P-bar isolate p_TOST	paper	p_TOST = 0.084	found
+P-bar isolate p_TOST	report	p_TOST = 0.084	found
+groupings declaring equivalence	paper	199 of 200	found
+rank of original grouping	paper	4th-smallest SE of 200	found
+delete-one-cell p_TOST	paper	p_TOST = 0.007	found
+scope: species with variation	report	700 of 1,473	found
+scope: coverage table, all row	paper	| **All** | **1,473** | **2,901 / 4,197** | **700** | **238** | **431** | **2** |	found
+scope: coverage row MAG-only	paper	| MAG-only | 751 | 2,713 / 0 | 222 | 222 | 0 | 0 | 11 % |	found
+scope: coverage row isolate-only	paper	| Isolate-only | 651 | 0 / 3,972 | 412 | 0 | 412 | 0 | 81 % |	found
+scope: coverage row mixed	paper	| Both sources | 71 | 188 / 225 | 66 | 16 | 19 | 2 | 8 % |	found
+calibration A original, lambda fixed (first calibration) -0.015 K = 1 	paper	5.0 (4.4–5.6)	found
+calibration A original, lambda fixed (first calibration) -0.015 oracle	paper	4.2 (3.6–4.8)	found
+calibration A original, lambda fixed (first calibration) 0.015 K = 1 	paper	4.5 (3.9–5.1)	found
+calibration A original, lambda fixed (first calibration) 0.015 oracle	paper	4.1 (3.5–4.7)	found
+calibration A original, lambda re-estimated -0.015 K = 1 	paper	3.6 (2.1–5.6)	found
+calibration A original, lambda re-estimated -0.015 oracle	paper	3.8 (2.3–5.9)	found
+calibration A original, lambda re-estimated 0.015 K = 1 	paper	4.2 (2.6–6.3)	found
+calibration A original, lambda re-estimated 0.015 oracle	paper	4.4 (2.8–6.6)	found
+calibration B single fitted model, lambda re-estimated -0.015 K = 1 	paper	5.6 (3.8–8.0)	found
+calibration B single fitted model, lambda re-estimated -0.015 K = 5	paper	4.6 (2.9–6.8)	found
+calibration B single fitted model, lambda re-estimated -0.015 oracle	paper	4.4 (2.8–6.6)	found
+calibration B single fitted model, lambda re-estimated 0.015 K = 1 	paper	6.2 (4.3–8.7)	found
+calibration B single fitted model, lambda re-estimated 0.015 K = 5	paper	5.2 (3.4–7.5)	found
+calibration B single fitted model, lambda re-estimated 0.015 oracle	paper	5.2 (3.4–7.5)	found
+calibration D real residual structure, lambda re-estimated -0.015 K = 1 	paper	4.8 (3.1–7.1)	found
+calibration D real residual structure, lambda re-estimated -0.015 K = 5	paper	4.4 (2.8–6.6)	found
+calibration D real residual structure, lambda re-estimated -0.015 oracle	paper	4.6 (2.9–6.8)	found
+calibration D real residual structure, lambda re-estimated 0.015 K = 1 	paper	3.6 (2.1–5.6)	found
+calibration D real residual structure, lambda re-estimated 0.015 K = 5	paper	3.4 (2.0–5.4)	found
+calibration D real residual structure, lambda re-estimated 0.015 oracle	paper	4.0 (2.5–6.1)	found
+largest sensitivity p_TOST	paper	largest p_TOST among them is 0.015	found
+SE range over groupings	paper	0.0020–0.0051	found
+scope: MAG-identifying species (report)	report	238 species (1,214 MAGs)	found
+BioSample returned	paper	| 7,708 |	found
+BioSample returned	report	| 7,708 |	found
+BioSample nothing returned	paper	| 6 |	found
+"withdrawn wording absent: ""held-out pilot (−0.25"""	paper	absent	absent
+"withdrawn wording absent: ""replicated in the held-out pilot"""	paper	absent	absent
+"withdrawn wording absent: ""about 17 % below 5 °C"""	paper	absent	absent
+"withdrawn wording absent: ""about 5 % above"""	paper	absent	absent
+"withdrawn wording absent: ""metagenomic observation of Lennon & Jones"""	paper	absent	absent
+"withdrawn wording absent: ""94 % of the pattern"""	paper	absent	absent
+"withdrawn wording absent: ""before any confirmatory genome was annotated"""	paper	absent	absent
+"withdrawn wording absent: ""Nine of ten"""	paper	absent	absent
+"withdrawn wording absent: ""{{MC_"""	paper	absent	absent
+"withdrawn wording absent: ""reversal vanishes"""	paper	absent	absent
+"withdrawn wording absent: ""disappeared. The interaction"""	paper	absent	absent
+"withdrawn wording absent: ""not an effect of genome source"""	paper	absent	absent
+"withdrawn wording absent: ""The difference vanished"""	paper	absent	absent
+"withdrawn wording absent: ""The simulated data were noisier"""	paper	absent	absent
+"withdrawn wording absent: ""power is 99 % at ±0.005"""	paper	absent	absent
+"withdrawn wording absent: ""p_TOST = 0.0005: the"""	paper	absent	absent
+"withdrawn wording absent: ""held-out pilot (−0.25"""	student	absent	absent
+"withdrawn wording absent: ""replicated in the held-out pilot"""	student	absent	absent
+"withdrawn wording absent: ""about 17 % below 5 °C"""	student	absent	absent
+"withdrawn wording absent: ""about 5 % above"""	student	absent	absent
+"withdrawn wording absent: ""metagenomic observation of Lennon & Jones"""	student	absent	absent
+"withdrawn wording absent: ""94 % of the pattern"""	student	absent	absent
+"withdrawn wording absent: ""before any confirmatory genome was annotated"""	student	absent	absent
+"withdrawn wording absent: ""Nine of ten"""	student	absent	absent
+"withdrawn wording absent: ""{{MC_"""	student	absent	absent
+"withdrawn wording absent: ""reversal vanishes"""	student	absent	absent
+"withdrawn wording absent: ""disappeared. The interaction"""	student	absent	absent
+"withdrawn wording absent: ""not an effect of genome source"""	student	absent	absent
+"withdrawn wording absent: ""The difference vanished"""	student	absent	absent
+"withdrawn wording absent: ""The simulated data were noisier"""	student	absent	absent
+"withdrawn wording absent: ""power is 99 % at ±0.005"""	student	absent	absent
+"withdrawn wording absent: ""p_TOST = 0.0005: the"""	student	absent	absent
+"withdrawn wording absent: ""held-out pilot (−0.25"""	report	absent	absent
+"withdrawn wording absent: ""replicated in the held-out pilot"""	report	absent	absent
+"withdrawn wording absent: ""about 17 % below 5 °C"""	report	absent	absent
+"withdrawn wording absent: ""about 5 % above"""	report	absent	absent
+"withdrawn wording absent: ""metagenomic observation of Lennon & Jones"""	report	absent	absent
+"withdrawn wording absent: ""94 % of the pattern"""	report	absent	absent
+"withdrawn wording absent: ""before any confirmatory genome was annotated"""	report	absent	absent
+"withdrawn wording absent: ""Nine of ten"""	report	absent	absent
+"withdrawn wording absent: ""{{MC_"""	report	absent	absent
+"withdrawn wording absent: ""reversal vanishes"""	report	absent	absent
+"withdrawn wording absent: ""disappeared. The interaction"""	report	absent	absent
+"withdrawn wording absent: ""not an effect of genome source"""	report	absent	absent
+"withdrawn wording absent: ""The difference vanished"""	report	absent	absent
+"withdrawn wording absent: ""The simulated data were noisier"""	report	absent	absent
+"withdrawn wording absent: ""power is 99 % at ±0.005"""	report	absent	absent
+"withdrawn wording absent: ""p_TOST = 0.0005: the"""	report	absent	absent

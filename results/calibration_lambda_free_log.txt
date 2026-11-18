@@ -1,0 +1,80 @@
+        lambda_hat           estimate                 se             p_tost 
+      0.9359872124       0.0064560345       0.0022138911       0.0005283536 
+             equiv between_cell_share             se_avg          equiv_avg 
+      1.0000000000       0.4114443259                 NA                 NA 
+DGM B beta -0.015 done 40 2026-11-18 18:39:57 
+DGM B beta -0.015 done 80 2026-11-18 18:41:28 
+DGM B beta -0.015 done 120 2026-11-18 18:43:04 
+DGM B beta -0.015 done 160 2026-11-18 18:44:34 
+DGM B beta -0.015 done 200 2026-11-18 18:46:07 
+DGM B beta -0.015 done 240 2026-11-18 18:47:42 
+DGM B beta -0.015 done 280 2026-11-18 18:49:17 
+DGM B beta -0.015 done 320 2026-11-18 18:50:49 
+DGM B beta -0.015 done 360 2026-11-18 18:52:26 
+DGM B beta -0.015 done 400 2026-11-18 18:54:01 
+DGM B beta -0.015 done 440 2026-11-18 18:55:47 
+DGM B beta -0.015 done 480 2026-11-18 18:57:25 
+DGM B beta -0.015 done 500 2026-11-18 18:58:16 
+DGM B beta 0.015 done 40 2026-11-18 18:59:54 
+DGM B beta 0.015 done 80 2026-11-18 19:01:35 
+DGM B beta 0.015 done 120 2026-11-18 19:03:11 
+DGM B beta 0.015 done 160 2026-11-18 19:04:43 
+DGM B beta 0.015 done 200 2026-11-18 19:06:16 
+DGM B beta 0.015 done 240 2026-11-18 19:07:54 
+DGM B beta 0.015 done 280 2026-11-18 19:09:28 
+DGM B beta 0.015 done 320 2026-11-18 19:11:01 
+DGM B beta 0.015 done 360 2026-11-18 19:12:35 
+DGM B beta 0.015 done 400 2026-11-18 19:14:08 
+DGM B beta 0.015 done 440 2026-11-18 19:15:55 
+DGM B beta 0.015 done 480 2026-11-18 19:17:39 
+DGM B beta 0.015 done 500 2026-11-18 19:18:30 
+DGM A beta -0.015 done 40 2026-11-18 19:19:03 
+DGM A beta -0.015 done 80 2026-11-18 19:19:41 
+DGM A beta -0.015 done 120 2026-11-18 19:20:17 
+DGM A beta -0.015 done 160 2026-11-18 19:20:51 
+DGM A beta -0.015 done 200 2026-11-18 19:21:27 
+DGM A beta -0.015 done 240 2026-11-18 19:22:02 
+DGM A beta -0.015 done 280 2026-11-18 19:22:36 
+DGM A beta -0.015 done 320 2026-11-18 19:23:07 
+DGM A beta -0.015 done 360 2026-11-18 19:23:45 
+DGM A beta -0.015 done 400 2026-11-18 19:24:18 
+DGM A beta -0.015 done 440 2026-11-18 19:24:54 
+DGM A beta -0.015 done 480 2026-11-18 19:25:28 
+DGM A beta -0.015 done 500 2026-11-18 19:25:45 
+DGM A beta 0.015 done 40 2026-11-18 19:26:21 
+DGM A beta 0.015 done 80 2026-11-18 19:26:53 
+DGM A beta 0.015 done 120 2026-11-18 19:27:29 
+DGM A beta 0.015 done 160 2026-11-18 19:28:02 
+DGM A beta 0.015 done 200 2026-11-18 19:28:33 
+DGM A beta 0.015 done 240 2026-11-18 19:29:11 
+DGM A beta 0.015 done 280 2026-11-18 19:29:49 
+DGM A beta 0.015 done 320 2026-11-18 19:30:26 
+DGM A beta 0.015 done 360 2026-11-18 19:31:01 
+DGM A beta 0.015 done 400 2026-11-18 19:31:34 
+DGM A beta 0.015 done 440 2026-11-18 19:32:11 
+DGM A beta 0.015 done 480 2026-11-18 19:32:44 
+DGM A beta 0.015 done 500 2026-11-18 19:33:04 
+                     dgm true_beta  nsim P_declare_equivalence n_equiv
+                  <char>     <num> <int>                 <num>   <int>
+1: B single fitted model    -0.015   500                 0.056      28
+2: B single fitted model     0.015   500                 0.062      31
+3:            A original    -0.015   500                 0.036      18
+4:            A original     0.015   500                 0.042      21
+   mean_lambda_hat sd_estimate     mean_se   median_se      q05_se      q95_se
+             <num>       <num>       <num>       <num>       <num>       <num>
+1:       0.9320961 0.003530351 0.003663599 0.003562397 0.002406112 0.005268613
+2:       0.9318861 0.003429156 0.003670944 0.003524367 0.002410645 0.005505615
+3:       0.9338461 0.003428633 0.003603666 0.003419090 0.002417435 0.005358253
+4:       0.9335672 0.003480364 0.003667825 0.003541593 0.002360801 0.005226077
+   mean_between_cell_share P_equiv_se_avg n_equiv_avg median_se_avg    mc_lo95
+                     <num>          <num>       <int>         <num>      <num>
+1:               0.1219148          0.046          23   0.003603569 0.03753044
+2:               0.1228118          0.052          26   0.003585782 0.04251106
+3:               0.1246496             NA          NA            NA 0.02147286
+4:               0.1237518             NA          NA            NA 0.02618358
+      mc_hi95 avg_mc_lo95 avg_mc_hi95
+        <num>       <num>       <num>
+1: 0.07992130  0.02938018  0.06822543
+2: 0.08685260  0.03424570  0.07526637
+3: 0.05630018          NA          NA
+4: 0.06348694          NA          NA

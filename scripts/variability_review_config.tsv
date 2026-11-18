@@ -1,0 +1,6 @@
+id	response	family	predictor	covars	filter	fdr_family
+V_interann	DORM_z	gaussian	T_logsd_interann	domain+lgs+checkm2_completeness+is_mag	none	var_rev
+V_interann_given_seas	DORM_z	gaussian	T_logsd_interann	T_logsd_seasonal+domain+lgs+checkm2_completeness+is_mag	none	var_rev
+V_seas_given_interann	DORM_z	gaussian	T_logsd_seasonal	T_logsd_interann+domain+lgs+checkm2_completeness+is_mag	none	var_rev
+V_interann_marine	DORM_z	gaussian	T_logsd_interann	T_logsd_seasonal+lgs+checkm2_completeness+is_mag	domain == 'marine'	var_rev
+V_interann_land	DORM_z	gaussian	T_logsd_interann	T_logsd_seasonal+lgs+checkm2_completeness+is_mag	domain == 'land'	var_rev

@@ -1,0 +1,25 @@
+lambda 0.9359872 sigma2 0.3680753 site SD 0.0282568 n 7327 sites 1680 
+  true_beta nsim P_declare_equivalence P_detect_positive    mean_est
+1    -0.015  200                  0.09                 0 -0.01503759
+       sd_est     mean_se
+1 0.003195677 0.002503036
+  true_beta nsim P_declare_equivalence P_detect_positive      mean_est
+1         0  200                 0.995              0.04 -0.0004869962
+       sd_est     mean_se
+1 0.003157339 0.002501619
+  true_beta nsim P_declare_equivalence P_detect_positive    mean_est
+1     0.005  200                 0.955              0.51 0.004624937
+       sd_est     mean_se
+1 0.003720152 0.002500182
+  true_beta nsim P_declare_equivalence P_detect_positive    mean_est
+1      0.01  200                  0.66             0.905 0.009682268
+       sd_est     mean_se
+1 0.003516446 0.002498938
+  true_beta nsim P_declare_equivalence P_detect_positive   mean_est      sd_est
+1     0.015  200                 0.095                 1 0.01499796 0.003611043
+     mean_se
+1 0.00250171
+  true_beta nsim P_declare_equivalence P_detect_positive   mean_est      sd_est
+1      0.02  200                 0.005                 1 0.02020737 0.003498547
+      mean_se
+1 0.002504777

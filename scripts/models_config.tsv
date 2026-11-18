@@ -1,0 +1,40 @@
+id	response	family	predictor	covars	filter	fdr_family
+H1_DORM_P0	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	primary
+H1_DORM_P0_total	DORM_z	gaussian	T_logsd_total	domain+checkm2_completeness+is_mag	none	primary_total
+PATH_gsize_P0	lgs	gaussian	T_logsd_total	domain+checkm2_completeness+is_mag	none	path
+H1a_sporulator	sporulator	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacillota == 1	modules
+H1a_spo_strict	spo_strict	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacillota == 1	modules
+H1b_rpf	n_rpf	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	modules
+H1b_rpf_actino	n_rpf	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_actino == 1	modules
+H1c_hib	n_hib	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	modules
+H1d_sr	n_sr	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	modules
+H6_seasonal	DORM_z	gaussian	T_logsd_seasonal	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_resid	DORM_z	gaussian	T_logsd_resid	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_ac1	DORM_z	gaussian	T_ac1	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_colwellP	DORM_z	gaussian	T_colwellP	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_colwellM	DORM_z	gaussian	T_colwellM	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_colwellC	DORM_z	gaussian	T_colwellC	domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_joint_resid_given_seasonal	DORM_z	gaussian	T_logsd_resid	T_logsd_seasonal+domain+lgs+checkm2_completeness+is_mag	none	decomp
+H6_joint_seasonal_given_resid	DORM_z	gaussian	T_logsd_seasonal	T_logsd_resid+domain+lgs+checkm2_completeness+is_mag	none	decomp
+H4_streamlined	DORM_z	gaussian	streamlined	lgs+checkm2_completeness+is_mag	domain == 'marine'	exploratory
+H3_TA_marine	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag	none	ta
+H3_TA_marine_mob	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	none	ta
+H3_TA_P0	ta_pairs	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+log_mobile	none	ta
+H5_ssu	DORM_z	gaussian	log_ssu	domain+lgs	complete_asm == 1 & is_mag == 0	replication
+PATH_ssu_P0	log_ssu	gaussian	T_logsd_total	domain+lgs	complete_asm == 1 & is_mag == 0	path
+S_isolates	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	sens
+S_comp95	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	checkm2_completeness >= 95	sens
+S_spmed	DORM_z	gaussian	T_logsd_total_spmed	domain+lgs+checkm2_completeness+is_mag	none	sens
+S_marine	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'marine'	sens
+S_land	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'land'	sens
+S_noBacCPR	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacillota == 0 & is_cpr == 0	sens
+S_growth	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+log_d_hours	none	sens
+S_mobile	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+log_mobile	none	sens
+S_sum	DORM_sum	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	sens
+S_Tmean	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+T_mean_z	none	sens
+X_chl_total	DORM_z	gaussian	chl_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'marine'	secondary
+X_chl_resid	DORM_z	gaussian	chl_logsd_resid	lgs+checkm2_completeness+is_mag	domain == 'marine'	secondary
+X_prec_cv	DORM_z	gaussian	prec_logcv_total	lgs+checkm2_completeness+is_mag	domain == 'land'	secondary
+X_prec_cvres	DORM_z	gaussian	prec_logcv_resid	lgs+checkm2_completeness+is_mag	domain == 'land'	secondary
+X_hao_nb	DORM_z	gaussian	hao_lognb	domain+lgs+checkm2_completeness+is_mag	none	secondary
+X_snb	DORM_z	gaussian	snb	domain+lgs+checkm2_completeness+is_mag	none	secondary

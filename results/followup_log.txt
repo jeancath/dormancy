@@ -1,0 +1,56 @@
+F_collider_iso_PxD           n= 7327  b=-0.5558  se=0.0826  p=1.75e-11  par=1.299
+F_iso_precise                n= 1523  b=-0.0104  se=0.0054  p=0.0533  par=0.964
+F_iso_coarse                 n= 1312  b=-0.0006  se=0.0057  p=0.922  par=0.969
+F_MAG_precise                n= 2915  b=+0.0143  se=0.0043  p=0.000918  par=0.866
+F_MAG_coarse                 n= 1577  b=+0.0420  se=0.0082  p=3.79e-07  par=0.888
+F_MAG_hib_systems            n= 4492  b=+0.0093  se=0.0029  p=0.00116  par=0.865
+F_MAG_hib_extra              n= 4492  b=+0.0132  se=0.0031  p=2.49e-05  par=0.597
+F_iso_hib_systems            n= 2835  b=-0.0025  se=0.0029  p=0.386  par=0.944
+F_iso_hib_extra              n= 2835  b=-0.0112  se=0.0035  p=0.00153  par=0.988
+F_MAG_rsh_extra              n= 4492  b=+0.0021  se=0.0017  p=0.205  par=0.873
+F_MAG_hpfshort               n= 4492  b=+0.0134  se=0.0035  p=0.000114  par=0.877
+F_MAG_hpflong                n= 4492  b=-0.0004  se=0.0020  p=0.835  par=0.960
+F_MAG_rmf                    n= 4492  b=+0.0020  se=0.0010  p=0.0418  par=0.870
+F_MAG_balon                  n= 4492  b=+0.0080  se=0.0026  p=0.00166  par=0.668
+F_MAG_sas                    n= 4492  b=+0.0075  se=0.0026  p=0.0034  par=0.678
+F_MAG_sah                    n= 4492  b=+0.0030  se=0.0038  p=0.424  par=0.724
+F_iso_hpfshort               n= 2835  b=-0.0057  se=0.0028  p=0.0395  par=0.987
+F_iso_hpflong                n= 2835  b=+0.0008  se=0.0010  p=0.419  par=0.994
+F_iso_rmf                    n= 2835  b=-0.0040  se=0.0036  p=0.264  par=0.885
+F_iso_balon                  n= 2835  b=-0.0017  se=0.0034  p=0.623  par=0.961
+F_balon_Tmean                n= 7327  b=+0.0521  se=0.0295  p=0.0771  par=1.299
+F_balon_P0_given_Tmean       n= 7327  b=+0.0953  se=0.0297  p=0.00134  par=1.299
+F_balon_Tmean_marine         n= 2333  b=-0.1920  se=0.0702  p=0.00622  par=1.281
+F_cyano_hib                  n=  311  b=+0.0418  se=0.0138  p=0.00265  par=0.913
+F_cyano_sr                   n=  311  b=+0.0070  se=0.0119  p=0.559  par=0.940
+F_cyano_MAGs                 n=  192  b=+0.0391  se=0.0156  p=0.013  par=0.932
+F_cyano_iso                  n=  119  b=-0.0238  se=0.0252  p=0.347  par=0.949
+F_MAG_hib_extra_lowcont      n= 2241  b=+0.0166  se=0.0044  p=0.000174  par=0.560
+F_MAG_hib_extra_contcov      n= 4492  b=+0.0135  se=0.0031  p=1.7e-05  par=0.595
+F_MAG_DORM_lowcont           n= 2241  b=+0.0220  se=0.0048  p=4.04e-06  par=0.909
+F_MAG_DORM_comp98            n=  906  b=+0.0070  se=0.0076  p=0.351  par=0.917
+F_balon_Tmean_land           n= 4994  b=+0.1611  se=0.0350  p=4.17e-06  par=1.307
+F_balon_Tmean_marine_iso     n=  819  b=-0.3380  se=0.0959  p=0.000425  par=1.349
+F_balon_Tmean_marine_MAG     n= 1514  b=+0.1773  se=0.1161  p=0.127  par=1.293
+Warning messages:
+1: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+2: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+3: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+4: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+5: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+6: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+7: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.

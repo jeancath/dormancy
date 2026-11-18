@@ -1,0 +1,298 @@
+{
+ "n_actino": 29,
+ "n_actino_count": 28,
+ "n_actino_count_pos": 25,
+ "actino_exact": 23,
+ "actino_presence_ok": 24,
+ "n_non": 28,
+ "non_zero_ok": 25,
+ "non_false_pos": [
+  {
+   "organism": "Staphylococcus aureus",
+   "strain": "N315",
+   "n_rpf": 1.0,
+   "evidence": "Table 1B: 1 distantly related Rpf-like; no Rpf domain"
+  },
+  {
+   "organism": "Staphylococcus epidermidis",
+   "strain": "ATCC 12228",
+   "n_rpf": 1.0,
+   "evidence": "Table 1B: 1 distantly related Rpf-like; no Rpf domain"
+  },
+  {
+   "organism": "Oenococcus oeni",
+   "strain": "PSU-1",
+   "n_rpf": 1.0,
+   "evidence": "Table 1B: 1 distantly related (strain in 2005 was a draft; PSU-1 used)"
+  }
+ ],
+ "sps_n": 49,
+ "sps_bacillota": 20,
+ "sps_exact": 16,
+ "sps_off": [
+  {
+   "organism": "Bacillus cereus",
+   "strain": "ATCC 14579",
+   "expected_sps": 5.0,
+   "n_sps": 6.0
+  },
+  {
+   "organism": "Oceanobacillus iheyensis",
+   "strain": "HTE831",
+   "expected_sps": 4.0,
+   "n_sps": 5.0
+  },
+  {
+   "organism": "Clostridium acetobutylicum",
+   "strain": "ATCC 824",
+   "expected_sps": 2.0,
+   "n_sps": 3.0
+  },
+  {
+   "organism": "Desulfitobacterium hafniense",
+   "strain": "DCB-2",
+   "expected_sps": 1.0,
+   "n_sps": 2.0
+  }
+ ],
+ "sps_outside_bacillota_nonzero": 0,
+ "pf06737_threshold": 27.0,
+ "bacillota_pf06737_hits": [
+  {
+   "accession": "RS_GCF_000009645.1",
+   "contig": "NC_002745.2",
+   "gene_idx": 1944,
+   "start": 2150358,
+   "end": 2151053,
+   "score": 89.8,
+   "dom_score": 89.8,
+   "pass": 1,
+   "len_aa": 232
+  },
+  {
+   "accession": "RS_GCF_000009645.1",
+   "contig": "NC_002745.2",
+   "gene_idx": 2413,
+   "start": 2648126,
+   "end": 2648827,
+   "score": 21.8,
+   "dom_score": 21.8,
+   "pass": 0,
+   "len_aa": 234
+  },
+  {
+   "accession": "RS_GCF_000007645.1",
+   "contig": "NC_004461.1",
+   "gene_idx": 1603,
+   "start": 1749265,
+   "end": 1749924,
+   "score": 86.9,
+   "dom_score": 86.9,
+   "pass": 1,
+   "len_aa": 220
+  },
+  {
+   "accession": "RS_GCF_000007645.1",
+   "contig": "NC_004461.1",
+   "gene_idx": 2014,
+   "start": 2171735,
+   "end": 2172442,
+   "score": 21.7,
+   "dom_score": 21.7,
+   "pass": 0,
+   "len_aa": 236
+  },
+  {
+   "accession": "RS_GCF_000014385.1",
+   "contig": "NC_008528.1",
+   "gene_idx": 1817,
+   "start": 1762696,
+   "end": 1763298,
+   "score": 33.1,
+   "dom_score": 33.1,
+   "pass": 1,
+   "len_aa": 201
+  }
+ ],
+ "tier2": {
+  "n": 95,
+  "n_scored": 95,
+  "exact": 79,
+  "within1": 93,
+  "over": 15,
+  "under": 1,
+  "spearman": 0.9561538244620502,
+  "presence_TP": 56,
+  "presence_FN": 0,
+  "presence_FP": 4,
+  "presence_TN": 35,
+  "crosstab": {
+   "0": {
+    "0": 35,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "1": {
+    "0": 3,
+    "1": 10,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "2": {
+    "0": 1,
+    "1": 3,
+    "2": 17,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "3": {
+    "0": 0,
+    "1": 0,
+    "2": 3,
+    "3": 6,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "4": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "5": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 5,
+    "6": 0,
+    "7": 0
+   },
+   "6": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1,
+    "6": 1,
+    "7": 0
+   },
+   "7": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 3
+   }
+  },
+  "largest_discordances": [
+   {
+    "organism": "Beutenbergia cavernae HKI 0122, DSM 12333",
+    "accession": "GCF_000023105.1",
+    "expected_rpf": 3,
+    "n_rpf": 1,
+    "diff": -2
+   },
+   {
+    "organism": "Xylanimonas cellulosilytica XIL07, DSM 15894",
+    "accession": "GCF_000024965.1",
+    "expected_rpf": 0,
+    "n_rpf": 2,
+    "diff": 2
+   },
+   {
+    "organism": "Amycolatopsis mediterranei U32",
+    "accession": "GCF_000196835.1",
+    "expected_rpf": 2,
+    "n_rpf": 3,
+    "diff": 1
+   },
+   {
+    "organism": "Conexibacter woesei ID131577, DSM 14684",
+    "accession": "GCF_000025265.1",
+    "expected_rpf": 0,
+    "n_rpf": 1,
+    "diff": 1
+   },
+   {
+    "organism": "Catenulispora acidiphila ID139908, DSM 44928",
+    "accession": "GCF_000024025.1",
+    "expected_rpf": 1,
+    "n_rpf": 2,
+    "diff": 1
+   },
+   {
+    "organism": "Sanguibacter keddieii ST--74, DSM 10542",
+    "accession": "GCF_000024925.1",
+    "expected_rpf": 0,
+    "n_rpf": 1,
+    "diff": 1
+   },
+   {
+    "organism": "Acidothermus cellulolyticus 11B",
+    "accession": "GCF_000015025.1",
+    "expected_rpf": 1,
+    "n_rpf": 2,
+    "diff": 1
+   },
+   {
+    "organism": "Mycobacterium tuberculosis CCDC5079",
+    "accession": "GCF_000270345.1",
+    "expected_rpf": 4,
+    "n_rpf": 5,
+    "diff": 1
+   },
+   {
+    "organism": "Streptomyces bingchenggensis BCW--1",
+    "accession": "GCF_000092385.1",
+    "expected_rpf": 5,
+    "n_rpf": 6,
+    "diff": 1
+   },
+   {
+    "organism": "Thermomonospora curvata DSM 43183",
+    "accession": "GCF_000024385.1",
+    "expected_rpf": 0,
+    "n_rpf": 1,
+    "diff": 1
+   },
+   {
+    "organism": "Nakamurella multipartita Y--104, DSM 44233",
+    "accession": "GCF_000024365.1",
+    "expected_rpf": 4,
+    "n_rpf": 5,
+    "diff": 1
+   },
+   {
+    "organism": "Geodermatophilus obscurus G--20, DSM 43160",
+    "accession": "GCF_000025345.1",
+    "expected_rpf": 1,
+    "n_rpf": 2,
+    "diff": 1
+   }
+  ]
+ }
+}

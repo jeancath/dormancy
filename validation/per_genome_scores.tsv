@@ -1,0 +1,632 @@
+organism	strain	accession	set	label	label_source	family	class	order	assembly_level	type_material	n_proteins	spo0A	spo_strict	spo_relaxed	sporulator	spo_reduced
+Acidaminococcus intestini	D21	GCF_025144545.1	calibration	0	Madin2020_tierA	Acidaminococcaceae	Negativicutes	Acidaminococcales	Complete Genome	0.0	2149	0	1	1	0	0
+Acidaminococcus fermentans DSM 20731	DSM 20731	GCF_000025305.1	calibration	0	Madin2020_tierB	Acidaminococcaceae	Negativicutes	Acidaminococcales	Complete Genome	1.0	2063	0	1	1	0	0
+Phascolarctobacterium faecium	JCM 30894	GCF_003945365.1	calibration	0	Madin2020_tierB	Acidaminococcaceae	Negativicutes	Acidaminococcales	Complete Genome	0.0	2307	0	1	1	0	0
+Succinispira mobilis DSM 6222	DSM 6222	GCF_000384135.1	calibration	0	Madin2020_tierB	Acidaminococcaceae	Negativicutes	Acidaminococcales	Scaffold	1.0	1916	0	1	1	0	0
+Succiniclasticum ruminis DSM 9236	DSM 9236	GCF_900112895.1	calibration	0	Madin2020_tierB	Acidaminococcaceae	Negativicutes	Acidaminococcales	Scaffold	1.0	2288	0	1	1	0	0
+Phascolarctobacterium succinatutens	NB2A-12-FMU	GCF_023497905.1	calibration	0	Madin2020_tierB	Acidaminococcaceae	Negativicutes	Acidaminococcales	Chromosome	0.0	2182	0	1	1	0	0
+Listeria marthii	FSL L7-0530	GCF_014227425.1	calibration	0	Madin2020_tierA	Listeriaceae	Bacilli	Bacillales	Contig	0.0	2735	0	0	0	0	0
+Bhargavaea cecembensis DSE10	DSE10	GCF_000348905.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Contig	1.0	3186	1	26	30	1	0
+Staphylococcus pettenkoferi	FDAARGOS_1071	GCF_016127935.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2340	0	0	0	0	0
+Staphylococcus simiae	NCTC13838	GCF_900187055.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2387	0	0	0	0	0
+Salinicoccus albus DSM 19776	YIM-Y21	GCF_000385175.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Contig	1.0	2683	0	0	0	0	0
+Salinicoccus carnicancri Crm	Crm	GCF_000330705.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Contig	1.0	2704	0	0	0	0	0
+Planococcus halocryophilus	DSM 24743	GCF_001687585.2	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Complete Genome	1.0	3310	1	3	3	0	0
+Jeotgalicoccus marinus DSM 19772	DSM 19772	GCF_000425825.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2212	0	0	0	0	0
+Staphylococcus massiliensis	WGS1515	GCF_043186315.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	0.0	2251	0	0	0	0	0
+Salinicoccus luteus DSM 17002	DSM 17002	GCF_000712035.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2569	0	0	0	0	0
+Listeria fleischmannii subsp. coloradonensis	NCTC13938	GCF_900452975.1	calibration	0	Madin2020_tierA	Listeriaceae	Bacilli	Bacillales	Contig	1.0	2874	0	0	0	0	0
+Marinococcus luteus	DSM 23126	GCF_900106595.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2934	1	1	1	0	0
+Lacicoccus kunmingensis DSM 17847	DSM 17847	GCF_059568765.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	3273	0	0	0	0	0
+Marinococcus halotolerans DSM 16375	DSM 16375	GCF_000420725.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3220	1	1	1	0	0
+Exiguobacterium oxidotolerans JCM 12280	JCM 12280	GCF_000702625.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Contig	1.0	3088	1	1	1	0	0
+Halalkalibacter okhensis	Kh10-101	GCF_000787375.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	4883	1	33	33	1	0
+Alkalicoccus saliphilus	6AG	GCF_003044065.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3263	1	1	1	0	0
+Paenilisteria weihenstephanensis	WS 4560	GCF_003534205.1	calibration	0	Madin2020_tierA	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	3193	0	0	0	0	0
+Paenilisteria rocourtiae	CECT 7972	GCF_004363965.1	calibration	0	Madin2020_tierA	Listeriaceae	Bacilli	Bacillales	Scaffold	1.0	3106	0	0	0	0	0
+Aquisalibacillus elongatus	DSM 18090	GCF_003843875.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3000	1	33	33	1	0
+Phocicoccus pinnipedialis	CCUG 42722	GCF_042665035.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	1571	0	0	0	0	0
+Jeotgalicoccus aerolatus	CIP 111750	GCF_903994055.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2137	0	0	0	0	0
+Bhargavaea beijingensis	CGMCC 1.6762	GCF_900101985.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Contig	1.0	2986	1	26	30	1	0
+Salinicoccus halodurans	CGMCC 1.6501	GCF_900114445.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2779	0	0	0	0	0
+Planococcus glaciei	CGMCC 1.6846	GCF_900099655.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Scaffold	1.0	3841	1	2	2	0	0
+Exiguobacterium alkaliphilum	B-3531D	GCF_018138125.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Complete Genome	0.0	3074	1	1	1	0	0
+Staphylococcus agnetis	DSM 23656	GCF_002901865.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2479	0	0	0	0	0
+Salibacterium qingdaonense	CGMCC 1.6134	GCF_900114715.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3572	1	33	33	1	0
+Bhargavaea ullalensis	CCM 8429	GCF_042432615.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Scaffold	1.0	2819	1	25	30	1	0
+Exiguobacterium antarcticum	DVS_3Y	GCF_025234655.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Scaffold	1.0	2985	1	1	1	0	0
+Planomicrobium stackebrandtii	DSM 16419	GCF_030814955.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Contig	1.0	3723	1	2	2	0	0
+Sinobaca qinghaiensis	DSM 17008	GCF_003610495.1	calibration	0	Madin2020_tierA	Sporolactobacillaceae	Bacilli	Bacillales	Scaffold	1.0	3393	1	2	2	0	0
+Staphylococcus petrasii	CCM 8418	GCF_004684865.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2405	0	0	0	0	0
+Halolactibacillus halophilus	DSM 17073	GCF_900115605.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2625	0	0	0	0	0
+Salinicoccus jeotgali	JCM 16981	GCF_055379195.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2462	0	0	0	0	0
+Salisediminibacterium halotolerans	DSM 26530	GCF_003814815.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2693	1	1	1	0	0
+Lacicoccus qingdaonensis	CGMCC 1.8895	GCF_900101075.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2730	0	0	0	0	0
+Halolactibacillus alkaliphilus	CGMCC 1.6843	GCF_900115465.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2659	1	23	26	0	1
+Jeotgalicoccus coquinae	CIP 111751	GCF_903994065.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2209	0	0	0	0	0
+Bhargavaea ginsengi	CGMCC 1.6763	GCF_900109165.1	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Scaffold	1.0	3109	1	26	31	1	0
+Halolactibacillus miurensis	DSM 17074	GCF_900116255.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3014	1	26	28	1	0
+Calditerricola satsumensis	JCM 14719	GCF_054654215.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	2475	1	32	32	1	0
+Exiguobacterium profundum	CCUG 50949	GCF_042652865.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Contig	1.0	2899	1	1	1	0	0
+Gemelliphila asaccharolytica	KA00071	GCF_001553005.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Scaffold	0.0	1193	0	0	0	0	0
+Salinicoccus siamensis	JCM 12822	GCF_055391965.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2206	0	0	0	0	0
+Nosocomiicoccus ampullae	DSM 19163	GCF_019357495.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	1551	0	0	0	0	0
+Calditerricola yamamurae	JCM 14720	GCF_054654135.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	2399	1	32	32	1	0
+Staphylococcus devriesei	CCUG 58238	GCF_002902625.1	calibration	0	Madin2020_tierA	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2396	0	0	0	0	0
+Marinococcus tarijensis	LMG 26930	GCF_054971385.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3427	1	1	1	0	0
+Planococcus plakortidis	DSM 23997	GCF_001687605.2	calibration	0	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Complete Genome	1.0	3252	1	1	1	0	0
+Geomicrobium halophilum	DSM 21769	GCF_014207655.1	calibration	0	Madin2020_tierA		Bacilli	Bacillales	Scaffold	1.0	3468	1	33	33	1	0
+Streptohalobacillus salinus	DSM 22440	GCF_003201605.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2309	0	0	0	0	0
+Salimicrobium flavidum	DSM 23127	GCF_900156645.1	calibration	0	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2898	0	0	1	0	0
+Staphylococcus aureus	DSM 20231	GCF_026167765.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2503	0	0	0	0	0
+Staphylococcus hominis	NCTC 11320	GCF_900458635.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Contig	1.0	2175	0	0	0	0	0
+Macrococcoides caseolyticum	FDAARGOS_868	GCF_016028795.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2286	0	0	0	0	0
+Staphylococcus haemolyticus	ATCC 29970	GCF_006094395.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2419	0	0	0	0	0
+Staphylococcus epidermidis	ATCC 14990	GCF_006094375.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2260	0	0	0	0	0
+Staphylococcus saprophyticus	NCTC 7292	GCF_002902025.2	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2552	0	0	0	0	0
+Listeria ivanovii	ATCC 19119	GCF_041222755.1	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	2808	0	0	0	0	0
+Staphylococcus lugdunensis	NCTC12217	GCF_900478255.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2346	0	0	0	0	0
+Listeria innocua	H0996	GCF_017363655.2	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	2737	0	0	0	0	0
+Staphylococcus carnosus	FDAARGOS_1204	GCF_016890025.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Complete Genome	1.0	2634	0	0	0	0	0
+Listeria monocytogenes	NCTC10357	GCF_900187225.1	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	2777	0	0	0	0	0
+Listeria grayi	NCTC 10812	GCF_900638015.1	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	2657	0	0	0	0	0
+Listeria welshimeri	NCTC11857	GCF_900187315.1	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Complete Genome	1.0	2778	0	0	0	0	0
+Listeria seeligeri	NCAIM B.01873	GCF_042434655.1	calibration	0	Madin2020_tierB	Listeriaceae	Bacilli	Bacillales	Scaffold	1.0	2699	0	0	0	0	0
+Staphylococcus pasteuri	DSM 10656	GCF_003970495.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Scaffold	1.0	2409	0	0	0	0	0
+Staphylococcus capitis	NCTC11045	GCF_901482635.1	calibration	0	Madin2020_tierB	Staphylococcaceae	Bacilli	Bacillales	Contig	1.0	2405	0	0	0	0	0
+Kurthia massiliensis	JC30	GCF_000285555.1	calibration	0	Madin2020_tierB	Planococcaceae	Bacilli	Bacillales	Scaffold	1.0	3246	1	1	1	0	0
+Amphibacillus jilinensis Y1	Y1	GCF_000306965.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3594	1	33	33	1	0
+Paenibacillus fonticola DSM 21315	DSM 21315	GCF_000381905.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	5639	1	33	33	1	0
+Caldibacillus debilis DSM 16016	DSM 16016	GCF_000383875.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2806	1	33	33	1	0
+Paenibacillus massiliensis 2301065 = DSM 16942	DSM 16942	GCF_000377505.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	5496	1	31	33	1	0
+Paenibacillus terrigena DSM 21567	DSM 21567	GCF_000374845.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	5817	1	33	33	1	0
+Evansella cellulosilytica DSM 2522	DSM 2522	GCF_000177235.2	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Complete Genome	1.0	4327	1	33	33	1	0
+Paenibacillus ginsengihumi DSM 21568	DSM 21568	GCF_000380965.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	5090	1	33	33	1	0
+Paenibacillus sanguinis 2301083 = DSM 16941	DSM 16941	GCF_000374825.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4401	1	33	33	1	0
+Gracilibacillus lacisalsi DSM 19029	DSM 19029	GCF_000377765.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4278	1	32	33	1	0
+Siminovitchia fordii DSM 16014 = CIP 108821	DSM 16014	GCF_000374565.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4357	1	32	32	1	0
+Thermobacillus composti KWC4	KWC4	GCF_000227705.2	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Complete Genome	1.0	4014	1	32	33	1	0
+Bacillus safensis	FUA2117	GCF_039619585.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Complete Genome	0.0	3684	1	33	33	1	0
+Alteribacter aurantiacus DSM 18675	DSM 18675	GCF_000429705.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3964	1	33	33	1	0
+Fictibacillus gelatini DSM 15865	DSM 15865	GCF_000430745.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4320	1	33	33	1	0
+Alkalicoccus chagannorensis DSM 18086	DSM 18086	GCF_000429725.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3366	1	2	2	0	0
+Saccharibacillus kuerlensis	CGMCC 1.6964	GCF_014645255.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4062	1	2	2	0	0
+Halobacillus kuroshimensis DSM 18393	DSM 18393	GCF_000425705.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3935	1	32	33	1	0
+Paenibacillus terrae HPL-003	HPL-003	GCF_000235585.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Complete Genome	0.0	5446	1	33	33	1	0
+Paenibacillus riograndensis SBR5		GCF_000981585.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Complete Genome	1.0	6705	1	32	33	1	0
+Salibacterium aidingense DSM 18341	DSM 18341	GCF_000429685.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4415	1	33	33	1	0
+Salsuginibacillus kocurii DSM 18087	DSM 18087	GCF_000377705.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3625	1	33	33	1	0
+Aneurinibacillus terranovensis DSM 18919	DSM 18919	GCF_000430625.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4236	1	32	32	1	0
+Peribacillus kribbensis DSM 17871	DSM 17871	GCF_000430765.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4926	1	33	33	1	0
+Neobacillus vireti	DSM 15602	GCF_001026695.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	5148	1	33	33	1	0
+Sporolactobacillus vineae DSM 21990 = SL153	DSM 21990	GCF_000377985.1	calibration	1	Madin2020_tierA	Sporolactobacillaceae	Bacilli	Bacillales	Scaffold	1.0	2740	1	32	33	1	0
+Lentibacillus jeotgali	Grbi	GCF_000224785.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3775	1	33	33	1	0
+Bacillus cytotoxicus	DSM 22905	GCF_062040848.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	4099	1	33	33	1	0
+Alicyclobacillus contaminans DSM 17975	DSM 17975	GCF_000429525.1	calibration	1	Madin2020_tierA	Alicyclobacillaceae	Bacilli	Bacillales	Scaffold	1.0	3432	1	31	31	1	0
+Cohnella thermotolerans DSM 17683	DSM 17683	GCF_000429825.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4675	1	31	33	1	0
+Halalkalibacillus halophilus DSM 18494	DSM 18494	GCF_000423105.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2771	1	33	33	1	0
+Terribacillus aidingensis	CGMCC 1.8913	GCF_900215625.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3430	1	33	33	1	0
+Caldalkalibacillus thermarum	CGMCC 1.4242	GCF_014644735.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3353	1	33	33	1	0
+Piscibacillus salipiscarius	TISTR 1571	GCF_042685285.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3170	1	33	33	1	0
+Cohnella laeviribosi DSM 21336	DSM 21336	GCF_000378425.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4167	1	32	33	1	0
+Anoxybacillus ayderensis	DSM 14988	GCF_013761015.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	2708	1	33	33	1	0
+Cytobacillus oceanisediminis	CGMCC 1.10115	GCF_007830235.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	5521	1	33	33	1	0
+Paenibacillus pasadenensis	NBRC 101214	GCF_004001085.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Contig	1.0	4935	1	30	32	1	0
+Pontibacillus marinus BH030004 = DSM 16465	DSM 16465	GCF_000425225.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4281	1	33	33	1	0
+Paenibacillus taiwanensis DSM 18679	DSM 18679	GCF_000425125.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4641	1	33	33	1	0
+Pontibacillus halophilus JSM 076056 = DSM 19796	DSM 19796	GCF_000425205.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3738	1	33	33	1	0
+Sporosarcina newyorkensis	DSM 23966	GCF_900167515.1	calibration	1	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Scaffold	0.0	3576	1	27	30	1	0
+Heyndrickxia acidiproducens DSM 23148	DSM 23148	GCF_000374345.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3285	1	32	32	1	0
+Paenibacillus elgii	L146	GCF_029625475.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Complete Genome	0.0	6862	1	33	33	1	0
+Gracilibacillus halophilus YIM-C55.5	YIM-C55.5	GCF_000359605.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3168	1	33	33	1	0
+Solibacillus isronensis B3W22	B3W22	GCF_000298255.1	calibration	1	Madin2020_tierA	Planococcaceae	Bacilli	Bacillales	Contig	1.0	3980	1	25	29	1	0
+Neobacillus bataviensis LMG 21833	LMG 21833	GCF_000307875.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	5301	1	33	33	1	0
+Metabacillus indicus	DSM 16189	GCF_000709935.2	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	4124	1	33	33	1	0
+Caldalkalibacillus mannanilyticus	JCM 10596	GCF_055397565.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Complete Genome	1.0	4292	1	33	33	1	0
+Thalassobacillus devorans	CECT 7046	GCF_011761345.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3975	1	33	33	1	0
+Shouchella oshimensis	DSM 19099	GCF_004375095.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4042	1	32	32	1	0
+Brevibacillus panacihumi	JCM 15085	GCF_003710985.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Contig	1.0	5037	1	33	33	1	0
+Bacillus stratosphericus	KcN0-8	GCF_020524495.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	0.0	3210	1	33	33	1	0
+Paenibacillus lactis	DSM 15596	GCF_017873605.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Contig	1.0	6068	1	32	33	1	0
+Paenibacillus barengoltzii NBRC 101215	NBRC 101215	GCF_004000745.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Contig	1.0	4533	1	33	33	1	0
+Paucisalibacillus globulus DSM 18846	DSM 18846	GCF_000482485.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	4197	1	33	33	1	0
+Neobacillus novalis	FJAT-14227	GCF_001636395.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	5441	1	33	33	1	0
+Pontibacillus litoralis JSM 072002	JSM 072002	GCF_000775615.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3210	1	33	33	1	0
+Bacillus siamensis	XY18	GCF_000966575.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	3699	1	33	33	1	0
+Paenibacillus wynnii	DSM 18334	GCF_000757885.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Contig	1.0	5556	1	33	33	1	0
+Paenibacillus assamensis DSM 18201	DSM 18201	GCF_000422445.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	4422	1	32	33	1	0
+Alkalihalophilus marmarensis DSM 21297	DSM 21297	GCF_000474275.2	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	4124	1	33	33	1	0
+Lentibacillus juripiscarius	TISTR 1535	GCF_042685205.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3169	1	33	33	1	0
+Paenibacillus harenae DSM 16969	DSM 16969	GCF_000422465.1	calibration	1	Madin2020_tierA	Paenibacillaceae	Bacilli	Bacillales	Scaffold	1.0	6246	1	32	33	1	0
+Oceanobacillus neutriphilus	CGMCC 1.7693	GCF_014645515.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	5266	1	33	33	1	0
+Rossellomorea vietnamensis	HD-02	GCF_000723905.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	0.0	4640	1	33	33	1	0
+Alkalibacillus filiformis	DSM 15448	GCF_030814115.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	2847	1	32	32	1	0
+Bacillus altitudinis	NIO-1130	GCF_001457015.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Scaffold	1.0	3687	1	33	33	1	0
+Paenalicyclobacillus macrosporangiidus	DSM 17980	GCF_900116805.1	calibration	1	Madin2020_tierA	Alicyclobacillaceae	Bacilli	Bacillales	Scaffold	1.0	3825	1	31	31	1	0
+Neobacillus ginsengisoli	DSM 27594	GCF_030813055.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	5293	1	33	33	1	0
+Oceanobacillus profundus	CL-MP28	GCF_008087205.1	calibration	1	Madin2020_tierA	Bacillaceae	Bacilli	Bacillales	Contig	1.0	4567	1	33	33	1	0
+Ethanoligenens harbinense YUAN-3	YUAN-3	GCF_003020045.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2791	1	26	29	1	0
+Ruminococcus champanellensis 18P13 = JCM 17042	type strain: 18P13	GCF_000210095.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Chromosome	1.0	2356	1	26	28	1	0
+Anaerobranca californiensis DSM 14826	DSM 14826	GCF_900142275.1	calibration	0	Madin2020_tierA	Proteinivoraceae	Clostridia	Clostridiales	Contig	1.0	2089	1	31	31	1	0
+Youngiibacter fragilis 232.1	232.1	GCF_000495435.3	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3855	1	2	2	0	0
+Caloramator australicus RC3	RC3	GCF_000297115.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	2781	1	30	31	1	0
+Hespellia stercorisuis DSM 15480	DSM 15480	GCF_900142165.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	4141	1	25	28	1	0
+Stomatobaculum longum	ACC2	GCF_000242235.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	2065	0	1	1	0	0
+Proteiniborus ethanoligenes	DSM 21650	GCF_900107485.1	calibration	0	Madin2020_tierA		Clostridia	Clostridiales	Scaffold	1.0	2996	1	32	32	1	0
+Fastidiosipila sanguinis	CCUG 47711	GCF_002998295.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	1507	0	0	0	0	0
+Proteiniclasticum ruminis	CGMCC 1.5058	GCF_900099635.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	2881	1	2	2	0	0
+Hydrogenoanaerobacterium saccharovorans	CGMCC 1.5070	GCF_900110045.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2935	1	27	30	1	0
+Oribacterium sinus	DSM 17245	GCF_014202695.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	2357	0	1	1	0	0
+Thermincola carboxydiphila	DSM 17129	GCF_056856095.1	calibration	0	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	3360	1	32	32	1	0
+Brassicibacter mesophilus	DSM 24659	GCF_050433385.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	4522	1	30	30	1	0
+Butyricicoccus pullicaecorum	An180	GCF_002160355.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	0.0	2865	1	25	28	1	0
+Anaerotruncus colihominis	DSM 17241	GCF_025146135.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	3516	1	26	30	1	0
+Syntrophomonas palmitatica JCM 14374	JCM 14374	GCF_001311885.1	calibration	0	Madin2020_tierA	Syntrophomonadaceae	Clostridia	Clostridiales	Contig	1.0	2858	1	28	30	1	0
+Syntrophomonas erecta subsp. sporosyntropha	JCM 13344	GCF_055395365.1	calibration	0	Madin2020_tierA	Syntrophomonadaceae	Clostridia	Clostridiales	Complete Genome	1.0	2584	1	30	31	1	0
+Blautia faecis	JCM 17205	GCF_055380085.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	4113	1	25	28	1	0
+Caldicoprobacter guelmensis	DSM 24605	GCF_016908415.1	calibration	0	Madin2020_tierA	Caldicoprobacteraceae	Clostridia	Clostridiales	Contig	1.0	2248	1	31	31	1	0
+Oscillibacter ruminantium GH1	GH1	GCF_000307265.1	calibration	0	Madin2020_tierA	Oscillospiraceae	Clostridia	Clostridiales	Scaffold	1.0	2929	1	25	30	1	0
+Christensenella minuta	DSM 22607	GCF_003628755.1	calibration	0	Madin2020_tierA	Christensenellaceae	Clostridia	Clostridiales	Complete Genome	1.0	2810	1	2	2	0	0
+Fusibacter tunisiensis	DSM 24436	GCF_016908355.1	calibration	0	Madin2020_tierA	Clostridiales Family XII. Incertae Sedis	Clostridia	Clostridiales	Contig	1.0	2559	0	1	1	0	0
+Thermaerobacter litoralis	JCM 13210	GCF_054654595.1	calibration	0	Madin2020_tierA	Clostridiales Family XVII. Incertae Sedis	Clostridia	Clostridiales	Contig	1.0	2400	1	28	29	1	0
+Vallitalea guaymasensis	Ra1766G1	GCF_018141425.1	calibration	0	Madin2020_tierA	Defluviitaleaceae	Clostridia	Clostridiales	Complete Genome	1.0	4795	1	29	31	1	0
+Blautia stercoris	JCM 17204	GCF_054657695.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Contig	1.0	3369	1	26	30	1	0
+Fonticella tunisiensis	DSM 24455	GCF_004364155.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	2949	1	30	32	1	0
+Acetanaerobacterium elongatum	CGMCC 1.5012	GCF_900103835.1	calibration	0	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2778	1	27	30	1	0
+Fusicatenibacter saccharivorans	JCM 18507	GCF_054657675.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Contig	1.0	3540	1	26	29	1	0
+Guggenheimella bovis	OMZ 913	GCF_054492335.1	calibration	0	Madin2020_tierA	Clostridiales Family XII. Incertae Sedis	Clostridia	Clostridiales	Scaffold	1.0	1618	0	1	1	0	0
+Caloramator mitchellensis	VF08	GCF_001440545.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	2437	1	30	31	1	0
+Alkalibaculum bacchi	DSM 22112	GCF_003317055.1	calibration	0	Madin2020_tierA	Eubacteriaceae	Clostridia	Clostridiales	Scaffold	1.0	2858	1	30	31	1	0
+Thermosyntropha tengcongensis	JCM 17260	GCF_055381335.1	calibration	0	Madin2020_tierA	Syntrophomonadaceae	Clostridia	Clostridiales	Complete Genome	1.0	2221	1	31	31	1	0
+Syntrophomonas curvata	GL#14	GCF_052976825.1	calibration	0	Madin2020_tierA	Syntrophomonadaceae	Clostridia	Clostridiales	Complete Genome	0.0	2981	1	31	31	1	0
+Thermotalea metallivorans	B2-1	GCF_001562415.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	3084	1	31	31	1	0
+Howardella ureilytica	JCM 13267	GCF_054657495.1	calibration	0	Madin2020_tierA		Clostridia	Clostridiales	Contig	1.0	1475	0	1	1	0	0
+Moryella indoligenes	DSM 19659	GCF_030812885.1	calibration	0	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Contig	1.0	2326	0	1	1	0	0
+Clostridium ganghwense	HY-42-06	GCF_026735165.1	calibration	0	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3844	1	31	31	1	0
+Ruminococcus flavefaciens ATCC 19208	ATCC 19208	GCF_000518765.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	3094	1	25	29	1	0
+Roseburia intestinalis	L1 82	GCF_025151715.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	4063	1	26	30	1	0
+Dorea longicatena	DSM 13814	GCF_025150085.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	2713	1	26	30	1	0
+Symbiobacterium thermophilum IAM 14863	IAM14863	GCF_000009905.1	calibration	0	Madin2020_tierB	Symbiobacteriaceae	Clostridia	Clostridiales	Complete Genome	1.0	3297	1	30	32	1	0
+Blautia obeum ATCC 29174	ATCC 29174	GCF_025147765.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3414	1	25	28	1	0
+Ruminococcus bromii	ATCC 27255	GCF_002834225.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Contig	1.0	1989	1	25	28	1	0
+Agathobacter rectalis	VPI 0990	GCF_022453685.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3269	1	24	26	0	1
+[Ruminococcus] lactaris ATCC 29176	ATCC 29176	GCF_025152405.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2460	1	27	30	1	0
+Coprococcus comes ATCC 27758	ATCC 27758	GCF_025149785.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3172	1	27	30	1	0
+Anaerostipes hadrus	BA1	GCF_030864025.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	0.0	2784	1	26	28	1	0
+Shuttleworthella satelles DSM 14600	DSM 14600	GCF_000160115.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	1905	0	1	1	0	0
+Syntrophomonas wolfei subsp. saponavida	SD2	GCF_056726125.1	calibration	0	Madin2020_tierB	Syntrophomonadaceae	Clostridia	Clostridiales	Complete Genome	1.0	3347	1	31	31	1	0
+Syntrophothermus lipocalidus DSM 12680	DSM 12680	GCF_000092405.1	calibration	0	Madin2020_tierB	Syntrophomonadaceae	Clostridia	Clostridiales	Complete Genome	1.0	2400	1	31	31	1	0
+Dorea formicigenerans	ATCC 27755	GCF_025150245.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3013	1	27	30	1	0
+Thermaerobacter marianensis DSM 12885	DSM 12885	GCF_000184705.1	calibration	0	Madin2020_tierB	Clostridiales Family XVII. Incertae Sedis	Clostridia	Clostridiales	Complete Genome	1.0	2383	1	27	29	1	0
+Coprococcus eutactus	ATCC 27759	GCF_025149915.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	2664	1	22	24	0	1
+Faecalibacterium prausnitzii	ATCC 27768	GCF_058248305.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2788	1	21	24	0	1
+Anaerofustis stercorihominis DSM 17244	DSM 17244	GCF_000154825.1	calibration	0	Madin2020_tierB	Eubacteriaceae	Clostridia	Clostridiales	Scaffold	1.0	2236	1	21	26	0	1
+Mediterraneibacter gnavus	JCM6515	GCF_026278305.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3547	1	27	30	1	0
+Mediterraneibacter torques	CIP112193	GCF_044591705.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	0.0	2691	1	26	29	1	0
+Subdoligranulum variabile	DSM 15176	GCF_025152575.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2961	1	20	23	0	1
+Blautia hansenii DSM 20583	DSM 20583	GCF_002222595.2	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	2961	1	25	29	1	0
+Anaerovorax odorimutans DSM 5092	DSM 5092	GCF_000426305.1	calibration	0	Madin2020_tierB	Clostridiales Family XIII. Incertae Sedis	Clostridia	Clostridiales	Scaffold	1.0	2946	1	28	30	1	0
+Lachnobacterium bovis DSM 14045	DSM 14045	GCF_900107245.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	2415	0	1	1	0	0
+Butyrivibrio proteoclasticus B316	B316	GCF_000145035.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3870	0	1	1	0	0
+Blautia producta	DSM 2950	GCF_014131715.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	5781	1	26	31	1	0
+Ruminococcus callidus	ATCC 27760	GCF_049562855.1	calibration	0	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2890	1	25	29	1	0
+Peptoclostridium acidaminophilum DSM 3953	al-2	GCF_000597865.1	calibration	0	Madin2020_tierB	Peptostreptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2906	1	2	2	0	0
+Anaerostipes caccae	NBRC 114412	GCF_020181435.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	0.0	3254	1	26	30	1	0
+Blautia hydrogenotrophica DSM 10507	DSM 10507	GCF_034356035.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	3399	1	24	29	0	1
+Marvinbryantia formatexigens	I-52	GCF_900102475.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	4195	1	25	30	1	0
+Blautia wexlerae DSM 19850	DSM 19850	GCF_025148125.1	calibration	0	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	4264	1	24	27	0	1
+Desulfurispora thermophila DSM 16022	DSM 16022	GCF_000376385.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	2738	1	31	32	1	0
+Desulfotomaculum nigrificans CO-1-SRB	CO-1-SRB	GCF_000214435.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2819	1	32	32	1	0
+Acetivibrio clariflavus DSM 19732	DSM 19732	GCF_000237085.1	calibration	1	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	4217	1	31	31	1	0
+Desulfotruncus alcoholivorax DSM 16058	DSM 16058	GCF_000430885.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	3504	1	31	32	1	0
+Proteocatella sphenisci DSM 23131	DSM 23131	GCF_000423525.1	calibration	1	Madin2020_tierA	Peptostreptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2291	0	1	1	0	0
+Carboxydocella thermautotrophica	041T	GCF_003054495.1	calibration	1	Madin2020_tierA	Clostridiales Family XVI. Incertae Sedis	Clostridia	Clostridiales	Complete Genome	1.0	2770	1	29	31	1	0
+Desulfosporosinus youngiae DSM 17734	DSM 17734	GCF_000244895.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Chromosome	1.0	5286	1	31	32	1	0
+Thermoclostridium caenicola	DSM 19027	GCF_900142095.1	calibration	1	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2617	1	26	29	1	0
+Sporacetigenium mesophilum DSM 16796	DSM 16796	GCF_059569055.1	calibration	1	Madin2020_tierA	Peptostreptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2984	1	30	31	1	0
+Clostridium tepidiprofundi DSM 19306	DSM 19306	GCF_001594005.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	2860	1	31	31	1	0
+Anaerosporobacter mobilis DSM 15930	DSM 15930	GCF_900142955.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	4589	1	28	31	1	0
+Clostridium hydrogeniformans DSM 21757	DSM 21757	GCF_000686705.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3749	1	32	32	1	0
+Desulfotruncus arcticus DSM 17038	DSM 17038	GCF_900113335.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	5096	1	31	32	1	0
+Tepidibacter formicigenes DSM 15518	DSM 15518	GCF_900142235.1	calibration	1	Madin2020_tierA	Peptostreptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2719	1	30	30	1	0
+Ruminiclostridium sufflavum DSM 19573	DSM 19573	GCF_003208175.1	calibration	1	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	3709	1	30	30	1	0
+Clostridiisalibacter paucivorans DSM 22131	DSM 22131	GCF_000620125.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3180	1	30	31	1	0
+Lutispora thermophila DSM 19022	DSM 19022	GCF_900142105.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3454	1	30	30	1	0
+Clostridium cavendishii DSM 21758	DSM 21758	GCF_900141845.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	4498	1	32	32	1	0
+Desulfosporosinus hippei DSM 8344	DSM 8344	GCF_900100785.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Scaffold	1.0	4599	1	30	31	1	0
+Geosporobacter subterraneus DSM 17957	DSM 17957	GCF_900142145.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3823	1	31	31	1	0
+Cellulosilyticum ruminicola JCM 14822	JCM 14822	GCF_001311925.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Contig	1.0	4112	1	23	25	0	1
+Anaerocolumna jejuensis DSM 15929	DSM 15929	GCF_900142215.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	5714	1	29	31	1	0
+Sulfobacillus thermotolerans	AMEE	GCF_039623705.1	calibration	1	Madin2020_tierA	Clostridiales Family XVII. Incertae Sedis	Clostridia	Clostridiales	Complete Genome	0.0	3248	1	25	25	1	0
+Acetivibrio straminisolvens	JCM 21531	GCF_055386145.1	calibration	1	Madin2020_tierA	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	3473	1	31	31	1	0
+Clostridium nitrophenolicum	JCM 14030	GCF_055391695.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	5294	1	32	32	1	0
+Lachnoanaerobaculum orale	DSM 24553	GCF_003862485.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	2578	0	1	1	0	0
+Clostridium arbusti SL206	SL206	GCF_000246895.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	3704	1	32	32	1	0
+Robinsoniella peoriensis	CCUG 48729	GCF_042680125.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	6257	1	27	31	1	0
+Caloramator quimbayensis	USBA 833	GCF_900167605.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	0.0	3006	1	30	31	1	0
+Enterocloster lavalensis	KCTC 15153	GCF_003024655.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Contig	1.0	5836	1	27	30	1	0
+Clostridium aestuarii	HY-45-18	GCF_026735135.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	3258	1	31	31	1	0
+Desulfotomaculum defluvii	JCM 14036	GCF_054657375.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	3601	1	32	32	1	0
+Lachnoanaerobaculum umeaense	DSM 23576 = CCUG 58757	GCF_003589745.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	2575	0	1	1	0	0
+Clostridium aciditolerans	DSM 17425	GCF_056033985.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	5004	1	32	32	1	0
+Paradesulfitobacterium aromaticivorans	JCM 15765	GCF_054657415.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	4568	1	31	32	1	0
+Clostridium lundense DSM 17049	DSM 17049	GCF_000619945.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	4537	1	32	32	1	0
+Clostridium sulfidigenes	HCP1S3_A5	GCF_052067195.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	0.0	3698	1	31	31	1	0
+Intestinimonas butyriciproducens	SRB-521-5-I	GCF_004154955.1	calibration	1	Madin2020_tierA		Clostridia	Clostridiales	Complete Genome	1.0	3134	1	26	29	1	0
+Desulfolucanica intricata	NBRC 109411	GCF_001592105.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	2999	1	31	31	1	0
+Pelotomaculum propionicicum	MGP	GCF_004369225.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	3913	1	32	32	1	0
+Peptostreptococcus stomatis DSM 17678	DSM 17678	GCF_000147675.1	calibration	1	Madin2020_tierA	Peptostreptococcaceae	Clostridia	Clostridiales	Contig	1.0	1830	0	1	1	0	0
+Clostridium tagluense	A121	GCF_003865095.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	4997	1	30	30	1	0
+Clostridium amylolyticum	DSM 21864	GCF_900142075.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Scaffold	1.0	4010	1	32	32	1	0
+Defluviitalea saccharophila	JCM 16312	GCF_055391295.1	calibration	1	Madin2020_tierA	Defluviitaleaceae	Clostridia	Clostridiales	Complete Genome	1.0	2809	1	31	31	1	0
+Pelotomaculum schinkii	HH	GCF_004369205.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	4205	1	32	32	1	0
+Desulfosporosinus burensis	JCM 17380	GCF_054657535.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Contig	1.0	5617	1	30	31	1	0
+Tepidibacter mesophilus	JCM 16806	GCF_002724055.1	calibration	1	Madin2020_tierA	Peptostreptococcaceae	Clostridia	Clostridiales	Contig	1.0	3181	1	30	31	1	0
+Sporosalibacterium faouarense	SOL3f37	GCF_016765695.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	3982	1	31	31	1	0
+Desulfovectis peckii	JCM 17209	GCF_055391705.1	calibration	1	Madin2020_tierA	Peptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2305	1	32	32	1	0
+Anaerostipes butyraticus	JCM 17466	GCF_042434865.1	calibration	1	Madin2020_tierA	Lachnospiraceae	Clostridia	Clostridiales	Scaffold	1.0	3156	1	26	28	1	0
+Syntrophomonas zehnderi OL-4	OL-4	GCF_000983115.1	calibration	1	Madin2020_tierA	Syntrophomonadaceae	Clostridia	Clostridiales	Scaffold	1.0	2772	1	29	29	1	0
+Fervidicella metallireducens AeB	AeB	GCF_000601455.1	calibration	1	Madin2020_tierA	Clostridiaceae	Clostridia	Clostridiales	Contig	1.0	2992	1	31	31	1	0
+Acetoanaerobium sticklandii	DSM 519	GCF_000196455.1	calibration	1	Madin2020_tierB	Peptostreptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2556	0	1	1	0	0
+Paraclostridium sordellii	ATCC 9714	GCF_000953675.1	calibration	1	Madin2020_tierB	Peptostreptococcaceae	Clostridia	Clostridiales	Chromosome	1.0	3434	1	31	32	1	0
+Cellulosilyticum lentocellum DSM 5427	DSM 5427	GCF_000178835.2	calibration	1	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	4258	1	28	30	1	0
+Clostridium kluyveri DSM 555	DSM 555	GCF_000016505.1	calibration	1	Madin2020_tierB	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	3973	1	31	31	1	0
+Ruminiclostridium cellulolyticum H10	H10	GCF_000022065.1	calibration	1	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	3513	1	30	30	1	0
+Thermoclostridium stercorarium subsp. leptospartum DSM 9219	DSM 9219	GCF_001697285.1	calibration	1	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2772	1	27	29	1	0
+[Clostridium] asparagiforme DSM 15981	DSM 15981	GCF_025149125.1	calibration	1	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	1.0	5552	1	27	31	1	0
+Clostridium carboxidivorans P7	P7	GCF_001038625.1	calibration	1	Madin2020_tierB	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	5197	1	32	32	1	0
+Alkaliphilus oremlandii OhILAs	OhILAs	GCF_000018325.1	calibration	1	Madin2020_tierB	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	2980	1	30	31	1	0
+[Clostridium] symbiosum	LM19R	GCF_040267475.1	calibration	1	Madin2020_tierB	Lachnospiraceae	Clostridia	Clostridiales	Complete Genome	0.0	4712	1	26	31	1	0
+Acetivibrio thermocellus ATCC 27405	ATCC 27405	GCF_000015865.1	calibration	1	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	3398	1	31	31	1	0
+Clostridium beijerinckii	DSM 15410	GCF_008705175.1	calibration	1	Madin2020_tierB	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	5166	1	32	32	1	0
+Intestinibacter bartlettii	DSM 16795	GCF_025148965.1	calibration	1	Madin2020_tierB	Peptostreptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	2668	1	30	32	1	0
+Ruminiclostridium papyrosolvens DSM 2782	DSM 2782	GCF_029318685.1	calibration	1	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	4321	1	31	31	1	0
+Clostridium pasteurianum DSM 525 = ATCC 6013	ATCC 6013	GCF_001856645.1	calibration	1	Madin2020_tierB	Clostridiaceae	Clostridia	Clostridiales	Complete Genome	1.0	3996	1	32	32	1	0
+Desulfofarcimen acetoxidans DSM 771	DSM 771	GCF_000024205.1	calibration	1	Madin2020_tierB	Peptococcaceae	Clostridia	Clostridiales	Complete Genome	1.0	4300	1	31	31	1	0
+Clostridioides difficile	FDAARGOS_1525	GCF_020341515.1	calibration	1	Madin2020_tierB	Peptostreptococcaceae	Clostridia	Clostridiales	Chromosome	1.0	3883	1	30	32	1	0
+Faecalispora sporosphaeroides DSM 1294	VPI 4527	GCF_000383295.1	calibration	1	Madin2020_tierB	Ruminococcaceae	Clostridia	Clostridiales	Scaffold	1.0	2958	1	26	30	1	0
+Mesoplasma florum L1	L1; ATCC 33453	GCF_000008305.1	calibration	0	Madin2020_tierB	Entomoplasmataceae	Mollicutes	Entomoplasmatales	Complete Genome	1.0	686	0	0	0	0	0
+Spiroplasma melliferum KC3	KC3	GCF_000236085.2	calibration	0	Madin2020_tierB	Spiroplasmataceae	Mollicutes	Entomoplasmatales	Contig	0.0	1303	0	0	0	0	0
+Spiroplasma mirum	GNAT3597	GCF_001029245.1	calibration	0	Madin2020_tierB	Spiroplasmataceae	Mollicutes	Entomoplasmatales	Complete Genome	1.0	1275	0	0	0	0	0
+Spiroplasma eriocheiris	DSM 21848	GCF_001029265.1	calibration	0	Madin2020_tierB	Spiroplasmataceae	Mollicutes	Entomoplasmatales	Complete Genome	1.0	1239	0	0	0	0	0
+Erysipelothrix inopinata	DSM 15511	GCF_014396165.1	calibration	0	Madin2020_tierA	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	2092	0	0	0	0	0
+Erysipelothrix rhusiopathiae	NCTC8163	GCF_900637845.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	1646	0	0	0	0	0
+Turicibacter sanguinis	MOL361	GCF_013046825.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	2785	1	26	29	1	0
+Holdemania filiformis	AF24-29	GCF_003459085.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	0.0	3435	1	15	19	0	0
+Bulleidia extructa W1219	W1219	GCF_000177375.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Contig	1.0	1416	0	0	0	0	0
+Allobaculum stercoricanis DSM 13633	DSM 13633	GCF_000384195.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	1.0	1738	0	0	0	0	0
+Catenibacterium mitsuokai	DSM 15897	GCF_025148785.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	2593	0	1	1	0	0
+Holdemania massiliensis	k38-0107-A5	GCF_042853155.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	0.0	3689	1	15	20	0	0
+Amedibacillus dolichus DSM 3991	DSM 3991	GCF_000154285.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	1.0	2162	1	14	18	0	0
+Faecalitalea cylindroides	1028st1_G4_1028SCRN_200821	GCF_028321995.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	0.0	1877	0	0	0	0	0
+Dielma fastidiosa	type strain: JC13	GCF_000313565.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	1.0	3537	1	16	20	0	0
+Eggerthia catenaformis OT 569 = DSM 20559	OT 569	GCF_000340375.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	1.0	1906	0	1	1	0	0
+Solobacterium moorei	JCM10645	GCF_036323475.1	calibration	0	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	2569	0	0	0	0	0
+Thomasclavelia spiroformis DSM 1552	DSM 1552	GCF_025149465.1	calibration	1	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	2349	1	18	20	0	1
+Thomasclavelia ramosa	FDAARGOS_906	GCF_016027135.1	calibration	1	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Complete Genome	1.0	3039	1	19	22	0	1
+Thomasclavelia cocleata	ATCC 29902	GCF_002803405.1	calibration	1	Madin2020_tierB	Erysipelotrichaceae	Erysipelotrichia	Erysipelotrichales	Scaffold	1.0	2963	1	18	21	0	1
+Halanaerobium sehlinense	JCM 18213	GCF_055379485.1	calibration	0	Madin2020_tierA	Halanaerobiaceae	Clostridia	Halanaerobiales	Complete Genome	1.0	2741	1	2	2	0	0
+Halanaerobacter jeridensis	DSM 23230	GCF_016908315.1	calibration	0	Madin2020_tierA	Halobacteroidaceae	Clostridia	Halanaerobiales	Contig	1.0	3023	1	29	31	1	0
+Halanaerobium hydrogeniformans	sapolanicus	GCF_000166415.1	calibration	0	Madin2020_tierB	Halanaerobiaceae	Clostridia	Halanaerobiales	Complete Genome	0.0	2426	1	2	2	0	0
+Halanaerobium praevalens DSM 2228	DSM 2228	GCF_000165465.1	calibration	0	Madin2020_tierB	Halanaerobiaceae	Clostridia	Halanaerobiales	Complete Genome	1.0	2119	1	2	2	0	0
+Halobacteroides halobius DSM 5150	DSM 5150	GCF_000328625.1	calibration	0	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Complete Genome	1.0	2549	1	30	31	1	0
+Acetohalobium arabaticum DSM 5501	DSM 5501	GCF_000144695.1	calibration	0	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Complete Genome	1.0	2353	1	31	32	1	0
+Fuchsiella alkaliacetigena	Z-7100	GCF_023227765.1	calibration	1	Madin2020_tierA	Halobacteroidaceae	Clostridia	Halanaerobiales	Contig	1.0	2724	1	30	30	1	0
+Halonatronum saccharophilum DSM 13868	DSM 13868	GCF_000517025.1	calibration	1	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Scaffold	1.0	2704	1	31	31	1	0
+Orenia metallireducens	Z6	GCF_001693735.1	calibration	1	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Scaffold	1.0	3267	1	31	31	1	0
+Orenia marismortui DSM 5156	DSM 5156	GCF_000379025.1	calibration	1	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Scaffold	1.0	3200	1	29	30	1	0
+Natroniella acetigena	Z-7937	GCF_023227745.1	calibration	1	Madin2020_tierB	Halobacteroidaceae	Clostridia	Halanaerobiales	Contig	1.0	2524	1	30	30	1	0
+Streptococcus oralis	FDAARGOS_1020	GCF_016127555.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	1793	0	0	0	0	0
+Streptococcus merionis	NCTC13788	GCF_900187085.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2150	0	0	0	0	0
+Bavariicoccus seileri WCC 4188	DSM 19936	GCF_000421665.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	2134	0	0	0	0	0
+Lactobacillus amylovorus DSM 20531	DSM 20531	GCF_002706375.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2198	0	0	0	0	0
+Atopococcus tabaci DSM 17538	DSM 17538	GCF_000429585.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Scaffold	1.0	2356	0	0	0	0	0
+Furfurilactobacillus rossiae	L1	GCF_013394005.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	0.0	2602	0	0	0	0	0
+Ligilactobacillus ceti DSM 22408	DSM 22408	GCF_000423245.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	1279	0	0	0	0	0
+Streptococcus anginosus	NCTC10713	GCF_900636475.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	1869	0	0	0	0	0
+Lacticigenium naphthae DSM 19658	DSM 19658	GCF_000425865.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Scaffold	1.0	1972	0	0	0	0	0
+Streptococcus massiliensis	NCTC13765	GCF_900459365.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	1964	0	0	0	0	0
+Streptococcus constellatus	FDAARGOS_1156	GCF_016725005.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	1802	0	0	0	0	0
+Ligilactobacillus saerimneri	M-11	GCF_036689625.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	0.0	1515	0	0	0	0	0
+Fructobacillus pseudoficulneus	DSM 15468	GCF_900108455.1	calibration	0	Madin2020_tierA	Leuconostocaceae	Bacilli	Lactobacillales	Scaffold	1.0	1336	0	0	0	0	0
+Catellicoccus marimammalium	CIP108575T	GCF_965139335.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	1201	0	0	0	0	0
+Streptococcus porci	SS1832	GCF_053203825.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	2291	0	0	0	0	0
+Companilactobacillus paralimentarius	DSM 13238	GCF_009764345.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2750	0	0	0	0	0
+Lactobacillus ultunensis	Kx293C1	GCF_016647595.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	0.0	2188	0	0	0	0	0
+Secundilactobacillus similis DSM 23365 = JCM 2765	JCM 2765	GCF_039538585.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	3125	0	0	0	0	0
+Pseudolactococcus chungangensis	SS1827	GCF_053759665.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	2166	0	0	0	0	0
+Fructobacillus durionis	CCUG 49949	GCF_042652945.1	calibration	0	Madin2020_tierA	Leuconostocaceae	Bacilli	Lactobacillales	Scaffold	1.0	1264	0	0	0	0	0
+Streptococcus castoreus	SS1780	GCF_053207225.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	1812	0	0	0	0	0
+Secundilactobacillus kimchicus JCM 15530	JCM 15530	GCF_001433995.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2537	0	0	0	0	0
+Pilibacter termitis	ATCC BAA-1030	GCF_900167335.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Scaffold	1.0	2601	0	0	0	0	0
+Paucilactobacillus hokkaidonensis	DSM 26202	GCF_001437505.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2304	0	0	0	0	0
+Schleiferilactobacillus shenzhenensis LY-73	LY-73	GCF_000469325.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	3043	0	0	0	0	0
+Sharpea azabuensis DSM 18934	DSM 18934	GCF_000702165.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2396	0	1	1	0	0
+Secundilactobacillus oryzae JCM 18671	JCM 18671	GCF_055396815.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	1.0	1983	0	0	0	0	0
+Streptococcus marimammalium	SS1778	GCF_053205425.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	1442	0	0	0	0	0
+Enterococcus italicus	SS1773	GCF_053761085.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	2240	0	0	0	0	0
+Weissella oryzae SG25	SG25	GCF_000691805.2	calibration	0	Madin2020_tierA	Leuconostocaceae	Bacilli	Lactobacillales	Scaffold	1.0	2220	0	0	0	0	0
+Lacticaseibacillus nasuensis JCM 17158	JCM 17158	GCF_001434705.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2154	0	0	0	0	0
+Leuconostoc miyukkimchii	JCM 17445	GCF_019656055.1	calibration	0	Madin2020_tierA	Leuconostocaceae	Bacilli	Lactobacillales	Contig	1.0	1872	0	0	0	0	0
+Streptococcus halichoeri	CCUG48324	GCF_009870755.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	1705	0	0	0	0	0
+Tetragenococcus koreensis	KCTC 3924	GCF_003795145.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2583	0	0	0	0	0
+Alkalibacterium pelagium	DSM 19183	GCF_900109325.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Scaffold	1.0	2436	0	0	0	0	0
+Lactobacillus pasteurii	DSM 23907	GCF_004354755.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	1815	0	0	0	0	0
+Vagococcus acidifermentans	LMG 24798	GCF_003987655.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	2760	0	0	0	0	0
+Pediococcus cellicola	CGMCC 1.3787	GCF_042657445.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	1961	0	0	0	0	0
+Vagococcus penaei	CD276T	GCF_001998885.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2236	0	0	0	0	0
+Periweissella beninensis	DSM 22752	GCF_016908275.1	calibration	0	Madin2020_tierA	Leuconostocaceae	Bacilli	Lactobacillales	Contig	1.0	1796	0	0	0	0	0
+Lacticaseibacillus songhuajiangensis	7-19	GCF_003946025.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2397	0	0	0	0	0
+Liquorilactobacillus ghanensis DSM 18630	DSM 18630	GCF_001435235.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2431	0	0	0	0	0
+Streptococcus troglodytae	TKU 31	GCF_002355215.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2091	0	0	0	0	0
+Alkalibacterium indicireducens	JCM 14232	GCF_039522005.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Scaffold	1.0	2376	0	0	0	0	0
+Alkalibacterium kapii	NBRC 103247	GCF_007988865.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Contig	1.0	1860	0	0	0	0	0
+Lapidilactobacillus concavus	NBRC 106101	GCF_007989025.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	1770	0	0	0	0	0
+Levilactobacillus paucivorans	DSM 22467	GCF_001437125.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2285	0	0	0	0	0
+Levilactobacillus namurensis	CCUG 52843	GCF_042678765.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2238	0	0	0	0	0
+Streptococcus dentapri	CCUG 58728	GCF_042649885.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Scaffold	0.0	1895	0	0	0	0	0
+Limosilactobacillus secaliphilus	DSM 17896	GCF_001437055.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	1511	0	0	0	0	0
+Secundilactobacillus odoratitofui DSM 19909 = JCM 15043	DSM 19909	GCF_001434895.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2432	0	0	0	0	0
+Liquorilactobacillus aquaticus DSM 21051	DSM 21051	GCF_001436755.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2236	0	0	0	0	0
+Streptococcus dentasini	SS1924	GCF_053206945.1	calibration	0	Madin2020_tierA	Streptococcaceae	Bacilli	Lactobacillales	Contig	1.0	2101	0	0	0	0	0
+Companilactobacillus nodensis DSM 19682 = JCM 14932 = NBRC 107160	DSM 19682	GCF_001435555.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2663	0	0	0	0	0
+Companilactobacillus nantensis	NBRC 107153	GCF_007991935.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2767	0	0	0	0	0
+Liquorilactobacillus oeni DSM 19972	DSM 19972	GCF_001436275.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2007	0	0	0	0	0
+Enterococcus lactis	LMG 25958	GCF_015904215.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Scaffold	1.0	2883	0	0	0	0	0
+Lactobacillus gigeriorum DSM 23908 = CRBIP 24.85	DSM 23908	GCF_001436575.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	1913	0	0	0	0	0
+Enterococcus camelliae	TISTR 932	GCF_042685105.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Scaffold	1.0	2274	0	0	0	0	0
+Pediococcus argentinicus	DSM 23026	GCF_001437605.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	1806	0	0	0	0	0
+Marinilactibacillus piezotolerans	DSM 16108	GCF_900114235.1	calibration	0	Madin2020_tierA	Carnobacteriaceae	Bacilli	Lactobacillales	Scaffold	1.0	2475	0	0	0	0	0
+Ligilactobacillus apodemi DSM 16634 = JCM 16172	DSM 16634	GCF_001434405.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2066	0	0	0	0	0
+Lacticaseibacillus saniviri	TDH-8	GCF_054452875.2	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	0.0	2581	0	0	0	0	0
+Levilactobacillus zymae	LMG 22198	GCF_963243745.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Complete Genome	1.0	2493	0	0	0	0	0
+Enterococcus alcedinis	CCM 8433	GCF_042662065.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	2868	0	0	0	0	0
+Levilactobacillus yonginensis	JCM 18023	GCF_003946265.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Contig	1.0	2474	0	0	0	0	0
+Enterococcus thailandicus	SS1828	GCF_053760165.1	calibration	0	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	2585	0	0	0	0	0
+Lactiplantibacillus xiangfangensis	LMG 26013	GCF_001438845.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2812	0	0	0	0	0
+Limosilactobacillus antri DSM 16041	DSM 16041	GCF_000160835.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	2157	0	0	0	0	0
+Lactobacillus kalixensis DSM 16043	DSM 16043	GCF_001434335.1	calibration	0	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Scaffold	1.0	1976	0	0	0	0	0
+Enterococcus termitis	DSM 22803	GCF_001886275.1	calibration	1	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Scaffold	1.0	3939	0	0	0	0	0
+Liquorilactobacillus hordei DSM 19519	DSM 19519	GCF_019443985.1	calibration	1	Madin2020_tierA	Lactobacillaceae	Bacilli	Lactobacillales	Chromosome	1.0	2389	0	0	0	0	0
+Enterococcus silesiacus	SS1792	GCF_053760225.1	calibration	1	Madin2020_tierA	Enterococcaceae	Bacilli	Lactobacillales	Contig	1.0	3651	0	0	0	0	0
+Mycoplasmoides genitalium	G37	GCF_040556925.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	527	0	0	0	0	0
+Mycoplasmoides gallisepticum	NCTC10115	GCF_900476085.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	778	0	0	0	0	0
+Mesomycoplasma hyopneumoniae J	J	GCF_000008205.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	695	0	0	0	0	0
+Mycoplasma suis str. Illinois	Illinois	GCF_000179035.2	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	866	0	0	0	0	0
+Mycoplasma yeatsii	DSM 22019	GCF_030815295.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Contig	1.0	779	0	0	0	0	0
+Mycoplasmopsis synoviae	NCTC10124	GCF_900475235.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	743	0	0	0	0	0
+Mycoplasmopsis fermentans PG18	PG18	GCF_000209735.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Chromosome	1.0	899	0	0	0	0	0
+Mycoplasmopsis agalactiae PG2	PG2	GCF_000063605.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	777	0	0	0	0	0
+Mycoplasma mycoides subsp. mycoides SC str. PG1	PG1	GCF_000011445.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	1149	0	0	0	0	0
+Mycoplasmopsis pulmonis	NCTC10139	GCF_900660575.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	761	0	0	0	0	0
+Mycoplasma crocodyli MP145	MP145	GCF_000025845.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	757	0	0	0	0	0
+Mycoplasma wenyonii str. Massachusetts	Massachusetts	GCF_000277795.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	718	0	0	0	0	0
+Metamycoplasma hominis ATCC 23114	ATCC 23114	GCF_000085865.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	560	0	0	0	0	0
+Mycoplasma putrefaciens	NCTC10155	GCF_900476175.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	698	0	0	0	0	0
+Metamycoplasma arthritidis	NCTC10162	GCF_900660715.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	611	0	0	0	0	0
+Mycoplasma mobile 163K	163K	GCF_000008365.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	660	0	0	0	0	0
+Mesomycoplasma conjunctivae	HRC/581T (NCTC10147)	GCF_000026765.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Chromosome	1.0	673	0	0	0	0	0
+Malacoplasma penetrans	GTU-54-6A1	GCF_062057553.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	1056	0	0	0	0	0
+Mesomycoplasma flocculare ATCC 27399	Ms42	GCF_000815065.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	596	0	0	0	0	0
+Mesomycoplasma hyorhinis	NCTC10130	GCF_900476065.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	756	0	0	0	0	0
+Mycoplasma capricolum subsp. capripneumoniae	F38 = NCTC 10192T	GCF_000953375.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	999	0	0	0	0	0
+Mesomycoplasma ovipneumoniae ATCC 29419	Y98	GCF_028885435.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	764	0	0	0	0	0
+Mycoplasmopsis bovis PG45	PG45	GCF_000183385.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	837	0	0	0	0	0
+Ureaplasma diversum	ATCC 49782	GCF_000941095.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Chromosome	0.0	741	0	0	0	0	0
+Mycoplasmopsis canis	NCTC10146	GCF_900660585.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	795	0	0	0	0	0
+Ureaplasma urealyticum serovar 8 str. ATCC 27618	ATCC 27618	GCF_000169535.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Contig	1.0	668	0	0	0	0	0
+Ureaplasma parvum serovar 3 str. ATCC 27815	ATCC 27815	GCF_000019345.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	608	0	0	0	0	0
+Metamycoplasma faucium	UMCG-MFM1	GCF_045160055.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	0.0	691	0	0	0	0	0
+Mycoplasmopsis agassizii	PS6	GCF_002272945.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Scaffold	1.0	1004	0	0	0	0	0
+Mycoplasmopsis arginini	NCTC 10129	GCF_900660725.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	652	0	0	0	0	0
+Metamycoplasma auris	ATCC 51348	GCF_003253435.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Scaffold	1.0	657	0	0	0	0	0
+Mycoplasmopsis bovigenitalium	NCTC10122	GCF_900660525.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	703	0	0	0	0	0
+Mesomycoplasma bovoculi M165/69	M165/69	GCF_000524555.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	593	0	0	0	0	0
+Mycoplasmopsis californica	ST-6	GCF_000695835.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	641	0	0	0	0	0
+Mycoplasma leachii PG50	PG50	GCF_000183365.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	886	0	0	0	0	0
+Mycoplasmopsis cynos	NCTC10142	GCF_900660545.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	912	0	0	0	0	0
+Mycoplasma testudineum	BH29	GCF_002245785.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Scaffold	1.0	803	0	0	0	0	0
+Metamycoplasma hyosynoviae	ATCC 25591	GCF_004365165.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Scaffold	1.0	682	0	0	0	0	0
+Mycoplasmopsis verecunda	107	GCF_033546915.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	692	0	0	0	0	0
+Metamycoplasma salivarium	NCTC10113	GCF_900660445.2	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	622	0	0	0	0	0
+Metamycoplasma alkalescens	NCTC10135	GCF_900476125.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	655	0	0	0	0	0
+Metamycoplasma orale	NCTC10112	GCF_900660435.1	calibration	0	Madin2020_tierB	Mycoplasmataceae	Mollicutes	Mycoplasmatales	Complete Genome	1.0	686	0	0	0	0	0
+Natranaerobius trueperi	DSM 18760	GCF_002216005.1	calibration	0	Madin2020_tierA	Natranaerobiaceae	Clostridia	Natranaerobiales	Contig	1.0	2608	1	31	31	1	0
+Selenomonas bovis DSM 23594	DSM 23594	GCF_000381005.1	calibration	0	Madin2020_tierA	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2510	0	1	1	0	0
+Megamonas funiformis	JCM 14723	GCF_010669225.1	calibration	0	Madin2020_tierA	Selenomonadaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	2523	0	1	1	0	0
+Thermosinus carboxydivorans Nor1	Nor1	GCF_000169155.1	calibration	0	Madin2020_tierA	Sporomusaceae	Negativicutes	Selenomonadales	Contig	1.0	2886	1	32	32	1	0
+Pectinatus haikarae	DSM 16980	GCF_030813505.1	calibration	0	Madin2020_tierA	Selenomonadaceae	Negativicutes	Selenomonadales	Contig	1.0	2861	0	1	1	0	0
+Pectinatus sottacetonis	MB620	GCF_015732155.1	calibration	0	Madin2020_tierA	Selenomonadaceae	Negativicutes	Selenomonadales	Contig	1.0	2432	0	1	1	0	0
+Pectinatus brassicae	DSM 24661	GCF_014201835.1	calibration	0	Madin2020_tierA	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2726	0	1	1	0	0
+Centipeda flueggei ATCC 43531	ATCC 43531	GCF_000160695.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2044	0	1	1	0	0
+Centipeda artemidis DSM 19719	DSM 19719	GCF_000426665.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2205	0	1	1	0	0
+Centipeda noxia ATCC 43541	ATCC 43541	GCF_000160555.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	1945	0	1	1	0	0
+Anaeromusa burkinensis DSM 6283	DSM 6283	GCF_000430605.1	calibration	0	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	3130	0	1	1	0	0
+Mitsuokella multacida	DSM 20544	GCF_051860775.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	2296	0	1	1	0	0
+Propionispira arboris	DSM 2179	GCF_900109225.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Contig	1.0	4001	0	1	1	0	0
+Megamonas hypermegale	NCTC10570	GCF_900187035.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	2089	0	1	1	0	0
+Selenomonas sputigena ATCC 35185	ATCC 35185	GCF_000208405.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	2283	0	1	1	0	0
+Centipeda infelix ATCC 43532	ATCC 43532	GCF_000234095.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2206	0	1	1	0	0
+Centipeda periodontii DSM 2778	DSM 2778	GCF_000213975.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2524	0	1	1	0	0
+Schwartzia succinivorans DSM 10502	DSM 10502	GCF_900129225.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2447	0	1	1	0	0
+Mitsuokella jalaludinii		GCF_928722185.1	calibration	0	Madin2020_tierB	Selenomonadaceae	Negativicutes	Selenomonadales	Contig	0.0	2217	0	1	1	0	0
+Thermosinus thermophiluss DSM 23256	DSM 23256	GCF_900102435.1	calibration	1	Madin2020_tierA	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	2901	1	32	32	1	0
+Propionispora hippei DSM 15287	DSM 15287	GCF_900141835.1	calibration	1	Madin2020_tierA	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	3917	1	30	31	1	0
+Acetonema longum DSM 6540	DSM 6540	GCF_000219125.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	4175	1	31	32	1	0
+Pelosinus fermentans DSM 17108	R7	GCF_000271485.2	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Contig	1.0	4641	1	29	31	1	0
+Sporomusa ovata DSM 2662	DSM 2662	GCF_000445445.2	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	5153	1	30	30	1	0
+Sporomusa acidovorans	Mol	GCF_900101845.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	5839	1	30	30	1	0
+Propionispora vibrioides	DSM 13305	GCF_900110485.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	4143	1	30	31	1	0
+Sporomusa silvacetica DSM 10669	DSM 10669	GCF_002257705.2	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	5777	1	31	31	1	0
+Sporomusa sphaeroides	DSM 3697	GCF_041428605.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	4369	1	30	30	1	0
+Dendrosporobacter quercicolus	DSM 1736	GCF_900104455.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	3779	1	32	32	1	0
+Sporomusa malonica	DSM 5090	GCF_041428715.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Complete Genome	1.0	4980	1	31	31	1	0
+Pelosinus propionicus DSM 13327	DSM 13327	GCF_900114615.1	calibration	1	Madin2020_tierB	Sporomusaceae	Negativicutes	Selenomonadales	Scaffold	1.0	5186	1	29	31	1	0
+Caldicellulosiruptor hydrothermalis 108	108	GCF_000166355.1	calibration	0	Madin2020_tierA	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2640	1	25	31	1	0
+Caldicellulosiruptor kronotskyensis 2002	2002	GCF_000166775.1	calibration	0	Madin2020_tierA	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2601	1	25	31	1	0
+Caldanaerovirga acetigignens	DSM 18802	GCF_900142995.1	calibration	0	Madin2020_tierA	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Scaffold	1.0	2316	1	32	32	1	0
+Tepidanaerobacter syntrophicus	JL	GCF_001485475.2	calibration	0	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	2304	0	1	1	0	0
+Thermovenabulum gondwanense	R270	GCF_001601575.1	calibration	0	Madin2020_tierA	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Contig	1.0	2279	1	30	31	1	0
+Fervidicola ferrireducens	Y170	GCF_001562425.1	calibration	0	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Contig	1.0	2501	1	31	31	1	0
+Caldicellulosiruptor acetigenus	DSM 7040	GCF_026914305.1	calibration	0	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2584	1	25	31	1	0
+Caldicellulosiruptor owensensis OL	OL	GCF_000166335.1	calibration	0	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2305	1	25	31	1	0
+Caldicellulosiruptor obsidiansis OB47	OB47	GCF_000145215.1	calibration	0	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2378	1	24	30	0	1
+Coprothermobacter proteolyticus DSM 5265	DSM 5265	GCF_000020945.1	calibration	0	Madin2020_tierB	Thermodesulfobiaceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	1417	0	0	0	0	0
+Thermodesulfobium narugense DSM 14796	DSM 14796	GCF_000212395.1	calibration	0	Madin2020_tierB	Thermodesulfobiaceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	1859	0	0	0	0	0
+Caldicellulosiruptor saccharolyticus DSM 8903	DSM 8903	GCF_000016545.1	calibration	0	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2872	1	25	30	1	0
+Caldanaerobius polysaccharolyticus DSM 13641	DSM 13641	GCF_000427425.1	calibration	0	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	2490	1	31	32	1	0
+Thermoanaerobacterium aotearoense	SCUT27	GCF_009905255.1	calibration	0	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	0.0	2628	1	32	32	1	0
+Ammonifex degensii KC4	KC4	GCF_000024605.1	calibration	0	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2215	1	27	31	1	0
+Coprothermobacter platensis DSM 11748	DSM 11748	GCF_000378005.1	calibration	0	Madin2020_tierB	Thermodesulfobiaceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	1420	0	0	0	0	0
+Thermoanaerobacter pseudethanolicus ATCC 33223	ATCC 33223; 39E	GCF_000019085.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2324	1	32	32	1	0
+Mahella australiensis 50-1 BON	50-1 BON	GCF_000213255.1	calibration	1	Madin2020_tierA	Thermoanaerobacterales Family IV. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2970	1	31	31	1	0
+Desulfovirgula thermocuniculi DSM 16036	DSM 16036	GCF_000429345.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	3276	1	32	32	1	0
+Caldanaerobius fijiensis DSM 17918	DSM 17918	GCF_900129075.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	2757	1	30	32	1	0
+Brockia lithotrophica	DSM 22653	GCF_003633725.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	1719	1	28	32	1	0
+Neomoorella stamsii	DSM 26217	GCF_002995805.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Contig	1.0	3366	1	31	32	1	0
+Neomoorella humiferrea	64-FGQ	GCF_039233145.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2712	1	31	32	1	0
+Thermoanaerobacter uzonensis DSM 18761	DSM 18761	GCF_900129115.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	2407	1	32	32	1	0
+Calderihabitans maritimus	KKC1	GCF_002207765.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Scaffold	1.0	3128	1	32	32	1	0
+Thermoanaerobacter thermocopriae	DSM 25963	GCF_030803985.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Contig	1.0	2569	1	32	32	1	0
+Ammonifex thiophilus	SR	GCF_003368535.1	calibration	1	Madin2020_tierA	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Contig	1.0	2237	1	28	31	1	0
+Thermoanaerobacterium thermosaccharolyticum DSM 571	DSM 571	GCF_000145615.1	calibration	1	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2754	1	32	32	1	0
+Thermoanaerobacter wiegelii Rt8.B1	Rt8.B1	GCF_000147695.2	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2812	1	32	32	1	0
+Neomoorella thermoacetica	DSM 2955	GCF_001267435.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2628	1	31	32	1	0
+Thermoanaerobacterium xylanolyticum LX-11	LX-11	GCF_000189775.2	calibration	1	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2421	1	32	32	1	0
+Thermacetogenium phaeum DSM 12270	DSM 12270	GCF_000305935.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2870	1	29	30	1	0
+Tepidanaerobacter acetatoxydans Re1	Re1	GCF_000328765.2	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2630	1	32	32	1	0
+Thermoanaerobacter siderophilus SR4	SR4	GCF_000262445.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Chromosome	1.0	2761	1	32	32	1	0
+Carboxydothermus hydrogenoformans Z-2901	Z-2901	GCF_000012865.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2478	1	31	32	1	0
+Thermanaeromonas toyohensis ToBE	ToBE	GCF_900176005.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Chromosome	1.0	3342	0	28	30	0	0
+Thermoanaerobacter kivui	LKT-1	GCF_000763575.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Complete Genome	1.0	2455	1	32	32	1	0
+Moorella mulderi DSM 14980	DSM 14980	GCF_001594015.1	calibration	1	Madin2020_tierB	Thermoanaerobacteraceae	Clostridia	Thermoanaerobacterales	Contig	1.0	3090	1	31	32	1	0
+Syntrophaceticus schinkii	Sp3	GCF_000946815.1	calibration	1	Madin2020_tierB	Thermoanaerobacterales Family III. Incertae Sedis	Clostridia	Thermoanaerobacterales	Contig	1.0	3560	1	27	29	1	0
+Helcococcus sueciensis	SS1779	GCF_054054205.1	calibration	0	Madin2020_tierA	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	1409	0	0	0	0	0
+Anaerococcus vaginalis	FDAARGOS_988	GCF_016127475.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Complete Genome	1.0	1724	0	0	0	0	0
+Anaerococcus prevotii	NCTC11806	GCF_900445285.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	1836	0	0	0	0	0
+Anaerococcus tetradius		GCF_947087635.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	0.0	1599	0	0	0	0	0
+Peptoniphilus timonensis JC401	JC401	GCF_000312025.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	1.0	1922	0	0	0	0	0
+Parvimonas micra	NCTC11808	GCF_900637905.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Complete Genome	1.0	1554	0	0	0	0	0
+Anaerococcus hydrogenalis	UMB0204	GCF_002871895.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	0.0	1785	0	0	0	0	0
+Anaerococcus senegalensis JC48	type strain: JC17	GCF_000321005.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	0.0	1745	0	0	0	0	0
+Helcococcus kunzii ATCC 51366	ATCC 51366	GCF_000245755.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	1.0	1880	0	0	0	0	0
+Anaerococcus octavius	NCTC9810	GCF_900445265.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	1779	0	0	0	0	0
+Peptoniphilus obesi ph1	ph1	GCF_000311865.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	1.0	1689	0	0	0	0	0
+Peptoniphilus indolicus	NCTC11088	GCF_900454665.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	2156	0	0	0	0	0
+Peptoniphilus asaccharolyticus	FDAARGOS_1135	GCF_016791605.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	2329	0	0	0	0	0
+Anaerococcus lactolyticus ATCC 51172	ATCC 51172	GCF_000156575.1	calibration	0	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	1.0	2189	0	0	0	0	0
+Anaerosalibacter bizertensis	JCM 17239	GCF_055392075.1	calibration	1	Madin2020_tierA	Tissierellaceae	Tissierellia	Tissierellales	Complete Genome	1.0	2547	1	32	32	1	0
+Anaerosphaera aminiphila DSM 21120	DSM 21120	GCF_900129925.1	calibration	1	Madin2020_tierA	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	1929	0	0	0	0	0
+Gottschalkia acidurici 9a	9a	GCF_000299355.1	calibration	1	Madin2020_tierB	Gottschalkiaceae	Tissierellia	Tissierellales	Complete Genome	1.0	2985	1	31	31	1	0
+[Clostridium] ultunense DSM 10521	DSM 10521	GCF_000511955.1	calibration	1	Madin2020_tierB	Tissierellaceae	Tissierellia	Tissierellales	Scaffold	1.0	3122	1	31	31	1	0
+Peptoniphilus grossensis	35-6-1	GCF_001940285.1	calibration	1	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Contig	1.0	2067	0	0	0	0	0
+Peptoniphilus senegalensis JC140	type strain: JC140	GCF_000321025.1	calibration	1	Madin2020_tierB	Peptoniphilaceae	Tissierellia	Tissierellales	Scaffold	1.0	1755	0	0	0	0	0
+Sporanaerobacter acetigenes DSM 13106	DSM 13106	GCF_900130025.1	calibration	1	Madin2020_tierB		Tissierellia	Tissierellales	Scaffold	1.0	2863	1	31	31	1	0
+Soehngenia saccharolytica DSM 12858	DSM 12858	GCF_059568515.1	calibration	1	Madin2020_tierB	Tissierellaceae	Tissierellia	Tissierellales	Contig	1.0	1968	0	1	1	0	0
+Gottschalkia purinilytica	DSM 1384	GCF_001190785.1	calibration	1	Madin2020_tierB	Gottschalkiaceae	Tissierellia	Tissierellales	Contig	1.0	3348	1	31	31	1	0
+Dialister succinatiphilus		GCF_928721695.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Complete Genome	0.0	2134	0	1	1	0	0
+Dialister micraerophilus		GCF_947090205.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	0.0	1155	0	1	1	0	0
+Megasphaera paucivorans	TMW 2.2464	GCF_050187955.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	2747	0	1	1	0	0
+Veillonella montpellierensis		GCF_947090115.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	0.0	1590	0	1	1	0	0
+Megasphaera sueciensis	TMW 2.2488	GCF_050219315.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Complete Genome	0.0	2746	0	1	1	0	0
+Veillonella magna		GCF_959600285.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	0.0	1883	0	1	1	0	0
+Veillonella rogosae JCM 15642	JCM 15642	GCF_002959775.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	1989	0	1	1	0	0
+Veillonella tobetsuensis	ATCC BAA-2400	GCF_001078375.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Scaffold	1.0	1960	0	1	1	0	0
+Negativicoccus succinicivorans	DSM 21255	GCF_014207605.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Scaffold	1.0	1381	0	1	1	0	0
+Veillonella denticariosi JCM 15641	JCM 15641	GCF_002959855.1	calibration	0	Madin2020_tierA	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	1803	0	1	1	0	0
+Megasphaera micronuciformis F0359	F0359	GCF_000165735.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Scaffold	0.0	1724	0	1	1	0	0
+Veillonella atypica	NCTC11830	GCF_900460235.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	1969	0	1	1	0	0
+Veillonella parvula	NCTC11810	GCF_900186885.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Complete Genome	1.0	1865	0	1	1	0	0
+Megasphaera geminata F0357	F0357	GCF_000239275.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Scaffold	0.0	1944	0	1	1	0	0
+Veillonella dispar	NCTC11831	GCF_900637515.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Complete Genome	1.0	1937	0	1	1	0	0
+Megasphaera massiliensis	NP3	GCF_000455225.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Scaffold	1.0	2552	0	1	1	0	0
+Veillonella seminalis	CCUG 65427	GCF_008830375.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	2094	0	1	1	0	0
+Veillonella ratti	ATCC 17746	GCF_003992115.1	calibration	0	Madin2020_tierB	Veillonellaceae	Negativicutes	Veillonellales	Contig	1.0	2009	0	1	1	0	0
+Wohlfahrtiimonas chitiniclastica	ATCC 51249	GCF_002252325.1	specificity	0	Madin2020_tierA		Gammaproteobacteria		Contig	0.0	1982	0	0	0	0	0
+Helicobacter suis	DSM 19735	GCF_017979375.1	specificity	0	Madin2020_tierA	Helicobacteraceae	Epsilonproteobacteria	Campylobacterales	Contig	1.0	1690	0	0	0	0	0
+Desulfatibacillum alkenivorans DSM 16219	DSM 16219	GCF_900142135.1	specificity	0	Madin2020_tierA	Desulfobacteraceae	Deltaproteobacteria	Desulfobacterales	Scaffold	1.0	5273	0	0	0	0	0
+Kangiella koreensis DSM 16069	DSM 16069	GCF_000024085.1	specificity	0	Madin2020_tierA	Kangiellaceae	Gammaproteobacteria	Oceanospirillales	Complete Genome	1.0	2638	0	0	0	0	0
+Sulfuricurvum kujiense DSM 16994	DSM 16994	GCF_000183725.1	specificity	0	Madin2020_tierA	Helicobacteraceae	Epsilonproteobacteria	Campylobacterales	Complete Genome	1.0	2816	0	0	0	0	0
+Shewanella halifaxensis HAW-EB4	HAW-EB4	GCF_000019185.1	specificity	0	Madin2020_tierA	Shewanellaceae	Gammaproteobacteria	Alteromonadales	Complete Genome	1.0	4407	0	0	0	0	0
+Methylobacter tundripaludum SV96	SV96	GCF_000190755.2	specificity	0	Madin2020_tierA	Methylococcaceae	Gammaproteobacteria	Methylococcales	Scaffold	1.0	4422	0	0	0	0	0
+Arenimonas oryziterrae DSM 21050 = YC6267	DSM 21050	GCF_000420545.1	specificity	0	Madin2020_tierA	Xanthomonadaceae	Gammaproteobacteria	Xanthomonadales	Contig	1.0	2880	0	0	0	0	0
+Photorhabdus temperata	DSM 14550	GCF_060388885.1	specificity	0	Madin2020_tierA	Morganellaceae	Gammaproteobacteria	Enterobacterales	Complete Genome	1.0	4981	0	0	0	0	0
+Kangiella aquimarina DSM 16071	DSM 16071	GCF_000374105.1	specificity	0	Madin2020_tierA	Kangiellaceae	Gammaproteobacteria	Oceanospirillales	Scaffold	1.0	2470	0	0	0	0	0
+Geotalea daltonii FRC-32	FRC-32	GCF_000022265.1	specificity	0	Madin2020_tierA	Geobacteraceae	Deltaproteobacteria	Desulfuromonadales	Complete Genome	1.0	3834	0	0	0	0	0
+Methylorubrum populi BJ001	BJ001	GCF_000019945.1	specificity	0	Madin2020_tierA	Methylobacteriaceae	Alphaproteobacteria	Rhizobiales	Complete Genome	1.0	5446	0	0	0	0	0
+Yoonia vestfoldensis DSM 16212	DSM 16212	GCF_000382265.1	specificity	0	Madin2020_tierA	Rhodobacteraceae	Alphaproteobacteria	Rhodobacterales	Scaffold	1.0	3730	0	0	0	0	0
+Shewanella sediminis HAW-EB3	HAW-EB3	GCF_000018025.1	specificity	0	Madin2020_tierA	Shewanellaceae	Gammaproteobacteria	Alteromonadales	Complete Genome	1.0	4655	0	0	0	0	0
+Marinobacter algicola		GCF_059724725.1	specificity	0	Madin2020_tierA	Alteromonadaceae	Gammaproteobacteria	Alteromonadales	Complete Genome	0.0	3955	0	0	0	0	0
+Vreelandella zhanjiangensis DSM 21076	DSM 21076	GCF_000377665.1	specificity	0	Madin2020_tierA	Halomonadaceae	Gammaproteobacteria	Oceanospirillales	Scaffold	1.0	3662	0	0	0	0	0
+Brucella inopinata	141012304	GCF_900095155.1	specificity	0	Madin2020_tierA	Brucellaceae	Alphaproteobacteria	Rhizobiales	Complete Genome	0.0	3226	0	0	0	0	0
+Limimaricola hongkongensis DSM 17492	DSM 17492	GCF_000600975.2	specificity	0	Madin2020_tierA	Rhodobacteraceae	Alphaproteobacteria	Rhodobacterales	Scaffold	1.0	3097	0	0	0	0	0
+Salinimonas chungwhensis DSM 16280	DSM 16280	GCF_000378185.1	specificity	0	Madin2020_tierA	Alteromonadaceae	Gammaproteobacteria	Alteromonadales	Scaffold	1.0	3621	0	0	0	0	0
+Aestuariibacter salexigens DSM 15300	DSM 15300	GCF_000429145.1	specificity	0	Madin2020_tierA	Alteromonadaceae	Gammaproteobacteria	Alteromonadales	Scaffold	1.0	3421	0	0	0	0	0
+Comamonas composti DSM 21721	DSM 21721	GCF_000429845.1	specificity	0	Madin2020_tierA	Comamonadaceae	Betaproteobacteria	Burkholderiales	Scaffold	1.0	4085	0	0	0	0	0
+Marinobacter adhaerens	HP15-B	GCF_018972165.1	specificity	0	Madin2020_tierA	Alteromonadaceae	Gammaproteobacteria	Alteromonadales	Complete Genome	0.0	4094	0	0	0	0	0
+Caminibacter mediatlanticus TB-2	TB-2	GCF_005843985.1	specificity	0	Madin2020_tierA	Nautiliaceae	Epsilonproteobacteria	Nautiliales	Complete Genome	1.0	1754	0	0	0	0	0
+Alkalidesulfovibrio alkalitolerans DSM 16529	DSM 16529	GCF_059568635.1	specificity	0	Madin2020_tierA	Desulfovibrionaceae	Deltaproteobacteria	Desulfovibrionales	Contig	1.0	2855	0	0	0	0	0
+Sphingomonas jaspsi DSM 18422	DSM 18422	GCF_000585415.1	specificity	0	Madin2020_tierA	Sphingomonadaceae	Alphaproteobacteria	Sphingomonadales	Scaffold	1.0	2586	0	0	0	0	0
+Segniliparus rotundus DSM 44985	DSM 44985	GCF_000092825.1	specificity	0	Madin2020_tierA	Segniliparaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	3075	0	0	0	0	0
+Mycobacterium intracellulare subsp. yongonense 05-1390	05-1390	GCF_000418535.1	specificity	0	Madin2020_tierA	Mycobacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	5260	0	0	0	0	0
+Jongsikchunia kroppenstedtii	DSM 45133	GCF_052038155.1	specificity	0	Madin2020_tierA	Gordoniaceae	Actinobacteria	Corynebacteriales	Scaffold	1.0	4005	0	0	0	0	0
+Gordonibacter pamelaeae	CCUG 55131	GCF_042665095.1	specificity	0	Madin2020_tierA	Eggerthellaceae	Coriobacteriia	Eggerthellales	Scaffold	1.0	3256	0	0	0	0	0
+Corynebacterium ulceribovis DSM 45146	DSM 45146	GCF_062011450.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	2114	0	0	0	0	0
+Bifidobacterium adolescentis	JCM 19861	GCF_036322895.1	specificity	0	Madin2020_tierA	Bifidobacteriaceae	Actinobacteria	Bifidobacteriales	Complete Genome	1.0	1858	0	0	0	0	0
+Corynebacterium caspium DSM 44850	DSM 44850	GCF_030440555.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	1637	0	0	0	0	0
+Corynebacterium lubricantis	DSM 45231	GCF_062011944.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	2835	0	0	0	0	0
+Corynebacterium doosanense CAU 212 = DSM 45436	CAU 212(T)	GCF_000767055.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	2609	0	0	0	0	0
+Acaricomes phytoseiuli DSM 14247	DSM 14247	GCF_000376245.1	specificity	0	Madin2020_tierA	Micrococcaceae	Actinobacteria	Micrococcales	Contig	1.0	2333	0	0	0	0	0
+Janibacter hoylei PVAS-1	PVAS-1	GCF_004025845.1	specificity	0	Madin2020_tierA	Intrasporangiaceae	Actinobacteria	Micrococcales	Contig	1.0	3018	0	0	0	0	0
+Corynebacterium halotolerans YIM 70093 = DSM 44683	YIM 70093 = DSM 44683	GCF_000341345.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	2908	0	0	0	0	0
+Corynebacterium massiliense DSM 45435	DSM 45435	GCF_028609805.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	1991	0	0	0	0	0
+Slackia piriformis YIT 12062	YIT 12062	GCF_000296445.1	specificity	0	Madin2020_tierA	Eggerthellaceae	Coriobacteriia	Eggerthellales	Scaffold	1.0	1798	0	0	0	0	0
+Corynebacterium sputi DSM 45148	DSM 45148	GCF_062011429.1	specificity	0	Madin2020_tierA	Corynebacteriaceae	Actinobacteria	Corynebacteriales	Complete Genome	1.0	2794	0	0	0	0	0
+Bacteroides intestinalis DSM 17393	DSM 17393	GCF_000172175.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Contig	1.0	4721	0	0	0	0	0
+Pontibacter roseus DSM 17521	DSM 17521	GCF_000373265.1	specificity	0	Madin2020_tierA	Hymenobacteraceae	Cytophagia	Cytophagales	Scaffold	1.0	4003	0	0	0	0	0
+Phocaeicola coprophilus	FDAARGOS_1220	GCF_016888945.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Complete Genome	0.0	3520	0	0	0	0	0
+Bacteroides xylanisolvens	CL11T00C03	GCF_018289135.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Complete Genome	0.0	5391	0	0	0	0	0
+Prevotella amnii DSM 23384 = JCM 14753	DSM 23384	GCF_000378745.1	specificity	0	Madin2020_tierA	Prevotellaceae	Bacteroidia	Bacteroidales	Scaffold	1.0	2061	0	0	0	0	0
+Hoylesella timonensis 4401737 = DSM 22865 = JCM 15640	4401737 = DSM 22865 = JCM 15640	GCF_000455445.1	specificity	0	Madin2020_tierA	Prevotellaceae	Bacteroidia	Bacteroidales	Scaffold	1.0	2693	0	0	0	0	0
+Bacteroides finegoldii DSM 17565	DSM 17565	GCF_000156195.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Scaffold	1.0	4190	0	0	0	0	0
+Butyricimonas synergistica DSM 23225	DSM 23225	GCF_000379665.1	specificity	0	Madin2020_tierA	Odoribacteraceae	Bacteroidia	Bacteroidales	Scaffold	1.0	3872	0	0	0	0	0
+Phocaeicola massiliensis	DSM 17679	GCF_031001655.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Contig	1.0	3899	0	0	0	0	0
+Alistipes shahii WAL 8301	WAL 8301	GCF_025145845.1	specificity	0	Madin2020_tierA	Rikenellaceae	Bacteroidia	Bacteroidales	Complete Genome	1.0	3197	0	0	0	0	0
+Bacteroides clarus	1001095IJ_161003_B3	GCF_015555825.1	specificity	0	Madin2020_tierA	Bacteroidaceae	Bacteroidia	Bacteroidales	Scaffold	0.0	3234	0	0	0	0	0
+Paludibacter propionicigenes WB4	WB4	GCF_000183135.1	specificity	0	Madin2020_tierA	Paludibacteraceae	Bacteroidia	Bacteroidales	Complete Genome	1.0	3071	0	0	0	0	0
+Rubidibacter lacunae KORDI 51-2	KORDI 51-2	GCF_000473895.1	specificity	0	Madin2020_tierA	Aphanothecaceae		Chroococcales	Contig	1.0	3672	0	0	0	0	0
+Chroococcidiopsis thermalis PCC 7203	PCC 7203	GCF_000317125.1	specificity	0	Madin2020_tierB	Chroococcidiopsidaceae		Chroococcidiopsidales	Complete Genome	1.0	5973	0	0	1	0	0
+'Nostoc azollae' 0708	0708	GCF_000196515.1	specificity	0	Madin2020_tierB	Nostocaceae		Nostocales	Complete Genome	0.0	6570	0	0	0	0	0
+Gloeobacter kilaueensis JS1	JS1	GCF_000484535.1	specificity	0	Madin2020_tierB	Gloeobacteraceae	Gloeobacteria	Gloeobacterales	Complete Genome	1.0	4479	0	0	0	0	0
+Deinococcus aquatilis DSM 23025	DSM 23025	GCF_000378445.1	specificity	0	Madin2020_tierA	Deinococcaceae	Deinococci	Deinococcales	Scaffold	1.0	4768	0	0	0	0	0
+Deinococcus ficus	CC-FR2-10	GCF_003444775.1	specificity	0	Madin2020_tierA	Deinococcaceae	Deinococci	Deinococcales	Complete Genome	1.0	3987	0	0	0	0	0
+Deinococcus wulumuqiensis	CGMCC 1.8884	GCF_014645575.1	specificity	0	Madin2020_tierA	Deinococcaceae	Deinococci	Deinococcales	Scaffold	1.0	3240	0	0	0	0	0
+Exilispira thermophila	JCM 14728	GCF_055389015.1	specificity	0	Madin2020_tierA		Spirochaetia	Spirochaetales	Complete Genome	1.0	2552	0	0	0	0	0
+Spirochaeta cellobiosiphila DSM 17781	DSM 17781	GCF_000426705.1	specificity	0	Madin2020_tierA	Spirochaetaceae	Spirochaetia	Spirochaetales	Scaffold	1.0	3676	0	0	0	0	0
+Borrelia recurrentis A1	A1	GCF_000019705.1	specificity	0	Madin2020_tierB	Borreliaceae	Spirochaetia	Spirochaetales	Complete Genome	1.0	1214	0	0	0	0	0
+Dehalococcoides mccartyi 195	195	GCF_000011905.1	specificity	0	Madin2020_tierA	Dehalococcoidaceae	Dehalococcoidia	Dehalococcoidales	Complete Genome	1.0	1543	0	0	0	0	0
+Dehalogenimonas alkenigignens	IP3-3	GCF_001466665.1	specificity	0	Madin2020_tierA		Dehalococcoidia		Scaffold	1.0	1906	0	0	0	0	0
+Petrotoga halophila DSM 16923	DSM 16923	GCF_002924615.1	specificity	0	Madin2020_tierA		Thermotogae	Petrotogales	Scaffold	1.0	2763	0	0	0	0	0
+Fervidobacterium changbaicum	CBS-1	GCF_004117075.1	specificity	0	Madin2020_tierA	Fervidobacteriaceae	Thermotogae	Thermotogales	Chromosome	1.0	2062	0	0	0	0	0
+Coraliomargarita akajimensis DSM 45221	DSM 45221	GCF_000025905.1	specificity	0	Madin2020_tierA	Puniceicoccaceae	Opitutae	Puniceicoccales	Complete Genome	1.0	3146	0	0	0	0	0
+Persicirhabdus sediminis	_KCTC 22039	GCF_016595495.1	specificity	0	Madin2020_tierA	Verrucomicrobiaceae	Verrucomicrobiae	Verrucomicrobiales	Scaffold	1.0	3510	0	0	0	0	0
+Halobacterium salinarum	91-R6	GCF_004799605.1	specificity	0	Madin2020_tierA	Halobacteriaceae	Halobacteria	Halobacteriales	Complete Genome	1.0	2515	0	0	0	0	0
+Halococcus hamelinensis 100A6	100A6	GCF_000336675.1	specificity	0	Madin2020_tierA	Halococcaceae	Halobacteria	Halobacteriales	Contig	1.0	3516	0	0	0	0	0
+Methanobacterium veterum	MK4	GCF_027110455.1	specificity	0	Madin2020_tierA	Methanobacteriaceae	Methanobacteria	Methanobacteriales	Scaffold	1.0	3289	0	0	0	0	0
+Amycolatopsis nigrescens CSC17Ta-90	CSC17Ta-90	GCF_000384315.1	qc_nonendospore	1	Madin2020_tierA	Pseudonocardiaceae	Actinobacteria	Pseudonocardiales	Contig	1.0	8551	0	0	0	0	0
+Actinomycetospora chiangmaiensis DSM 45062	DSM 45062	GCF_000379625.1	qc_nonendospore	1	Madin2020_tierA	Pseudonocardiaceae	Actinobacteria	Pseudonocardiales	Scaffold	1.0	5692	0	0	0	0	0
+Salinispora tropica CNB-440	CNB-440	GCF_000016425.1	qc_nonendospore	1	Madin2020_tierA	Micromonosporaceae	Actinobacteria	Micromonosporales	Complete Genome	1.0	4682	0	0	0	0	0
+Nonomuraea coxensis DSM 45129	DSM 45129	GCF_019397265.1	qc_nonendospore	1	Madin2020_tierA	Streptosporangiaceae	Actinobacteria	Streptosporangiales	Complete Genome	1.0	8428	0	0	0	0	0
+Actinomadura flavalba DSM 45200	DSM 45200	GCF_000374305.1	qc_nonendospore	1	Madin2020_tierA	Thermomonosporaceae	Actinobacteria	Streptosporangiales	Scaffold	1.0	5671	0	0	1	0	0
+Catenulispora acidiphila DSM 44928	DSM 44928	GCF_000024025.1	qc_nonendospore	1	Madin2020_tierA	Catenulisporaceae	Actinobacteria	Catenulisporales	Complete Genome	1.0	9036	0	0	0	0	0
+Haloechinothrix halophila YIM 93223	YIM 93223	GCF_000504245.1	qc_nonendospore	1	Madin2020_tierA	Pseudonocardiaceae	Actinobacteria	Pseudonocardiales	Scaffold	1.0	5104	0	0	0	0	0
+Streptomyces himastatinicus ATCC 53653	ATCC 53653	GCF_000158915.1	qc_nonendospore	1	Madin2020_tierA	Streptomycetaceae	Actinobacteria	Streptomycetales	Scaffold	1.0	9477	0	0	0	0	0
+Nocardiopsis potens DSM 45234	DSM 45234	GCF_000341105.1	qc_nonendospore	1	Madin2020_tierA	Nocardiopsaceae	Actinobacteria	Streptosporangiales	Contig	1.0	5957	0	0	0	0	0
+Saccharomonospora marina XMU15	XMU15	GCF_000244955.1	qc_nonendospore	1	Madin2020_tierA	Pseudonocardiaceae	Actinobacteria	Pseudonocardiales	Chromosome	1.0	5704	0	0	0	0	0
+Embleya scabrispora DSM 41855	DSM 41855	GCF_000372745.1	qc_nonendospore	1	Madin2020_tierA	Streptomycetaceae	Actinobacteria	Streptomycetales	Scaffold	1.0	10067	0	0	0	0	0
+Gracilimonas tropica DSM 19535	DSM 19535	GCF_000375425.1	qc_nonendospore	1	Madin2020_tierA	Balneolaceae	Balneolia	Balneolales	Contig	1.0	3378	0	0	0	0	0
+Thomasclavelia ramosa DSM 1402	DSM 1402	GCF_000154485.1	browne_experimental	0	Browne2021_ethanol	Erysipelotrichaceae		Erysipelotrichales	Scaffold	1.0	3060	1	19	22	0	1
+Catenibacterium mitsuokai DSM 15897	DSM 15897	GCF_000173795.1	browne_experimental	0	Browne2021_ethanol	Erysipelotrichaceae		Erysipelotrichales	Contig	0.0	2879	0	1	1	0	0
+Eggerthia catenaformis OT 569 = DSM 20559	OT 569	GCF_000340375.1	browne_experimental	0	Browne2021_ethanol	Erysipelotrichaceae		Erysipelotrichales	Scaffold	1.0	1906	0	1	1	0	0
+Holdemania massiliensis AP2	AP2	GCF_000327285.1	browne_experimental	0	Browne2021_ethanol	Erysipelotrichaceae		Erysipelotrichales	Scaffold	1.0	3475	1	15	19	0	0
+Holdemanella biformis DSM 3989	DSM 3989	GCF_000156655.1	browne_experimental	0	Browne2021_ethanol	Erysipelotrichaceae		Erysipelotrichales	Scaffold	1.0	2453	0	0	0	0	0

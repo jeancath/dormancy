@@ -1,0 +1,31 @@
+    data draw lambda_hat between_cell_share between_order_share
+0-1 real    0  0.9359872          0.4114443           0.7330581
+    autocor_cells_0_1deg autocor_cells_1_3deg autocor_cells_3_10deg
+0-1            0.1612684           0.06006118            0.04708128
+    cor_same_order_diff_cell  skewness excess_kurtosis
+0-1                0.7259782 0.8776551        1.016736
+          used (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells  695054 37.2    1343924   71.8   1343924   71.8
+Vcells 5731032 43.8  194227418 1481.9 166841791 1273.0
+                         [,1]                   [,2]                    
+data                     "real"                 "DGM B"                 
+lambda_hat               "0.936 [0.936, 0.936]" "0.932 [0.926, 0.941]"  
+between_cell_share       "0.411 [0.411, 0.411]" "0.110 [0.058, 0.221]"  
+between_order_share      "0.733 [0.733, 0.733]" "0.661 [0.555, 0.762]"  
+autocor_cells_0_1deg     "0.161 [0.161, 0.161]" "0.101 [-0.042, 0.276]" 
+autocor_cells_1_3deg     "0.060 [0.060, 0.060]" "0.057 [-0.001, 0.172]" 
+autocor_cells_3_10deg    "0.047 [0.047, 0.047]" "0.038 [-0.003, 0.170]" 
+cor_same_order_diff_cell "0.726 [0.726, 0.726]" "0.652 [0.544, 0.758]"  
+skewness                 "0.878 [0.878, 0.878]" "0.011 [-0.239, 0.415]" 
+excess_kurtosis          "1.017 [1.017, 1.017]" "-0.059 [-0.557, 0.379]"
+                         [,3]                   
+data                     "DGM D"                
+lambda_hat               "0.975 [0.973, 0.977]" 
+between_cell_share       "0.356 [0.331, 0.384]" 
+between_order_share      "0.835 [0.825, 0.840]" 
+autocor_cells_0_1deg     "0.091 [0.019, 0.194]" 
+autocor_cells_1_3deg     "0.037 [0.002, 0.106]" 
+autocor_cells_3_10deg    "0.027 [-0.003, 0.103]"
+cor_same_order_diff_cell "0.835 [0.822, 0.841]" 
+skewness                 "0.044 [-0.740, 0.838]"
+excess_kurtosis          "1.801 [1.386, 2.357]" 

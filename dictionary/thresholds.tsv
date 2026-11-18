@@ -1,0 +1,175 @@
+model_name	threshold	score_type	domain_threshold	noise_cutoff	cutoff_type	model_acc	model_source
+spore_0_A	200	full	195	180	TC	TIGR02875.1	NCBIfam
+K07699	112.87	domain			KOfam_threshold	K07699	KOfam
+spore_II_E	490.8	full	490.8	201.15	TC	TIGR02865.1	NCBIfam
+K06382	781.20	full			KOfam_threshold	K06382	KOfam
+PRK02944.1	377	full	377	377	TC	NF002803.0	NCBIfam
+spore_sigmaE	348.6	full	348.6	306.75	TC	TIGR02835.1	NCBIfam
+spore_sigF	321.45	full	321.45	317.6	TC	TIGR02885.1	NCBIfam
+spore_sigG	457	full	457	324.75	TC	TIGR02850.1	NCBIfam
+spore_II_AA	114.75	full	114.75	77.05	TC	TIGR02886.1	NCBIfam
+K06378	98.07	full			KOfam_threshold	K06378	KOfam
+spIIAB	135	full	135	115	TC	TIGR01925.2	NCBIfam
+K06379	146.47	full			KOfam_threshold	K06379	KOfam
+spore_II_GA	209.55	full	209.55	74.5	TC	TIGR02854.1	NCBIfam
+K06383	111.20	full			KOfam_threshold	K06383	KOfam
+spore_II_D	234.75	full	234.75	228.7	TC	TIGR02870.1	NCBIfam
+K06381	110.83	full			KOfam_threshold	K06381	KOfam
+spore_II_P	123.15	full	123.15	43.65	TC	TIGR02867.1	NCBIfam
+K06385	163.33	full			KOfam_threshold	K06385	KOfam
+S2SprSpoIIQBc	250	full	250	250	TC	NF053738.1	NCBIfam
+K06386	152.47	full			KOfam_threshold	K06386	KOfam
+spore_III_AC	56.65	full	56.65	37.6	TC	TIGR02848.1	NCBIfam
+K06392	47.47	domain			KOfam_threshold	K06392	KOfam
+spore_III_AE	247.45	full	247.45	75.4	TC	TIGR02829.1	NCBIfam
+K06394	99.93	full			KOfam_threshold	K06394	KOfam
+spore_III_AG	147.7	full	147.7	28.55	TC	TIGR02830.1	NCBIfam
+K06396	64.07	full			KOfam_threshold	K06396	KOfam
+SpoIIIAH	30.6	full	30.6	30.5	GA	PF12685.15	Pfam
+K06397	61.63	full			KOfam_threshold	K06397	KOfam
+spore_II_R	151.9	full	151.9	64.15	TC	TIGR02837.1	NCBIfam
+K06387	69.70	full			KOfam_threshold	K06387	KOfam
+spore_IV_B	305.25	full	305.25	148.7	TC	TIGR02860.1	NCBIfam
+K06399	155.40	domain			KOfam_threshold	K06399	KOfam
+spore_V_T	235.9	full	235.9	71.65	TC	TIGR02851.1	NCBIfam
+K04769	122.73	domain			KOfam_threshold	K04769	KOfam
+YetF_C	23.6	full	23.6	23.5	GA	PF04239.19	Pfam
+spore_V_AC	164	full	164	70.3	TC	TIGR02838.1	NCBIfam
+K06405	108.77	full			KOfam_threshold	K06405	KOfam
+spore_V_AD	411.8	full	411.8	123.9	TC	TIGR02845.1	NCBIfam
+K06406	201.93	full			KOfam_threshold	K06406	KOfam
+spore_V_AE	131.1	full	131.1	86.05	TC	TIGR02839.1	NCBIfam
+K06407	63.20	full			KOfam_threshold	K06407	KOfam
+SASP	22	full	22	21.9	GA	PF00269.27	Pfam
+K06418	47.00	full			KOfam_threshold	K06418	KOfam
+spore_sigmaK	298.65	full		278.75	TC	TIGR02846.1	NCBIfam
+PRK05803.1	252	full		252	TC	NF004471.0	NCBIfam
+spore_III_D	111.5	full	111.5	66.7	TC	TIGR02844.1	NCBIfam
+K06283	44.17	domain			KOfam_threshold	K06283	KOfam
+K06402	93.20	full			KOfam_threshold	K06402	KOfam
+spore_V_B	372.3	full	372.3	255.35	TC	TIGR02900.1	NCBIfam
+K06409	391.67	full			KOfam_threshold	K06409	KOfam
+YitT_membrane	24.3	full	24.3	24.2	GA	PF02588.23	Pfam
+spore_YlmC_YmxH	44.2	full	44.2	43	TC	TIGR02888.1	NCBIfam
+spore_YtaF	149.6	full	149.6	71.2	TC	TIGR02840.1	NCBIfam
+spore_ylbJ	304.65	full	304.65	138.2	TC	TIGR02871.1	NCBIfam
+spore_yabP	75.4	full	75.4	46.15	TC	TIGR02892.1	NCBIfam
+spore_yabQ	32	full	32	27	TC	TIGR02893.2	NCBIfam
+spore_yqfD	256.7	full	256.7	94.6	TC	TIGR02876.1	NCBIfam
+K06438	156.70	full			KOfam_threshold	K06438	KOfam
+spore_IV_A	459.9	full	459.9	190.65	TC	TIGR02836.1	NCBIfam
+K06398	468.20	full			KOfam_threshold	K06398	KOfam
+GPR	120	full	120	50	TC	TIGR01441.2	NCBIfam
+K06012	189.70	full			KOfam_threshold	K06012	KOfam
+spo_II_M	100.2	full	100.2	65.9	TC	TIGR02831.1	NCBIfam
+spore_III_AA	281.3	full	281.3	77.85	TC	TIGR02858.1	NCBIfam
+K06390	226.47	full			KOfam_threshold	K06390	KOfam
+spore_III_AB	146.5	full	146.5	30.05	TC	TIGR02833.1	NCBIfam
+K06391	65.83	full			KOfam_threshold	K06391	KOfam
+spore_III_AD	85.6	full	85.6	38.5	TC	TIGR02849.1	NCBIfam
+K06393	57.27	full			KOfam_threshold	K06393	KOfam
+spore_III_AF	61.3	full	61.3	39.2	TC	TIGR02896.1	NCBIfam
+K06395	40.43	full			KOfam_threshold	K06395	KOfam
+spoVD_pbp	688	full	688	590.65	TC	TIGR02214.1	NCBIfam
+K08384	703.47	full			KOfam_threshold	K08384	KOfam
+spoVE	448.8	full	448.8	420.15	TC	TIGR02615.1	NCBIfam
+spore_dpaA	319.65	full	319.65	98.7	TC	TIGR02853.1	NCBIfam
+K06410	98.93	full			KOfam_threshold	K06410	KOfam
+spore_dpaB	229	full	229	102.2	TC	TIGR02852.1	NCBIfam
+K06411	194.97	full			KOfam_threshold	K06411	KOfam
+GerA	27	full	27	26.8	GA	PF03323.20	Pfam
+spore_ger_x_C	163.25	full	163.25	119.15	TC	TIGR02887.1	NCBIfam
+CotE	25	full	25	23.9	GA	PF10628.16	Pfam
+K06328	87.80	full			KOfam_threshold	K06328	KOfam
+Transglycosylas	27	full	27	26.9	GA	PF06737.21	Pfam
+K21688	166.70	domain			KOfam_threshold	K21688	KOfam
+G5	23	full	23	22.9	GA	PF07501.19	Pfam
+DUF348	24	full	11	23.9	GA	PF03990.22	Pfam
+3D	23.8	full	23.8	23.7	GA	PF06725.19	Pfam
+yfiA	40.9	full	40.9	29.5	TC	TIGR00741.1	NCBIfam
+Ribosomal_S30AE	23.7	full	23.7	23.6	GA	PF02482.27	Pfam
+Ribosom_S30AE_C	25	full	25	24.6	GA	PF16321.12	Pfam
+K05808	97.20	full			KOfam_threshold	K05808	KOfam
+K05809	118.80	full			KOfam_threshold	K05809	KOfam
+RMF	27.9	full	27.9	27.8	GA	PF04957.20	Pfam
+K03812	30.67	domain			KOfam_threshold	K03812	KOfam
+AOC03_06830_fam_RHF	330	full	330	100	TC	NF052287.1	NCBIfam
+Rv2629_fam_RHF	320	full	320	150	TC	NF052289.1	NCBIfam
+MSMEG_1130_fam_RHF	480	full	480	200	TC	NF052288.1	NCBIfam
+Balon_mid	31.5	full	31.5	31.4	GA	PF18845.8	Pfam
+hiber_recruit	375	full	375	325	TC	NF047431.1	NCBIfam
+DUF883	25.4	full	25.4	25.3	GA	PF05957.20	Pfam
+GTP_HflX	216.75	full	216.75	123.05	TC	TIGR03156.1	NCBIfam
+K03665	178.90	domain			KOfam_threshold	K03665	KOfam
+spoT_relA	499.2	full	499.2	337.65	TC	TIGR00691.1	NCBIfam
+K00951	662.37	domain			KOfam_threshold	K00951	KOfam
+K01139	801.00	full			KOfam_threshold	K01139	KOfam
+K07816	98.10	domain			KOfam_threshold	K07816	KOfam
+RelA_SpoT	27	full	27	26.9	GA	PF04607.25	Pfam
+HD_4	27.2	full	27.2	27.1	GA	PF13328.14	Pfam
+TGS	22.2	full	22.2	22.1	GA	PF02824.28	Pfam
+ACT_4	27	full	27	26.9	GA	PF13291.14	Pfam
+dksA	115.5	full	115.5	53.7	TC	TIGR02420.1	NCBIfam
+HipA_C	30.5	full	30.5	30.4	GA	PF07804.20	Pfam
+Couple_hipA	22.5	full	22.5	22.4	GA	PF13657.13	Pfam
+K07154	28.17	domain			KOfam_threshold	K07154	KOfam
+TisB_tox	38	full	38	25	TC	TIGR04459.1	NCBIfam
+TisB_toxin	25	full	25	22.6	GA	PF13939.13	Pfam
+Obg_CgtA	280.25	full	280.25	111	TC	TIGR02729.1	NCBIfam
+trans_reg_SutA	145	full	145	145	TC	NF041490.1	NCBIfam
+ParE_toxin	23	full	23	22.9	GA	PF05016.23	Pfam
+PemK_toxin	23.1	full	23.1	23	GA	PF02452.25	Pfam
+HicA_toxin	27	full	27	26.9	GA	PF07927.19	Pfam
+PIN	23.6	full	23.6	23.5	GA	PF01850.29	Pfam
+YafQ_toxin	30	full	30	29.9	GA	PF15738.13	Pfam
+Fic	24	full	24	23.9	GA	PF02661.25	Pfam
+Zeta_toxin	22.3	full	22.3	22.2	GA	PF06414.19	Pfam
+HigB-like_toxin	27	full	27	26.9	GA	PF05015.19	Pfam
+HigB_toxin	27	full	27	26.9	GA	PF09907.17	Pfam
+YoeB_toxin	27	full	27	26.9	GA	PF06769.22	Pfam
+MqsR_toxin	26.2	full	25.8	26	GA	PF15723.13	Pfam
+CcdB	28.6	full	28.6	28.5	GA	PF01845.25	Pfam
+RES	23.2	full	23.2	23.1	GA	PF08808.19	Pfam
+RelB	22.4	full	22.4	22.3	GA	PF04221.19	Pfam
+MazE_antitoxin	24.7	full	24.7	24.6	GA	PF04014.24	Pfam
+PhdYeFM_antitox	29.8	full	29.8	29.7	GA	PF02604.28	Pfam
+HicB_lk_antitox	27	full	27	26.9	GA	PF15919.12	Pfam
+HicB	21	full	21	20.9	GA	PF05534.19	Pfam
+ParD_antitoxin	21	full	21	20.9	GA	PF03693.21	Pfam
+CcdA	22.4	full	22.4	22.3	GA	PF07362.20	Pfam
+Epsilon_antitox	28.1	full	28.1	28	GA	PF08998.19	Pfam
+MqsA_antitoxin	30	full	30	29.9	GA	PF15731.13	Pfam
+antidote_HigA	47.7	full	47.7	40	TC	TIGR02607.1	NCBIfam
+K15773	63.33	domain			KOfam_threshold	K15773	KOfam
+DDE_Tnp_1	23	full	23	22.9	GA	PF01609.29	Pfam
+rve	30.8	full	30.8	30.7	GA	PF00665.34	Pfam
+rve_2	22	full	22	21.9	GA	PF13333.14	Pfam
+rve_3	26.5	full	26.5	26.4	GA	PF13683.13	Pfam
+HTH_Tnp_1	24.1	full	24.1	24	GA	PF01527.27	Pfam
+Transposase_20	21.3	full	21.3	21.2	GA	PF02371.24	Pfam
+DEDD_Tnp_IS110	29	full	29	28.9	GA	PF01548.25	Pfam
+DDE_Tnp_IS66	23.1	full	23.1	23	GA	PF03050.22	Pfam
+DDE_Tnp_1_2	29.2	full	29.2	29.1	GA	PF13586.13	Pfam
+DDE_Tnp_1_3	27	full	27	26.9	GA	PF13612.14	Pfam
+DDE_Tnp_1_5	28.1	full	28.1	28	GA	PF13737.14	Pfam
+DDE_Tnp_1_6	25.1	full	25.1	25	GA	PF13751.13	Pfam
+DDE_Tnp_ISL3	23	full	23	22.9	GA	PF01610.25	Pfam
+OrfB_IS605	30.5	full	30.5	30.4	GA	PF01385.27	Pfam
+Y1_Tnp	23	full	23	22.9	GA	PF01797.23	Pfam
+Y2_Tnp	20.9	full	20.9	20.8	GA	PF04986.20	Pfam
+Transposase_mut	21	full	21	20.9	GA	PF00872.25	Pfam
+DDE_Tnp_IS1	24.1	full	24.1	24	GA	PF03400.19	Pfam
+DUF772	23.1	full	23.1	23	GA	PF05598.18	Pfam
+DDE_Tnp_4	24.8	full	24.8	24.7	GA	PF13359.14	Pfam
+DDE_5	27	full	27	26.9	GA	PF13546.14	Pfam
+DDE_Tnp_Tn3	24	full	24	23.9	GA	PF01526.25	Pfam
+DDE_2	23	full	23	22.7	GA	PF02914.23	Pfam
+Mu-transpos_C	21.7	full	21.7	21.6	GA	PF09299.19	Pfam
+DDE_Tnp_IS240	27	full	27	26.9	GA	PF13610.13	Pfam
+Phage_integrase	27.1	full	27.1	27	GA	PF00589.28	Pfam
+Resolvase	23.3	full	23.3	23.2	GA	PF00239.28	Pfam
+Recombinase	21.1	full	21.1	21	GA	PF07508.21	Pfam
+recomb_XerC	335.15	full	335.15	316.75	TC	TIGR02224.1	NCBIfam
+recomb_XerD	329.6	full	329.6	326.65	TC	TIGR02225.1	NCBIfam
+K03087	425.60	full			KOfam_threshold	K03087	KOfam
+rpoS_proteo	378.7	full	378.7	339.75	TC	TIGR02394.1	NCBIfam

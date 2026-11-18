@@ -1,0 +1,13 @@
+	domain	log_T_sd_total	log_T_sd_seasonal	log_T_sd_resid	log_T_sd_interann	T_ac1_resid	T_frac_seasonal
+log_T_sd_total	land	1.0	1.0	0.89	0.58	-0.72	0.87
+log_T_sd_seasonal	land	1.0	1.0	0.88	0.55	-0.72	0.91
+log_T_sd_resid	land	0.89	0.88	1.0	0.74	-0.7	0.72
+log_T_sd_interann	land	0.58	0.55	0.74	1.0	-0.3	0.32
+T_ac1_resid	land	-0.72	-0.72	-0.7	-0.3	1.0	-0.63
+T_frac_seasonal	land	0.87	0.91	0.72	0.32	-0.63	1.0
+log_T_sd_total	marine	1.0	1.0	0.75	0.61	-0.29	0.75
+log_T_sd_seasonal	marine	1.0	1.0	0.71	0.57	-0.3	0.81
+log_T_sd_resid	marine	0.75	0.71	1.0	0.82	-0.05	0.24
+log_T_sd_interann	marine	0.61	0.57	0.82	1.0	0.16	0.13
+T_ac1_resid	marine	-0.29	-0.3	-0.05	0.16	1.0	-0.33
+T_frac_seasonal	marine	0.75	0.81	0.24	0.13	-0.33	1.0

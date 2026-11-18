@@ -1,0 +1,46 @@
+phyla with >= 20 MAG- and >= 20 isolate-represented species: Actinomycetota, Bacillota, Bacteroidota, Cyanobacteriota, Planctomycetota, Pseudomonadota 
+common-support strata: 18 
+                            
+                               0   1
+  Actinomycetota freshwater  101 127
+  Actinomycetota marine       67 105
+  Actinomycetota soil        371 258
+  Bacillota freshwater        65  18
+  Bacillota marine            45  29
+  Bacillota soil             203  27
+  Bacteroidota freshwater     78 287
+  Bacteroidota marine        132 196
+  Bacteroidota soil           69 116
+  Cyanobacteriota freshwater  30  58
+  Cyanobacteriota marine      80 107
+  Planctomycetota marine      21  73
+  Pseudomonadota freshwater  410 378
+  Pseudomonadota marine      451 556
+  Pseudomonadota soil        587 262
+  other freshwater            30 690
+  other marine                23 448
+  other soil                  54 595
+          model    n n_mag    lambda n_groupings se_jackknife_first interaction
+1 M0_unadjusted 7327  4492 0.9358373          50        0.006739143    0.024064
+     se_model      p_model ci95_lo_model ci95_hi_model se_jackknife
+1 0.005030054 1.751663e-06    0.01420509    0.03392291  0.007144876
+       model    n n_mag    lambda n_groupings se_jackknife_first interaction
+1 M1_habitat 7327  4492 0.9358464          50        0.006063833    0.027253
+     se_model      p_model ci95_lo_model ci95_hi_model se_jackknife
+1 0.005109696 9.917459e-08      0.017238    0.03726801  0.005859692
+      model    n n_mag    lambda n_groupings se_jackknife_first interaction
+1 M2_phylum 7327  4492 0.9334621          50         0.00732183  0.02584297
+    se_model     p_model ci95_lo_model ci95_hi_model se_jackknife
+1 0.00575078 7.10343e-06    0.01457144    0.03711449  0.007343507
+         model    n n_mag    lambda n_groupings se_jackknife_first interaction
+1 M3_lat_meanT 7327  4492 0.9359552          50        0.007470915  0.02370516
+     se_model      p_model ci95_lo_model ci95_hi_model se_jackknife
+1 0.005138416 4.030323e-06    0.01363386    0.03377645  0.007361383
+   model    n n_mag    lambda n_groupings se_jackknife_first interaction
+1 M4_all 7327  4492 0.9336669          50        0.009330415  0.02775822
+     se_model     p_model ci95_lo_model ci95_hi_model se_jackknife
+1 0.005893887 2.52712e-06     0.0162062    0.03931024  0.008360013
+              model    n n_mag    lambda n_groupings se_jackknife_first
+1 M5_common_support 7147  4330 0.9331101          50         0.01038251
+  interaction    se_model      p_model ci95_lo_model ci95_hi_model se_jackknife
+1   0.0250268 0.006012446 3.185019e-05    0.01324241     0.0368112  0.008402428

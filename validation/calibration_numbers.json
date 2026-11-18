@@ -1,0 +1,369 @@
+{
+ "n_calibration": 543,
+ "n_pos": 195,
+ "n_neg": 348,
+ "n_not_scored": 0,
+ "auc_spo_strict": [
+  0.9168287651046272,
+  0.8905989512293845,
+  0.9403900431812272
+ ],
+ "youden_spo_strict": [
+  27,
+  0.7424845269672855,
+  27
+ ],
+ "auc_spo_relaxed": [
+  0.9104258768051872,
+  0.8816027643581663,
+  0.9333787764126305
+ ],
+ "youden_spo_relaxed": [
+  29,
+  0.6934129089301504,
+  29
+ ],
+ "Spo0A & >=25 (pre-registered)": {
+  "n": 543,
+  "TP": 176,
+  "FN": 19,
+  "FP": 77,
+  "TN": 271,
+  "sensitivity": 0.9025641025641026,
+  "specificity": 0.7787356321839081,
+  "precision": 0.6956521739130435,
+  "MCC": 0.6552181029174087,
+  "accuracy": 0.8232044198895028
+ },
+ "Spo0A & >=17": {
+  "n": 543,
+  "TP": 180,
+  "FN": 15,
+  "FP": 86,
+  "TN": 262,
+  "sensitivity": 0.9230769230769231,
+  "specificity": 0.7528735632183908,
+  "precision": 0.6766917293233082,
+  "MCC": 0.648695835165224,
+  "accuracy": 0.8139963167587477
+ },
+ "Spo0A & >=20": {
+  "n": 543,
+  "TP": 177,
+  "FN": 18,
+  "FP": 86,
+  "TN": 262,
+  "sensitivity": 0.9076923076923077,
+  "specificity": 0.7528735632183908,
+  "precision": 0.6730038022813688,
+  "MCC": 0.6341122881130319,
+  "accuracy": 0.8084714548802947
+ },
+ "Spo0A & >=27": {
+  "n": 543,
+  "TP": 169,
+  "FN": 26,
+  "FP": 45,
+  "TN": 303,
+  "sensitivity": 0.8666666666666667,
+  "specificity": 0.8706896551724138,
+  "precision": 0.7897196261682243,
+  "MCC": 0.7239015392776957,
+  "accuracy": 0.8692449355432781
+ },
+ "Spo0A only": {
+  "n": 543,
+  "TP": 182,
+  "FN": 13,
+  "FP": 112,
+  "TN": 236,
+  "sensitivity": 0.9333333333333333,
+  "specificity": 0.6781609195402298,
+  "precision": 0.6190476190476191,
+  "MCC": 0.5887432874710462,
+  "accuracy": 0.7697974217311234
+ },
+ "Spo0A & relaxed >=25": {
+  "n": 543,
+  "TP": 177,
+  "FN": 18,
+  "FP": 83,
+  "TN": 265,
+  "sensitivity": 0.9076923076923077,
+  "specificity": 0.7614942528735632,
+  "precision": 0.6807692307692308,
+  "MCC": 0.6426496069285033,
+  "accuracy": 0.8139963167587477
+ },
+ "quality: tier A (IJSEM description present)": {
+  "n": 330,
+  "TP": 130,
+  "FN": 11,
+  "FP": 47,
+  "TN": 142,
+  "sensitivity": 0.9219858156028369,
+  "specificity": 0.7513227513227513,
+  "precision": 0.7344632768361582,
+  "MCC": 0.6679166197369152,
+  "accuracy": 0.8242424242424242,
+  "auc": [
+   0.9106157829562085,
+   0.8778398750444858,
+   0.9396777583386272
+  ]
+ },
+ "quality: >=2 curated sources agree": {
+  "n": 293,
+  "TP": 118,
+  "FN": 7,
+  "FP": 36,
+  "TN": 132,
+  "sensitivity": 0.944,
+  "specificity": 0.7857142857142857,
+  "precision": 0.7662337662337663,
+  "MCC": 0.7227610421007697,
+  "accuracy": 0.8532423208191127,
+  "auc": [
+   0.9640000000000001,
+   0.9446440680898266,
+   0.9801133439516926
+  ]
+ },
+ "quality: complete/chromosome assemblies": {
+  "n": 203,
+  "TP": 52,
+  "FN": 6,
+  "FP": 36,
+  "TN": 109,
+  "sensitivity": 0.896551724137931,
+  "specificity": 0.7517241379310344,
+  "precision": 0.5909090909090909,
+  "MCC": 0.5909729366542156,
+  "accuracy": 0.7931034482758621,
+  "auc": [
+   0.9293697978596909,
+   0.8883562641049056,
+   0.9633302418917876
+  ]
+ },
+ "lineage": [
+  {
+   "lineage": "Bacillaceae",
+   "n": 59,
+   "n_pos": 44,
+   "n_neg": 15,
+   "AUC_strict": 0.868939393939394,
+   "TP": 43,
+   "FN": 1,
+   "FP": 6,
+   "TN": 9,
+   "sensitivity": 0.9772727272727273,
+   "specificity": 0.6,
+   "MCC": 0.6699694009017967,
+   "median_strict_pos": 33.0,
+   "median_strict_neg": 1.0
+  },
+  {
+   "lineage": "Clostridia",
+   "n": 191,
+   "n_pos": 98,
+   "n_neg": 93,
+   "AUC_strict": 0.7931753346499891,
+   "TP": 91,
+   "FN": 7,
+   "FP": 64,
+   "TN": 29,
+   "sensitivity": 0.9285714285714286,
+   "specificity": 0.3118279569892473,
+   "MCC": 0.3072350546579158,
+   "median_strict_pos": 31.0,
+   "median_strict_neg": 26.0
+  },
+  {
+   "lineage": "Erysipelotrichia",
+   "n": 16,
+   "n_pos": 3,
+   "n_neg": 13,
+   "AUC_strict": 0.9230769230769231,
+   "TP": 0,
+   "FN": 3,
+   "FP": 1,
+   "TN": 12,
+   "sensitivity": 0.0,
+   "specificity": 0.9230769230769231,
+   "MCC": -0.12403473458920847,
+   "median_strict_pos": 18.0,
+   "median_strict_neg": 1.0
+  },
+  {
+   "lineage": "Lactobacillales",
+   "n": 73,
+   "n_pos": 3,
+   "n_neg": 70,
+   "AUC_strict": 0.4928571428571429,
+   "TP": 0,
+   "FN": 3,
+   "FP": 0,
+   "TN": 70,
+   "sensitivity": 0.0,
+   "specificity": 1.0,
+   "MCC": NaN,
+   "median_strict_pos": 0.0,
+   "median_strict_neg": 0.0
+  },
+  {
+   "lineage": "Mollicutes",
+   "n": 46,
+   "n_pos": 0,
+   "n_neg": 46,
+   "AUC_strict": NaN,
+   "TP": 0,
+   "FN": 0,
+   "FP": 0,
+   "TN": 46,
+   "sensitivity": NaN,
+   "specificity": 1.0,
+   "MCC": NaN,
+   "median_strict_pos": NaN,
+   "median_strict_neg": 0.0
+  },
+  {
+   "lineage": "Negativicutes",
+   "n": 54,
+   "n_pos": 12,
+   "n_neg": 42,
+   "AUC_strict": 0.9781746031746031,
+   "TP": 12,
+   "FN": 0,
+   "FP": 1,
+   "TN": 41,
+   "sensitivity": 1.0,
+   "specificity": 0.9761904761904762,
+   "MCC": 0.9492622930986467,
+   "median_strict_pos": 30.0,
+   "median_strict_neg": 1.0
+  },
+  {
+   "lineage": "Paenibacillaceae",
+   "n": 21,
+   "n_pos": 21,
+   "n_neg": 0,
+   "AUC_strict": NaN,
+   "TP": 20,
+   "FN": 1,
+   "FP": 0,
+   "TN": 0,
+   "sensitivity": 0.9523809523809523,
+   "specificity": NaN,
+   "MCC": NaN,
+   "median_strict_pos": 32.0,
+   "median_strict_neg": NaN
+  },
+  {
+   "lineage": "Tissierellia",
+   "n": 23,
+   "n_pos": 9,
+   "n_neg": 14,
+   "AUC_strict": 0.8333333333333333,
+   "TP": 5,
+   "FN": 4,
+   "FP": 0,
+   "TN": 14,
+   "sensitivity": 0.5555555555555556,
+   "specificity": 1.0,
+   "MCC": 0.6573421981221795,
+   "median_strict_pos": 31.0,
+   "median_strict_neg": 0.0
+  },
+  {
+   "lineage": "other Bacillales",
+   "n": 60,
+   "n_pos": 5,
+   "n_neg": 55,
+   "AUC_strict": 0.9690909090909091,
+   "TP": 5,
+   "FN": 0,
+   "FP": 5,
+   "TN": 50,
+   "sensitivity": 1.0,
+   "specificity": 0.9090909090909091,
+   "MCC": 0.674199862463242,
+   "median_strict_pos": 31.0,
+   "median_strict_neg": 0.0
+  }
+ ],
+ "browne_experimental": {
+  "n": 5,
+  "TP": 0,
+  "FN": 0,
+  "FP": 0,
+  "TN": 5,
+  "sensitivity": NaN,
+  "specificity": 1.0,
+  "precision": NaN,
+  "MCC": NaN,
+  "accuracy": 1.0,
+  "n_nonzero": 4,
+  "max": 19.0,
+  "nonzero": [
+   {
+    "organism": "Thomasclavelia ramosa DSM 1402",
+    "phylum": "Firmicutes",
+    "spo_strict": 19,
+    "spo0A": 1
+   },
+   {
+    "organism": "Catenibacterium mitsuokai DSM 15897",
+    "phylum": "Firmicutes",
+    "spo_strict": 1,
+    "spo0A": 0
+   },
+   {
+    "organism": "Eggerthia catenaformis OT 569 = DSM 20559",
+    "phylum": "Firmicutes",
+    "spo_strict": 1,
+    "spo0A": 0
+   },
+   {
+    "organism": "Holdemania massiliensis AP2",
+    "phylum": "Firmicutes",
+    "spo_strict": 15,
+    "spo0A": 1
+   }
+  ]
+ },
+ "specificity": {
+  "n": 71,
+  "TP": 0,
+  "FN": 0,
+  "FP": 0,
+  "TN": 71,
+  "sensitivity": NaN,
+  "specificity": 1.0,
+  "precision": NaN,
+  "MCC": NaN,
+  "accuracy": 1.0,
+  "n_nonzero": 0,
+  "max": 0.0,
+  "nonzero": []
+ },
+ "qc_nonendospore": {
+  "n": 12,
+  "TP": 0,
+  "FN": 12,
+  "FP": 0,
+  "TN": 0,
+  "sensitivity": 0.0,
+  "specificity": NaN,
+  "precision": NaN,
+  "MCC": NaN,
+  "accuracy": 0.0,
+  "n_nonzero": 0,
+  "max": 0.0,
+  "nonzero": []
+ },
+ "n_misclassified": {
+  "calibration:FN": 19,
+  "calibration:FP": 77
+ }
+}

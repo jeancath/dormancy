@@ -1,0 +1,177 @@
+step 1: 200 of 7714
+step 1: 400 of 7714
+step 1: 600 of 7714
+step 1: 800 of 7714
+step 1: 1000 of 7714
+step 1: 1200 of 7714
+step 1: 1400 of 7714
+step 1: 1600 of 7714
+step 1: 1800 of 7714
+step 1: 2000 of 7714
+step 1: 2200 of 7714
+step 1: 2400 of 7714
+step 1: 2600 of 7714
+step 1: 2800 of 7714
+step 1: 3000 of 7714
+step 1: 3200 of 7714
+step 1: 3400 of 7714
+step 1: 3600 of 7714
+step 1: 3800 of 7714
+step 1: 4000 of 7714
+step 1: 4200 of 7714
+step 1: 4400 of 7714
+step 1: 4600 of 7714
+step 1: 4800 of 7714
+step 1: 5000 of 7714
+step 1: 5200 of 7714
+step 1: 5400 of 7714
+step 1: 5600 of 7714
+step 1: 5800 of 7714
+step 1: 6000 of 7714
+step 1: 6200 of 7714
+step 1: 6400 of 7714
+step 1: 6600 of 7714
+step 1: 6800 of 7714
+step 1: 7000 of 7714
+step 1: 7200 of 7714
+step 1: 7400 of 7714
+step 1: 7600 of 7714
+step 1: 7714 of 7714
+step 2: SAMD00000346 True
+step 2: SAMD00018365 True
+step 2: SAMD00023458 True
+step 2: SAMD00023463 True
+step 2: SAMD00024725 True
+step 2: SAMD00027389 True
+step 2: SAMD00042755 True
+step 2: SAMD00045526 True
+step 2: SAMD00047326 True
+step 2: SAMD00053944 True
+step 2: SAMD00066477 True
+step 2: SAMD00067362 True
+step 2: SAMD00069837 True
+step 2: SAMD00073751 True
+step 2: SAMD00097891 True
+step 2: SAMD00106228 True
+step 2: SAMD00106496 True
+step 2: SAMD00108308 True
+step 2: SAMD00111974 True
+step 2: SAMD00111975 True
+step 2: SAMD00111977 True
+step 2: SAMD00112194 True
+step 2: SAMD00112300 True
+step 2: SAMD00113021 True
+step 2: SAMD00117325 True
+step 2: SAMD00146100 True
+step 2: SAMD00147580 True
+step 2: SAMD00161215 True
+step 2: SAMD00166046 True
+step 2: SAMD00166048 True
+step 2: SAMD00166049 True
+step 2: SAMD00166052 True
+step 2: SAMD00166053 True
+step 2: SAMD00166054 True
+step 2: SAMD00166058 True
+step 2: SAMD00166060 True
+step 2: SAMD00166061 True
+step 2: SAMD00166063 True
+step 2: SAMD00166067 True
+step 2: SAMD00166069 True
+step 2: SAMD00166070 True
+step 2: SAMD00166071 True
+step 2: SAMD00166072 True
+step 2: SAMD00166075 True
+step 2: SAMD00166078 True
+step 2: SAMD00166079 True
+step 2: SAMD00166081 True
+step 2: SAMD00166082 True
+step 2: SAMD00166087 True
+step 2: SAMD00166088 True
+step 2: SAMD00166089 True
+step 2: SAMD00166091 True
+step 2: SAMD00166092 True
+step 2: SAMD00166093 True
+step 2: SAMD00166094 True
+step 2: SAMD00166097 True
+step 2: SAMD00166098 True
+step 2: SAMD00166100 True
+step 2: SAMD00172921 True
+step 2: SAMD00172935 True
+step 2: SAMD00178857 True
+step 2: SAMD00179560 True
+step 2: SAMD00181890 True
+step 2: SAMD00181891 True
+step 2: SAMD00182636 True
+step 2: SAMD00189165 True
+step 2: SAMD00201571 True
+step 2: SAMD00204451 True
+step 2: SAMD00217164 True
+step 2: SAMD00225118 True
+step 2: SAMD00229388 True
+step 2: SAMD00231520 True
+step 2: SAMD00233082 True
+step 2: SAMD00238716 True
+step 2: SAMD00252853 True
+step 2: SAMD00260486 True
+step 2: SAMD00262792 True
+step 2: SAMD00272079 True
+step 2: SAMD00272080 True
+step 2: SAMD00282209 True
+step 2: SAMD00283287 True
+step 2: SAMD00283289 True
+step 2: SAMD00283291 True
+step 2: SAMD00283292 True
+step 2: SAMD00283293 True
+step 2: SAMD00283294 True
+step 2: SAMD00283295 True
+step 2: SAMD00283297 True
+step 2: SAMD00283332 True
+step 2: SAMD00317638 True
+step 2: SAMD00412743 True
+step 2: SAMD00412744 True
+step 2: SAMD00433879 True
+step 2: SAMD00439330 True
+step 2: SAMD00495585 True
+step 2: SAMD00518785 True
+step 2: SAMD00520031 True
+step 2: SAMD00532374 True
+step 2: SAMD00549750 True
+step 2: SAMD00549751 True
+step 2: SAMD00549752 True
+step 2: SAMD00549753 True
+step 2: SAMD00554065 True
+step 2: SAMD00562293 True
+step 2: SAMD00577133 True
+step 2: SAMD00613833 True
+step 2: SAMD00613836 True
+step 2: SAMD00613837 True
+step 2: SAMD00613838 True
+step 2: SAMEA104124995 True
+step 2: SAMEA2272452 True
+step 2: SAMEA3294087 True
+step 2: SAMEA3931508 True
+step 2: SAMEA3931510 True
+step 2: SAMEA3931511 True
+step 2: SAMEA3931512 True
+step 2: SAMEA3931514 True
+step 2: SAMEA3931515 True
+step 2: SAMEA4384482 True
+step 2: SAMEA4384484 True
+step 2: SAMEA4384535 True
+                                                           step  count
+                    BioSamples requested (all analysed genomes)   7714
+                                analysed genomes linked to them   7715
+                                       step 1: records returned   7708
+                    step 1: returned records matching a request   7593
+step 1: returned records NOT requested (misresolved, discarded)    115
+                      step 1: requests without their own record    121
+            of which a misresolved record was returned for them    115
+                         of which nothing was returned for them      6
+                           step 2: requests resolved by esearch    121
+                   step 2: records verified (accession matches)    121
+                                       final: BioSamples linked   7714
+                      final: BioSamples not retrieved (missing)      0
+                                    final: confirmatory genomes   7327
+            final: confirmatory genomes with a linked BioSample   7327
+     check: raw date identical to the original run (BioSamples)   7714
+     check: raw date differs from the original run (BioSamples)      0

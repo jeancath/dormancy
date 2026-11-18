@@ -1,0 +1,140 @@
+        analysis genome_type response dropped    n       beta          se
+1 module_by_type         MAG   DORM_z         4492 0.01806894 0.003389135
+             p
+1 1.022264e-07
+        analysis genome_type          response dropped    n        beta
+1 module_by_type         MAG log1p(spo_strict)         4492 0.001647682
+           se         p
+1 0.001077891 0.1264301
+        analysis genome_type     response dropped    n          beta
+1 module_by_type         MAG log1p(n_rpf)         4492 -0.0008522397
+           se         p
+1 0.001365936 0.5327095
+        analysis genome_type     response dropped    n       beta          se
+1 module_by_type         MAG log1p(n_hib)         4492 0.01683506 0.003473955
+             p
+1 1.301743e-06
+        analysis genome_type    response dropped    n        beta          se
+1 module_by_type         MAG log1p(n_sr)         4492 0.008843916 0.003186016
+            p
+1 0.005528512
+        analysis genome_type        response dropped    n      beta         se
+1 module_by_type         MAG log1p(ta_pairs)         4492 0.0200384 0.01020803
+           p
+1 0.04970742
+        analysis genome_type response dropped    n         beta          se
+1 module_by_type     isolate   DORM_z         2835 -0.007918786 0.003648235
+           p
+1 0.03004582
+        analysis genome_type          response dropped    n        beta
+1 module_by_type     isolate log1p(spo_strict)         2835 0.001188666
+           se         p
+1 0.001767579 0.5013317
+        analysis genome_type     response dropped    n         beta          se
+1 module_by_type     isolate log1p(n_rpf)         2835 -0.002269052 0.001346392
+           p
+1 0.09204419
+        analysis genome_type     response dropped    n         beta          se
+1 module_by_type     isolate log1p(n_hib)         2835 -0.008032432 0.003361385
+          p
+1 0.0169309
+        analysis genome_type    response dropped    n         beta          se
+1 module_by_type     isolate log1p(n_sr)         2835 -0.002134903 0.003597965
+         p
+1 0.552985
+        analysis genome_type        response dropped    n      beta         se
+1 module_by_type     isolate log1p(ta_pairs)         2835 0.0205076 0.01401463
+          p
+1 0.1434966
+                analysis genome_type response             dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 45.5 3 (n=351) 4141
+        beta          se            p
+1 0.01817234 0.003437552 1.311693e-07
+                analysis genome_type response              dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 68.5 19 (n=236) 4256
+        beta          se            p
+1 0.01801392 0.003439743 1.711014e-07
+                analysis genome_type response                dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land -6.5 29.5 (n=225) 4267
+        beta          se            p
+1 0.02308487 0.003852825 2.248386e-09
+                analysis genome_type response               dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 35 -98.5 (n=223) 4269
+        beta          se            p
+1 0.01787427 0.003416708 1.762756e-07
+                analysis genome_type response               dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 45.5 -73 (n=200) 4292
+        beta          se            p
+1 0.01982447 0.003508087 1.697864e-08
+                analysis genome_type response                    dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z marine 48.5 -123.5 (n=194) 4298
+        beta          se            p
+1 0.01726997 0.003471557 6.790296e-07
+                analysis genome_type response                  dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 39.5 -123.5 (n=168) 4324
+        beta          se            p
+1 0.01694031 0.003431371 8.237124e-07
+                analysis genome_type response             dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 0.5 30 (n=148) 4344
+        beta          se            p
+1 0.01840919 0.003734924 8.576477e-07
+                analysis genome_type response                 dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land -19.5 -43.5 (n=77) 4415
+        beta          se            p
+1 0.01818035 0.003420267 1.116331e-07
+                analysis genome_type response              dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 41 -76.5 (n=75) 4417
+        beta          se            p
+1 0.01720681 0.003412751 4.793666e-07
+                analysis genome_type response               dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z marine -38 145 (n=67) 4425
+       beta          se            p
+1 0.0176666 0.003399659 2.121367e-07
+                analysis genome_type response               dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z marine 37 52.5 (n=67) 4425
+        beta          se            p
+1 0.01787877 0.003434059 2.013797e-07
+                analysis genome_type response               dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 40.5 -105 (n=52) 4440
+        beta          se            p
+1 0.01778068 0.003399182 1.764899e-07
+                analysis genome_type response            dropped    n
+1 MAG_leave_one_site_out         MAG   DORM_z land 52 105 (n=52) 4440
+        beta          se            p
+1 0.02018979 0.003426089 4.074558e-09
+                analysis genome_type response           dropped    n       beta
+1 MAG_leave_one_site_out         MAG   DORM_z land 54 90 (n=49) 4443 0.01719197
+           se            p
+1 0.003400143 4.448111e-07
+              analysis genome_type response      dropped    n       beta
+1 MAG_drop_top15_sites         MAG   DORM_z top 15 sites 2308 0.02136543
+           se            p
+1 0.005675451 0.0001710344
+                     analysis genome_type response     dropped    n       beta
+1 shared_families_interaction        both   DORM_z 39 families 2738 0.02310491
+          se           p
+1 0.00735806 0.001707061
+          analysis genome_type  response dropped    n         beta          se
+1 negative_control         MAG log(n_HE)         4486 -0.005322253 0.001397043
+             p
+1 0.0001410247
+          analysis genome_type          response dropped    n        beta
+1 negative_control         MAG log1p(n_rsh_long)         4486 0.003210036
+           se         p
+1 0.002043172 0.1162291
+          analysis genome_type       response dropped    n        beta
+1 negative_control         MAG coding_density         4486 -0.02800802
+          se         p
+1 0.02348291 0.2330507
+          analysis genome_type  response dropped    n         beta           se
+1 negative_control     isolate log(n_HE)         2835 0.0005272316 0.0005844842
+          p
+1 0.3671092
+          analysis genome_type          response dropped    n       beta
+1 negative_control     isolate log1p(n_rsh_long)         2835 0.00166327
+           se         p
+1 0.001207594 0.1685154
+          analysis genome_type       response dropped    n       beta
+1 negative_control     isolate coding_density         2835 0.01893818
+          se         p
+1 0.02650061 0.4748955

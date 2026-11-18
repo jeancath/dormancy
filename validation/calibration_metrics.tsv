@@ -1,0 +1,90 @@
+subset	metric	value	ci_lo	ci_hi	n	TP	FN	FP	TN
+calibration (all Bacillota)	AUC spo_strict	0.9168	0.8906	0.9404	543				
+calibration (all Bacillota)	Youden-optimal threshold spo_strict (score>=k)	27			543				
+calibration (all Bacillota)	Youden J at optimum spo_strict	0.7425			543				
+calibration (all Bacillota)	Youden-optimal k for Spo0A & spo_strict>=k	27			543				
+calibration (all Bacillota)	AUC spo_relaxed	0.9104	0.8816	0.9334	543				
+calibration (all Bacillota)	Youden-optimal threshold spo_relaxed (score>=k)	29			543				
+calibration (all Bacillota)	Youden J at optimum spo_relaxed	0.6934			543				
+calibration (all Bacillota)	Youden-optimal k for Spo0A & spo_relaxed>=k	29			543				
+calibration (all Bacillota)	Spo0A & >=25 (pre-registered): sensitivity	0.9026	0.8571	0.9421	543	176	19	77	271
+calibration (all Bacillota)	Spo0A & >=25 (pre-registered): specificity	0.7787	0.7349	0.8216	543	176	19	77	271
+calibration (all Bacillota)	Spo0A & >=25 (pre-registered): precision	0.6957	0.6367	0.752	543	176	19	77	271
+calibration (all Bacillota)	Spo0A & >=25 (pre-registered): MCC	0.6552	0.5938	0.713	543	176	19	77	271
+calibration (all Bacillota)	Spo0A & >=17: sensitivity	0.9231	0.8826	0.9592	543	180	15	86	262
+calibration (all Bacillota)	Spo0A & >=17: specificity	0.7529	0.7065	0.7988	543	180	15	86	262
+calibration (all Bacillota)	Spo0A & >=17: precision	0.6767	0.6226	0.7297	543	180	15	86	262
+calibration (all Bacillota)	Spo0A & >=17: MCC	0.6487	0.5862	0.7063	543	180	15	86	262
+calibration (all Bacillota)	Spo0A & >=20: sensitivity	0.9077	0.8643	0.9457	543	177	18	86	262
+calibration (all Bacillota)	Spo0A & >=20: specificity	0.7529	0.7067	0.7977	543	177	18	86	262
+calibration (all Bacillota)	Spo0A & >=20: precision	0.673	0.6176	0.7298	543	177	18	86	262
+calibration (all Bacillota)	Spo0A & >=20: MCC	0.6341	0.5727	0.6964	543	177	18	86	262
+calibration (all Bacillota)	Spo0A & >=27: sensitivity	0.8667	0.8158	0.9118	543	169	26	45	303
+calibration (all Bacillota)	Spo0A & >=27: specificity	0.8707	0.8357	0.9039	543	169	26	45	303
+calibration (all Bacillota)	Spo0A & >=27: precision	0.7897	0.735	0.8426	543	169	26	45	303
+calibration (all Bacillota)	Spo0A & >=27: MCC	0.7239	0.6665	0.7839	543	169	26	45	303
+calibration (all Bacillota)	Spo0A only: sensitivity	0.9333	0.8958	0.9654	543	182	13	112	236
+calibration (all Bacillota)	Spo0A only: specificity	0.6782	0.629	0.7249	543	182	13	112	236
+calibration (all Bacillota)	Spo0A only: precision	0.619	0.5639	0.6748	543	182	13	112	236
+calibration (all Bacillota)	Spo0A only: MCC	0.5887	0.5332	0.6468	543	182	13	112	236
+calibration (all Bacillota)	Spo0A & relaxed >=25: sensitivity	0.9077	0.8667	0.9466	543	177	18	83	265
+calibration (all Bacillota)	Spo0A & relaxed >=25: specificity	0.7615	0.7151	0.8043	543	177	18	83	265
+calibration (all Bacillota)	Spo0A & relaxed >=25: precision	0.6808	0.6221	0.7378	543	177	18	83	265
+calibration (all Bacillota)	Spo0A & relaxed >=25: MCC	0.6426	0.5817	0.702	543	177	18	83	265
+label quality: tier A (IJSEM description present)	AUC spo_strict	0.9106	0.8778	0.9397	330				
+label quality: tier A (IJSEM description present)	Spo0A & >=25 (pre-registered): sensitivity	0.922			330	130	11	47	142
+label quality: tier A (IJSEM description present)	Spo0A & >=25 (pre-registered): specificity	0.7513			330	130	11	47	142
+label quality: tier A (IJSEM description present)	Spo0A & >=25 (pre-registered): MCC	0.6679			330	130	11	47	142
+label quality: >=2 curated sources agree	AUC spo_strict	0.964	0.9446	0.9801	293				
+label quality: >=2 curated sources agree	Spo0A & >=25 (pre-registered): sensitivity	0.944			293	118	7	36	132
+label quality: >=2 curated sources agree	Spo0A & >=25 (pre-registered): specificity	0.7857			293	118	7	36	132
+label quality: >=2 curated sources agree	Spo0A & >=25 (pre-registered): MCC	0.7228			293	118	7	36	132
+label quality: complete/chromosome assemblies	AUC spo_strict	0.9294	0.8884	0.9633	203				
+label quality: complete/chromosome assemblies	Spo0A & >=25 (pre-registered): sensitivity	0.8966			203	52	6	36	109
+label quality: complete/chromosome assemblies	Spo0A & >=25 (pre-registered): specificity	0.7517			203	52	6	36	109
+label quality: complete/chromosome assemblies	Spo0A & >=25 (pre-registered): MCC	0.591			203	52	6	36	109
+lineage: Bacillaceae	Spo0A & >=25 (pre-registered): sensitivity	0.9773			59	43	1	6	9
+lineage: Bacillaceae	Spo0A & >=25 (pre-registered): specificity	0.6			59	43	1	6	9
+lineage: Bacillaceae	Spo0A & >=25 (pre-registered): MCC	0.67			59	43	1	6	9
+lineage: Bacillaceae	AUC spo_strict	0.8689			59				
+lineage: Clostridia	Spo0A & >=25 (pre-registered): sensitivity	0.9286			191	91	7	64	29
+lineage: Clostridia	Spo0A & >=25 (pre-registered): specificity	0.3118			191	91	7	64	29
+lineage: Clostridia	Spo0A & >=25 (pre-registered): MCC	0.3072			191	91	7	64	29
+lineage: Clostridia	AUC spo_strict	0.7932			191				
+lineage: Erysipelotrichia	Spo0A & >=25 (pre-registered): sensitivity	0			16	0	3	1	12
+lineage: Erysipelotrichia	Spo0A & >=25 (pre-registered): specificity	0.9231			16	0	3	1	12
+lineage: Erysipelotrichia	Spo0A & >=25 (pre-registered): MCC	-0.124			16	0	3	1	12
+lineage: Erysipelotrichia	AUC spo_strict	0.9231			16				
+lineage: Lactobacillales	Spo0A & >=25 (pre-registered): sensitivity	0			73	0	3	0	70
+lineage: Lactobacillales	Spo0A & >=25 (pre-registered): specificity	1			73	0	3	0	70
+lineage: Lactobacillales	Spo0A & >=25 (pre-registered): MCC				73	0	3	0	70
+lineage: Lactobacillales	AUC spo_strict	0.4929			73				
+lineage: Mollicutes	Spo0A & >=25 (pre-registered): sensitivity				46	0	0	0	46
+lineage: Mollicutes	Spo0A & >=25 (pre-registered): specificity	1			46	0	0	0	46
+lineage: Mollicutes	Spo0A & >=25 (pre-registered): MCC				46	0	0	0	46
+lineage: Mollicutes	AUC spo_strict				46				
+lineage: Negativicutes	Spo0A & >=25 (pre-registered): sensitivity	1			54	12	0	1	41
+lineage: Negativicutes	Spo0A & >=25 (pre-registered): specificity	0.9762			54	12	0	1	41
+lineage: Negativicutes	Spo0A & >=25 (pre-registered): MCC	0.9493			54	12	0	1	41
+lineage: Negativicutes	AUC spo_strict	0.9782			54				
+lineage: Paenibacillaceae	Spo0A & >=25 (pre-registered): sensitivity	0.9524			21	20	1	0	0
+lineage: Paenibacillaceae	Spo0A & >=25 (pre-registered): specificity				21	20	1	0	0
+lineage: Paenibacillaceae	Spo0A & >=25 (pre-registered): MCC				21	20	1	0	0
+lineage: Paenibacillaceae	AUC spo_strict				21				
+lineage: Tissierellia	Spo0A & >=25 (pre-registered): sensitivity	0.5556			23	5	4	0	14
+lineage: Tissierellia	Spo0A & >=25 (pre-registered): specificity	1			23	5	4	0	14
+lineage: Tissierellia	Spo0A & >=25 (pre-registered): MCC	0.6573			23	5	4	0	14
+lineage: Tissierellia	AUC spo_strict	0.8333			23				
+lineage: other Bacillales	Spo0A & >=25 (pre-registered): sensitivity	1			60	5	0	5	50
+lineage: other Bacillales	Spo0A & >=25 (pre-registered): specificity	0.9091			60	5	0	5	50
+lineage: other Bacillales	Spo0A & >=25 (pre-registered): MCC	0.6742			60	5	0	5	50
+lineage: other Bacillales	AUC spo_strict	0.9691			60				
+browne_experimental	Spo0A & >=25 (pre-registered): confusion	1			5	0	0	0	5
+browne_experimental	genomes with spo_strict > 0	4			5				
+browne_experimental	max spo_strict	19			5				
+specificity	Spo0A & >=25 (pre-registered): confusion	1			71	0	0	0	71
+specificity	genomes with spo_strict > 0	0			71				
+specificity	max spo_strict	0			71				
+qc_nonendospore	Spo0A & >=25 (pre-registered): confusion	0			12	0	12	0	0
+qc_nonendospore	genomes with spo_strict > 0	0			12				
+qc_nonendospore	max spo_strict	0			12				

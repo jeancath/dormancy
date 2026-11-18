@@ -1,0 +1,14 @@
+                model      term    n n_sites    post_mean         l95
+var1  all_interaction        P0 7327    1680 -0.008608877 -0.01565926
+var11 all_interaction P0:is_mag 7327    1680  0.026277026  0.01513216
+                u95 pMCMC  ess var_animal     var_site  var_resid
+var1  -0.0001077263 0.038 1000  0.3278674 0.0006570021 0.01812013
+var11  0.0381666181 0.001 1000  0.3278674 0.0006570021 0.01812013
+     model term    n n_sites  post_mean       l95        u95 pMCMC  ess
+var1  MAGs   P0 4492     368 0.02151788 0.0122595 0.03189926 0.001 1000
+     var_animal    var_site  var_resid
+var1  0.2313452 0.001360318 0.02688492
+        model term    n n_sites    post_mean         l95          u95 pMCMC
+var1 isolates   P0 2835    1399 -0.008506304 -0.01662743 -0.001513246 0.022
+      ess var_animal    var_site  var_resid
+var1 1000  0.4759733 0.000624982 0.01149523

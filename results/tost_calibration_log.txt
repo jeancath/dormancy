@@ -1,0 +1,94 @@
+        set    n         beta          se          lo90         hi90
+1 H1_direct 7327  0.006456035 0.002213891  2.627923e-03  0.010284146
+2  H1_total 7327  0.005828922 0.003362310  1.504123e-05  0.011642802
+3      MAGs 4492  0.017493052 0.005539020  7.915352e-03  0.027070753
+4  isolates 2835 -0.008926297 0.004355139 -1.645691e-02 -0.001395684
+        p_tost equiv    lambda  G
+1 0.0005283536     1 0.9359872 20
+2 0.0066838161     1 0.9359872 20
+3 0.6711302882     0 0.9359872 20
+4 0.0896139098     0 0.9359872 20
+beta -0.015 done 200 
+beta -0.015 done 400 
+beta -0.015 done 600 
+beta -0.015 done 800 
+beta -0.015 done 1000 
+beta -0.015 done 1200 
+beta -0.015 done 1400 
+beta -0.015 done 1600 
+beta -0.015 done 1800 
+beta -0.015 done 2000 
+beta -0.015 done 2200 
+beta -0.015 done 2400 
+beta -0.015 done 2600 
+beta -0.015 done 2800 
+beta -0.015 done 3000 
+beta -0.015 done 3200 
+beta -0.015 done 3400 
+beta -0.015 done 3600 
+beta -0.015 done 3800 
+beta -0.015 done 4000 
+beta -0.015 done 4200 
+beta -0.015 done 4400 
+beta -0.015 done 4600 
+beta -0.015 done 4800 
+beta -0.015 done 5000 
+beta 0.015 done 200 
+beta 0.015 done 400 
+beta 0.015 done 600 
+beta 0.015 done 800 
+beta 0.015 done 1000 
+beta 0.015 done 1200 
+beta 0.015 done 1400 
+beta 0.015 done 1600 
+beta 0.015 done 1800 
+beta 0.015 done 2000 
+beta 0.015 done 2200 
+beta 0.015 done 2400 
+beta 0.015 done 2600 
+beta 0.015 done 2800 
+beta 0.015 done 3000 
+beta 0.015 done 3200 
+beta 0.015 done 3400 
+beta 0.015 done 3600 
+beta 0.015 done 3800 
+beta 0.015 done 4000 
+beta 0.015 done 4200 
+beta 0.015 done 4400 
+beta 0.015 done 4600 
+beta 0.015 done 4800 
+beta 0.015 done 5000 
+beta 0 done 200 
+beta 0 done 400 
+beta 0 done 600 
+beta 0 done 800 
+beta 0 done 1000 
+beta 0 done 1200 
+beta 0 done 1400 
+beta 0 done 1600 
+beta 0 done 1800 
+beta 0 done 2000 
+beta 0.005 done 200 
+beta 0.005 done 400 
+beta 0.005 done 600 
+beta 0.005 done 800 
+beta 0.005 done 1000 
+beta 0.01 done 200 
+beta 0.01 done 400 
+beta 0.01 done 600 
+beta 0.01 done 800 
+beta 0.01 done 1000 
+     beta  nsim P_declare_equivalence mean_beta sd_beta mean_jackknife_se
+    <num> <int>                 <num>     <num>   <num>             <num>
+1: -0.015  5000                 0.050    -0.015      NA       0.003641170
+2:  0.015  5000                 0.045     0.015      NA       0.003659016
+3:  0.000  2000                 0.975     0.000      NA       0.003667369
+4:  0.005  1000                 0.838     0.005      NA       0.003624280
+5:  0.010  1000                 0.371     0.010      NA       0.003678595
+         mc_se    mc_lo95    mc_hi95
+         <num>      <num>      <num>
+1: 0.003082207 0.04395887 0.05604113
+2: 0.002931723 0.03925382 0.05074618
+3: 0.003491060 0.96815752 0.98184248
+4: 0.011651438 0.81516318 0.86083682
+5: 0.015276092 0.34105886 0.40094114

@@ -1,0 +1,6 @@
+id	response	family	predictor	covars	filter	fdr_family
+R_TA_comp95	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	checkm2_completeness >= 95	rev
+R_TA_comp98	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	checkm2_completeness >= 98	rev
+R_TA_comp98_cont1	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile+checkm2_contamination+log_n50	checkm2_completeness >= 98 & checkm2_contamination < 1	rev
+R_TA_complete_iso	ta_pairs	gaussian_log1p	is_marine	lgs+log_mobile	is_mag == 0 & complete_asm == 1	rev
+R_TA_iso_comp98	ta_pairs	gaussian_log1p	is_marine	lgs+log_mobile+checkm2_completeness	is_mag == 0 & checkm2_completeness >= 98	rev

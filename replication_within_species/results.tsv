@@ -1,0 +1,574 @@
+sample	model	response	term	estimate	se	p	n_genomes	n_species	note
+hq	descriptive	P0	within_species_SD	0.416691			7098	1473	between-species SD of species-mean P0 = 0.847; species with >1 site = 677
+hq	a_lmer_randslope	DORM_z	P0_within	-0.000984193	0.00382306	0.797301	7098	1473	
+hq	a_lmer_randslope	DORM_z	P0_between	-0.00145275	0.0144866	0.920135	7098	1473	
+hq	a_lmer_spec	DORM_z	P0	-0.000114823	0.00364524	0.97492	7098	1473	
+hq	a_speciesFE_clspecies	DORM_z	P0	0.00122947	0.00395294	0.755793	7098	1473	
+hq	a_speciesFE_clsite	DORM_z	P0	0.00122947	0.00385486	0.749784	7098	1473	
+hq	b_speciesFE_clspecies	DORM_z	P0:is_mag	-0.0112542	0.0102405	0.271819	7098	1473	
+hq	b_speciesFE_clspecies	DORM_z	P0 (isolates)	0.00294289	0.00431065	0.494824	7098	1473	
+hq	b_speciesFE_clsite	DORM_z	P0:is_mag	-0.0112542	0.00838048	0.179355	7098	1473	
+hq	b_speciesFE_clsite	DORM_z	P0 (isolates)	0.00294289	0.00428426	0.492169	7098	1473	
+hq	b_speciesFE_clsite	DORM_z	P0 (MAGs)	-0.00831136	0.00738599	0.260468	7098	1473	
+hq	b_e_lmer_randslope_site	DORM_z	P0_within:is_mag	-0.00221693	0.00986151	0.822359	7098	1473	
+hq	b_e_lmer_randslope_site	DORM_z	P0_within (isolates)	-0.0021461	0.00447326	0.632417	7098	1473	
+hq	e_lmer_randslope_site	DORM_z	P0_within	-0.00275309	0.00395813	0.488023	7098	1473	
+hq	c_speciesFE_within_type_clsite	DORM_z	P0 (MAG-only species sets)	-0.0110918	0.00872053	0.203546	2853	774	
+hq	c_speciesFE_within_type_clsite	DORM_z	P0 (isolate-only species sets)	0.00279559	0.0041804	0.503707	4154	679	
+hq	a_lmer_randslope	log_n_hib	P0_within	0.00401428	0.00334339	0.231676	7098	1473	
+hq	a_lmer_randslope	log_n_hib	P0_between	0.0240746	0.00959393	0.0122049	7098	1473	
+hq	a_lmer_spec	log_n_hib	P0	0.00603635	0.00319089	0.0599936	7098	1473	
+hq	a_speciesFE_clspecies	log_n_hib	P0	0.000802415	0.0052231	0.877909	7098	1473	
+hq	a_speciesFE_clsite	log_n_hib	P0	0.000802415	0.0053809	0.881462	7098	1473	
+hq	b_speciesFE_clspecies	log_n_hib	P0:is_mag	-0.000961871	0.012007	0.936153	7098	1473	
+hq	b_speciesFE_clspecies	log_n_hib	P0 (isolates)	0.000948857	0.00581605	0.87041	7098	1473	
+hq	b_speciesFE_clsite	log_n_hib	P0:is_mag	-0.000961871	0.0103676	0.926084	7098	1473	
+hq	b_speciesFE_clsite	log_n_hib	P0 (isolates)	0.000948857	0.00609947	0.876382	7098	1473	
+hq	b_speciesFE_clsite	log_n_hib	P0 (MAGs)	-1.30142e-05	0.0086215	0.998796	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_hib	P0_within:is_mag	-0.0102209	0.00916821	0.265746	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_hib	P0_within (isolates)	0.00395261	0.00401617	0.326673	7098	1473	
+hq	e_lmer_randslope_site	log_n_hib	P0_within	0.00191201	0.00358507	0.594517	7098	1473	
+hq	c_speciesFE_within_type_clsite	log_n_hib	P0 (MAG-only species sets)	-0.00265395	0.0106419	0.803087	2853	774	
+hq	c_speciesFE_within_type_clsite	log_n_hib	P0 (isolate-only species sets)	0.00100407	0.00584484	0.863614	4154	679	
+hq	a_lmer_randslope	hib_extra	P0_within	0.00705017	0.00417548	0.0928459	7098	1473	
+hq	a_lmer_randslope	hib_extra	P0_between	0.0326255	0.00962374	0.000717707	7098	1473	
+hq	a_lmer_spec	hib_extra	P0	0.0104982	0.00384808	0.00677177	7098	1473	
+hq	a_speciesFE_clspecies	hib_extra	P0	-0.000358399	0.00474681	0.939817	7098	1473	
+hq	a_speciesFE_clsite	hib_extra	P0	-0.000358399	0.00443195	0.935551	7098	1473	
+hq	b_speciesFE_clspecies	hib_extra	P0:is_mag	0.0115952	0.00778859	0.13661	7098	1473	
+hq	b_speciesFE_clspecies	hib_extra	P0 (isolates)	-0.00212374	0.00528419	0.68777	7098	1473	
+hq	b_speciesFE_clsite	hib_extra	P0:is_mag	0.0115952	0.0064495	0.0722546	7098	1473	
+hq	b_speciesFE_clsite	hib_extra	P0 (isolates)	-0.00212374	0.00506283	0.674884	7098	1473	
+hq	b_speciesFE_clsite	hib_extra	P0 (MAGs)	0.0094715	0.00424623	0.0257098	7098	1473	
+hq	b_e_lmer_randslope_site	hib_extra	P0_within:is_mag	0.0034745	0.00976241	0.72217	7098	1473	
+hq	b_e_lmer_randslope_site	hib_extra	P0_within (isolates)	0.0064081	0.00488185	0.19083	7098	1473	
+hq	e_lmer_randslope_site	hib_extra	P0_within	0.00729327	0.00422653	0.0859286	7098	1473	
+hq	c_speciesFE_within_type_clsite	hib_extra	P0 (MAG-only species sets)	0.0076771	0.00423081	0.0697342	2853	774	
+hq	c_speciesFE_within_type_clsite	hib_extra	P0 (isolate-only species sets)	-0.00169517	0.0047923	0.723564	4154	679	
+hq	a_lmer_randslope	log_hpf_short	P0_within	0.00249434	0.00195863	0.20289	7098	1473	singular fit
+hq	a_lmer_randslope	log_hpf_short	P0_between	0.049328	0.0140644	0.000466384	7098	1473	
+hq	a_lmer_spec	log_hpf_short	P0	0.00332774	0.00194047	0.0864143	7098	1473	singular fit
+hq	a_speciesFE_clspecies	log_hpf_short	P0	0.00210627	0.00182443	0.248352	7098	1473	
+hq	a_speciesFE_clsite	log_hpf_short	P0	0.00210627	0.00161271	0.191593	7098	1473	
+hq	b_speciesFE_clspecies	log_hpf_short	P0:is_mag	0.0112947	0.00911441	0.215318	7098	1473	
+hq	b_speciesFE_clspecies	log_hpf_short	P0 (isolates)	0.000386684	0.00109302	0.72352	7098	1473	
+hq	b_speciesFE_clsite	log_hpf_short	P0:is_mag	0.0112947	0.0081116	0.163852	7098	1473	
+hq	b_speciesFE_clsite	log_hpf_short	P0 (isolates)	0.000386684	0.000971284	0.690559	7098	1473	
+hq	b_speciesFE_clsite	log_hpf_short	P0 (MAGs)	0.0116814	0.00809878	0.1492	7098	1473	
+hq	b_e_lmer_randslope_site	log_hpf_short	P0_within:is_mag	0.0143065	0.00558885	0.0104985	7098	1473	singular fit
+hq	b_e_lmer_randslope_site	log_hpf_short	P0_within (isolates)	0.000185285	0.00213137	0.930728	7098	1473	
+hq	e_lmer_randslope_site	log_hpf_short	P0_within	0.00249435	0.00195863	0.202889	7098	1473	singular fit
+hq	c_speciesFE_within_type_clsite	log_hpf_short	P0 (MAG-only species sets)	0.012014	0.00960371	0.211084	2853	774	
+hq	c_speciesFE_within_type_clsite	log_hpf_short	P0 (isolate-only species sets)	-7.86902e-05	0.000865457	0.927559	4154	679	
+hq	a_lmer_randslope	log_n_balon	P0_within	0.000941479	0.0010315	0.361426	7098	1473	singular fit
+hq	a_lmer_randslope	log_n_balon	P0_between	0.00671041	0.00592953	0.257948	7098	1473	
+hq	a_lmer_spec	log_n_balon	P0	0.00119258	0.00101542	0.240257	7098	1473	singular fit
+hq	a_speciesFE_clspecies	log_n_balon	P0	0.000680973	0.000638317	0.286097	7098	1473	
+hq	a_speciesFE_clsite	log_n_balon	P0	0.000680973	0.000424583	0.108801	7098	1473	
+hq	b_speciesFE_clspecies	log_n_balon	P0:is_mag	-0.000766986	0.0023124	0.740141	7098	1473	
+hq	b_speciesFE_clspecies	log_n_balon	P0 (isolates)	0.000797744	0.000677638	0.239149	7098	1473	
+hq	b_speciesFE_clsite	log_n_balon	P0:is_mag	-0.000766986	0.00130948	0.55809	7098	1473	
+hq	b_speciesFE_clsite	log_n_balon	P0 (isolates)	0.000797744	0.000473301	0.0919497	7098	1473	
+hq	b_speciesFE_clsite	log_n_balon	P0 (MAGs)	3.07581e-05	0.00118415	0.979277	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_balon	P0_within:is_mag	-0.00159962	0.0032036	0.617629	7098	1473	singular fit
+hq	b_e_lmer_randslope_site	log_n_balon	P0_within (isolates)	0.00133828	0.00124204	0.28143	7098	1473	
+hq	e_lmer_randslope_site	log_n_balon	P0_within	0.00107997	0.00113795	0.342745	7098	1473	singular fit
+hq	c_speciesFE_within_type_clsite	log_n_balon	P0 (MAG-only species sets)	-3.12307e-05	0.00140129	0.982221	2853	774	
+hq	c_speciesFE_within_type_clsite	log_n_balon	P0 (isolate-only species sets)	0.000649159	0.000454186	0.153013	4154	679	
+hq	a_lmer_randslope	log_n_sr	P0_within	-0.00641333	0.00408814	0.120049	7098	1473	
+hq	a_lmer_randslope	log_n_sr	P0_between	-0.0115237	0.00941152	0.220999	7098	1473	
+hq	a_lmer_spec	log_n_sr	P0	-0.0068144	0.0037211	0.0693933	7098	1473	
+hq	a_speciesFE_clspecies	log_n_sr	P0	-8.78085e-05	0.00425708	0.983544	7098	1473	
+hq	a_speciesFE_clsite	log_n_sr	P0	-8.78085e-05	0.00343281	0.979594	7098	1473	
+hq	b_speciesFE_clspecies	log_n_sr	P0:is_mag	-0.0148123	0.0101749	0.145512	7098	1473	
+hq	b_speciesFE_clspecies	log_n_sr	P0 (isolates)	0.00216732	0.00451524	0.631246	7098	1473	
+hq	b_speciesFE_clsite	log_n_sr	P0:is_mag	-0.0148123	0.00915975	0.105911	7098	1473	
+hq	b_speciesFE_clsite	log_n_sr	P0 (isolates)	0.00216732	0.0036195	0.549338	7098	1473	
+hq	b_speciesFE_clsite	log_n_sr	P0 (MAGs)	-0.012645	0.00849509	0.136618	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_sr	P0_within:is_mag	0.00649033	0.0104368	0.534844	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_sr	P0_within (isolates)	-0.00857071	0.00470475	0.0722491	7098	1473	
+hq	e_lmer_randslope_site	log_n_sr	P0_within	-0.00680416	0.00412529	0.102486	7098	1473	
+hq	c_speciesFE_within_type_clsite	log_n_sr	P0 (MAG-only species sets)	-0.0139991	0.00967952	0.148255	2853	774	
+hq	c_speciesFE_within_type_clsite	log_n_sr	P0 (isolate-only species sets)	0.0018282	0.00359206	0.610816	4154	679	
+hq	a_lmer_randslope	log_n_sas	P0_within	-0.000862227	0.00455418	0.850735	7098	1473	
+hq	a_lmer_randslope	log_n_sas	P0_between	-0.00404681	0.00905551	0.655021	7098	1473	
+hq	a_lmer_spec	log_n_sas	P0	-0.00103586	0.00407105	0.799805	7098	1473	
+hq	a_speciesFE_clspecies	log_n_sas	P0	0.000520336	0.00401478	0.896884	7098	1473	
+hq	a_speciesFE_clsite	log_n_sas	P0	0.000520336	0.00419068	0.901189	7098	1473	
+hq	b_speciesFE_clspecies	log_n_sas	P0:is_mag	-0.00422367	0.00808109	0.601231	7098	1473	
+hq	b_speciesFE_clspecies	log_n_sas	P0 (isolates)	0.00116338	0.00460276	0.800466	7098	1473	
+hq	b_speciesFE_clsite	log_n_sas	P0:is_mag	-0.00422367	0.00683446	0.536603	7098	1473	
+hq	b_speciesFE_clsite	log_n_sas	P0 (isolates)	0.00116338	0.00486304	0.810937	7098	1473	
+hq	b_speciesFE_clsite	log_n_sas	P0 (MAGs)	-0.0030603	0.00485904	0.528815	7098	1473	
+hq	b_e_lmer_randslope_site	log_n_sas	P0_within:is_mag	0.00953886	0.0114482	0.405093	7098	1473	singular fit
+hq	b_e_lmer_randslope_site	log_n_sas	P0_within (isolates)	-0.00313948	0.00446989	0.482777	7098	1473	
+hq	e_lmer_randslope_site	log_n_sas	P0_within	-0.0015635	0.00409894	0.703043	7098	1473	singular fit
+hq	c_speciesFE_within_type_clsite	log_n_sas	P0 (MAG-only species sets)	0.00088745	0.00201207	0.659213	2853	774	
+hq	c_speciesFE_within_type_clsite	log_n_sas	P0 (isolate-only species sets)	-0.00118412	0.00472513	0.802138	4154	679	
+hq	a_lmer_randslope	log_spo	P0_within	0.00646268	0.00645992	0.319235	7098	1473	
+hq	a_lmer_randslope	log_spo	P0_between	0.00229587	0.0225657	0.918976	7098	1473	
+hq	a_lmer_spec	log_spo	P0	0.000388611	0.000578294	0.502665	7098	1473	
+hq	a_speciesFE_clspecies	log_spo	P0	0.000620527	0.000527007	0.239063	7098	1473	
+hq	a_speciesFE_clsite	log_spo	P0	0.000620527	0.000569533	0.275964	7098	1473	
+hq	b_speciesFE_clspecies	log_spo	P0:is_mag	-0.000663086	0.000623384	0.287516	7098	1473	
+hq	b_speciesFE_clspecies	log_spo	P0 (isolates)	0.00072148	0.000618855	0.243733	7098	1473	
+hq	b_speciesFE_clsite	log_spo	P0:is_mag	-0.000663086	0.000660249	0.315279	7098	1473	
+hq	b_speciesFE_clsite	log_spo	P0 (isolates)	0.00072148	0.000667882	0.280077	7098	1473	
+hq	b_speciesFE_clsite	log_spo	P0 (MAGs)	5.83942e-05	0.000126217	0.643615	7098	1473	
+hq	b_e_lmer_randslope_site	log_spo	P0_within:is_mag	-0.000209388	0.00165781	0.899595	7098	1473	
+hq	b_e_lmer_randslope_site	log_spo	P0_within (isolates)	0.000366503	0.000752139	0.626773	7098	1473	
+hq	e_lmer_randslope_site	log_spo	P0_within	0.000316352	0.000664366	0.634583	7098	1473	
+hq	c_speciesFE_within_type_clsite	log_spo	P0 (MAG-only species sets)	5.84416e-06	1.37247e-05	0.670289	2853	774	
+hq	c_speciesFE_within_type_clsite	log_spo	P0 (isolate-only species sets)	0.000907664	0.000724215	0.210178	4154	679	
+hq	a_lmer_randslope	log_rpf	P0_within	0.00139792	0.000771965	0.070226	7098	1473	singular fit
+hq	a_lmer_randslope	log_rpf	P0_between	-0.0201498	0.0120853	0.095669	7098	1473	
+hq	a_lmer_spec	log_rpf	P0	0.00121687	0.000767065	0.11271	7098	1473	singular fit
+hq	a_speciesFE_clspecies	log_rpf	P0	0.00079003	0.000553551	0.153577	7098	1473	
+hq	a_speciesFE_clsite	log_rpf	P0	0.00079003	0.000493794	0.109673	7098	1473	
+hq	b_speciesFE_clspecies	log_rpf	P0:is_mag	-0.00102072	0.000635759	0.108438	7098	1473	
+hq	b_speciesFE_clspecies	log_rpf	P0 (isolates)	0.000945431	0.000645892	0.143316	7098	1473	
+hq	b_speciesFE_clsite	log_rpf	P0:is_mag	-0.00102072	0.000630991	0.105796	7098	1473	
+hq	b_speciesFE_clsite	log_rpf	P0 (isolates)	0.000945431	0.000581202	0.103861	7098	1473	
+hq	b_speciesFE_clsite	log_rpf	P0 (MAGs)	-7.52864e-05	0.000247559	0.76104	7098	1473	
+hq	b_e_lmer_randslope_site	log_rpf	P0_within:is_mag	-0.000608381	0.00217984	0.780183	7098	1473	singular fit
+hq	b_e_lmer_randslope_site	log_rpf	P0_within (isolates)	0.00148836	0.000839518	0.0763126	7098	1473	
+hq	e_lmer_randslope_site	log_rpf	P0_within	0.00139792	0.000771965	0.0702258	7098	1473	singular fit
+hq	c_speciesFE_within_type_clsite	log_rpf	P0 (MAG-only species sets)	-9.84419e-05	0.00029955	0.742466	2853	774	
+hq	c_speciesFE_within_type_clsite	log_rpf	P0 (isolate-only species sets)	0.000894081	0.000567614	0.115311	4154	679	
+hq	a_lmer_randslope	log_ta	P0_within	0.00367005	0.0143302	0.798166	7098	1473	
+hq	a_lmer_randslope	log_ta	P0_between	-0.0161093	0.0252699	0.523909	7098	1473	
+hq	a_lmer_spec	log_ta	P0	-0.00102819	0.0124735	0.934363	7098	1473	
+hq	a_speciesFE_clspecies	log_ta	P0	0.0155526	0.0134597	0.247939	7098	1473	
+hq	a_speciesFE_clsite	log_ta	P0	0.0155526	0.0126638	0.219455	7098	1473	
+hq	b_speciesFE_clspecies	log_ta	P0:is_mag	-0.029881	0.0281499	0.288509	7098	1473	
+hq	b_speciesFE_clspecies	log_ta	P0 (isolates)	0.0201019	0.014659	0.170337	7098	1473	
+hq	b_speciesFE_clsite	log_ta	P0:is_mag	-0.029881	0.0242279	0.217505	7098	1473	
+hq	b_speciesFE_clsite	log_ta	P0 (isolates)	0.0201019	0.0142435	0.158212	7098	1473	
+hq	b_speciesFE_clsite	log_ta	P0 (MAGs)	-0.00977915	0.0198206	0.621742	7098	1473	
+hq	b_e_lmer_randslope_site	log_ta	P0_within:is_mag	-0.000539484	0.0392878	0.989053	7098	1473	
+hq	b_e_lmer_randslope_site	log_ta	P0_within (isolates)	-0.00558074	0.0184599	0.76277	7098	1473	
+hq	e_lmer_randslope_site	log_ta	P0_within	-0.00573373	0.0163586	0.726343	7098	1473	
+hq	c_speciesFE_within_type_clsite	log_ta	P0 (MAG-only species sets)	0.00478127	0.0205022	0.815623	2853	774	
+hq	c_speciesFE_within_type_clsite	log_ta	P0 (isolate-only species sets)	0.0234826	0.0145671	0.107047	4154	679	
+hq	d_paired_mean_MAG_minus_isolate	dDORM	mean difference	-0.00115072	0.0132664	0.931127	413	71	sign test: 14 of 32 species positive
+hq	d_paired_diff_on_dP0	dDORM	dP0	0.0132386	0.0175879	0.454261	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_paired_mean_MAG_minus_isolate	dlhibx	mean difference	0.00917665	0.0176086	0.603909	413	71	sign test: 3 of 6 species positive
+hq	d_paired_diff_on_dP0	dlhibx	dP0	0.0152279	0.0393692	0.700133	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_paired_mean_MAG_minus_isolate	dhibx	mean difference	0.0036888	0.0287753	0.898364	413	71	sign test: 3 of 6 species positive
+hq	d_paired_diff_on_dP0	dhibx	dP0	0.0215467	0.0566302	0.704792	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_paired_mean_MAG_minus_isolate	dhib	mean difference	-0.00180145	0.0361936	0.960445	413	71	sign test: 6 of 16 species positive
+hq	d_paired_diff_on_dP0	dhib	dP0	0.0288516	0.0577897	0.619238	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_paired_mean_MAG_minus_isolate	dsr	mean difference	-0.000676607	0.0446827	0.987962	413	71	sign test: 9 of 20 species positive
+hq	d_paired_diff_on_dP0	dsr	dP0	0.0311968	0.04614	0.501282	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_paired_mean_MAG_minus_isolate	dta	mean difference	-0.153881	0.0496901	0.00281369	413	71	sign test: 12 of 50 species positive
+hq	d_paired_diff_on_dP0	dta	dP0	-0.0200023	0.0537855	0.711148	413	71	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq	d_mixed_speciesFE_clsite	DORM_z	is_mag (MAG-isolate gap at P0=0)	0.0143225	0.0148709	0.336177	413	71	
+hq	d_mixed_speciesFE_clsite	DORM_z	P0:is_mag	-0.0114407	0.0125504	0.362645	413	71	
+hq	d_mixed_speciesFE_clsite	hib_extra	is_mag (MAG-isolate gap at P0=0)	-0.00561448	0.00946475	0.553446	413	71	
+hq	d_mixed_speciesFE_clsite	hib_extra	P0:is_mag	0.0119826	0.00735854	0.104377	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_hib	is_mag (MAG-isolate gap at P0=0)	0.0163339	0.0131127	0.213757	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_hib	P0:is_mag	-0.00899009	0.0112346	0.424149	413	71	
+hq	d_mixed_speciesFE_clsite	log_hpf_short	is_mag (MAG-isolate gap at P0=0)	-0.00467602	0.0104564	0.655024	413	71	
+hq	d_mixed_speciesFE_clsite	log_hpf_short	P0:is_mag	0.0152732	0.018741	0.415671	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_balon	is_mag (MAG-isolate gap at P0=0)	0.00187604	0.00224743	0.40445	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_balon	P0:is_mag	0.00313399	0.00361293	0.38632	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_sr	is_mag (MAG-isolate gap at P0=0)	0.00521176	0.0173282	0.763777	413	71	
+hq	d_mixed_speciesFE_clsite	log_n_sr	P0:is_mag	-0.00286433	0.011572	0.804654	413	71	
+hq	between_species_means	DORM_z	P0 (isolates)	-0.0120053	0.0246584	0.62643	6685	1402	
+hq	between_species_means	DORM_z	P0:is_mag	0.0199105	0.0288598	0.490369	6685	1402	
+hq	between_species_means	DORM_z	P0 (MAGs)	0.00790517	0.0147395	0.591733	6685	1402	
+hq	between_species_means_phylumFE	DORM_z	P0 (isolates)	0.0160335	0.0175942	0.362302	6685	1402	
+hq	between_species_means_phylumFE	DORM_z	P0:is_mag	0.00500169	0.0223164	0.822693	6685	1402	
+hq	between_species_means_phylumFE	DORM_z	P0 (MAGs)	0.0210352	0.0138288	0.128231	6685	1402	
+hq	between_species_means	hib_extra	P0 (isolates)	0.0582351	0.0183861	0.00157176	6685	1402	
+hq	between_species_means	hib_extra	P0:is_mag	-0.0321231	0.020365	0.114937	6685	1402	
+hq	between_species_means	hib_extra	P0 (MAGs)	0.026112	0.00874389	0.00282367	6685	1402	
+hq	between_species_means_phylumFE	hib_extra	P0 (isolates)	0.034704	0.0172894	0.0449235	6685	1402	
+hq	between_species_means_phylumFE	hib_extra	P0:is_mag	-0.00266372	0.0197864	0.892929	6685	1402	
+hq	between_species_means_phylumFE	hib_extra	P0 (MAGs)	0.0320402	0.00982698	0.00111241	6685	1402	
+hq_cap20	descriptive	P0	within_species_SD	0.368902			5850	1473	between-species SD of species-mean P0 = 0.847; species with >1 site = 674
+hq_cap20	a_lmer_randslope	DORM_z	P0_within	-0.0041117	0.00410209	0.317667	5850	1473	
+hq_cap20	a_lmer_randslope	DORM_z	P0_between	-0.00186848	0.0144654	0.897243	5850	1473	
+hq_cap20	a_lmer_spec	DORM_z	P0	-0.00281144	0.00391286	0.473321	5850	1473	
+hq_cap20	a_speciesFE_clspecies	DORM_z	P0	-0.00250079	0.00481402	0.603452	5850	1473	
+hq_cap20	a_speciesFE_clsite	DORM_z	P0	-0.00250079	0.00382956	0.513776	5850	1473	
+hq_cap20	b_speciesFE_clspecies	DORM_z	P0:is_mag	-0.00888824	0.0111258	0.424399	5850	1473	
+hq_cap20	b_speciesFE_clspecies	DORM_z	P0 (isolates)	-0.000498667	0.0053513	0.92576	5850	1473	
+hq_cap20	b_speciesFE_clsite	DORM_z	P0:is_mag	-0.00888824	0.00873808	0.309122	5850	1473	
+hq_cap20	b_speciesFE_clsite	DORM_z	P0 (isolates)	-0.000498667	0.0042216	0.905976	5850	1473	
+hq_cap20	b_speciesFE_clsite	DORM_z	P0 (MAGs)	-0.0093869	0.00792613	0.236295	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	DORM_z	P0_within:is_mag	0.00553851	0.010093	0.583783	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	DORM_z	P0_within (isolates)	-0.00675563	0.00483124	0.164024	5850	1473	
+hq_cap20	e_lmer_randslope_site	DORM_z	P0_within	-0.00509281	0.00418988	0.225906	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	DORM_z	P0 (MAG-only species sets)	-0.0120111	0.00915001	0.18944	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	DORM_z	P0 (isolate-only species sets)	-0.000987948	0.00412979	0.810953	2992	679	
+hq_cap20	a_lmer_randslope	log_n_hib	P0_within	0.00282564	0.00368117	0.443635	5850	1473	
+hq_cap20	a_lmer_randslope	log_n_hib	P0_between	0.0240047	0.00959139	0.0124346	5850	1473	
+hq_cap20	a_lmer_spec	log_n_hib	P0	0.00537852	0.00346619	0.121979	5850	1473	
+hq_cap20	a_speciesFE_clspecies	log_n_hib	P0	3.09933e-05	0.00468887	0.994726	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_n_hib	P0	3.09933e-05	0.00402937	0.993863	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_hib	P0:is_mag	-0.0015875	0.011847	0.893409	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_hib	P0 (isolates)	0.000388586	0.00495203	0.937458	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_hib	P0:is_mag	-0.0015875	0.0100277	0.874219	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_hib	P0 (isolates)	0.000388586	0.00428331	0.927718	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_hib	P0 (MAGs)	-0.00119891	0.00933637	0.897822	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_hib	P0_within:is_mag	-0.00734441	0.00912242	0.421511	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_hib	P0_within (isolates)	0.00377193	0.00431983	0.383675	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_n_hib	P0_within	0.00206061	0.00375935	0.584208	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_hib	P0 (MAG-only species sets)	-0.00397702	0.0112733	0.724288	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_hib	P0 (isolate-only species sets)	0.000172557	0.00427599	0.967814	2992	679	
+hq_cap20	a_lmer_randslope	hib_extra	P0_within	0.00702077	0.00437588	0.109887	5850	1473	
+hq_cap20	a_lmer_randslope	hib_extra	P0_between	0.0326052	0.00962022	0.000719988	5850	1473	
+hq_cap20	a_lmer_spec	hib_extra	P0	0.0106812	0.00400211	0.00796871	5850	1473	
+hq_cap20	a_speciesFE_clspecies	hib_extra	P0	0.000967491	0.00508145	0.849007	5850	1473	
+hq_cap20	a_speciesFE_clsite	hib_extra	P0	0.000967491	0.0043545	0.824183	5850	1473	
+hq_cap20	b_speciesFE_clspecies	hib_extra	P0:is_mag	0.0118134	0.00836554	0.157978	5850	1473	
+hq_cap20	b_speciesFE_clspecies	hib_extra	P0 (isolates)	-0.00169354	0.0059913	0.777446	5850	1473	
+hq_cap20	b_speciesFE_clsite	hib_extra	P0:is_mag	0.0118134	0.00672254	0.0789407	5850	1473	
+hq_cap20	b_speciesFE_clsite	hib_extra	P0 (isolates)	-0.00169354	0.00527666	0.748265	5850	1473	
+hq_cap20	b_speciesFE_clsite	hib_extra	P0 (MAGs)	0.0101198	0.00453399	0.0256155	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	hib_extra	P0_within:is_mag	0.00696793	0.00999206	0.486082	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	hib_extra	P0_within (isolates)	0.00510292	0.00511727	0.319659	5850	1473	
+hq_cap20	e_lmer_randslope_site	hib_extra	P0_within	0.0069777	0.00439538	0.11367	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	hib_extra	P0 (MAG-only species sets)	0.00839715	0.00438547	0.0556653	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	hib_extra	P0 (isolate-only species sets)	-0.00131021	0.00526348	0.803441	2992	679	
+hq_cap20	a_lmer_randslope	log_hpf_short	P0_within	0.00262264	0.00269662	0.330823	5850	1473	singular fit
+hq_cap20	a_lmer_randslope	log_hpf_short	P0_between	0.0496584	0.0140466	0.000420056	5850	1473	
+hq_cap20	a_lmer_spec	log_hpf_short	P0	0.00427359	0.00264828	0.106656	5850	1473	singular fit
+hq_cap20	a_speciesFE_clspecies	log_hpf_short	P0	0.00226187	0.00269145	0.400734	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_hpf_short	P0	0.00226187	0.00236096	0.3381	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_hpf_short	P0:is_mag	0.011178	0.00945572	0.237214	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_hpf_short	P0 (isolates)	-0.000256032	0.00158593	0.871754	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_hpf_short	P0:is_mag	0.011178	0.00829452	0.177846	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_hpf_short	P0 (isolates)	-0.000256032	0.00139829	0.854726	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_hpf_short	P0 (MAGs)	0.010922	0.00827027	0.186626	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_hpf_short	P0_within:is_mag	0.014449	0.00662988	0.029357	5850	1473	singular fit
+hq_cap20	b_e_lmer_randslope_site	log_hpf_short	P0_within (isolates)	-0.00062603	0.00307615	0.838745	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_hpf_short	P0_within	0.00262264	0.00269662	0.330823	5850	1473	singular fit
+hq_cap20	c_speciesFE_within_type_clsite	log_hpf_short	P0 (MAG-only species sets)	0.0111559	0.00960038	0.245363	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_hpf_short	P0 (isolate-only species sets)	-0.00108441	0.00124055	0.382134	2992	679	
+hq_cap20	a_lmer_randslope	log_n_balon	P0_within	0.000807301	0.00117312	0.491386	5850	1473	singular fit
+hq_cap20	a_lmer_randslope	log_n_balon	P0_between	0.00647387	0.0059428	0.276173	5850	1473	
+hq_cap20	a_lmer_spec	log_n_balon	P0	0.0010125	0.00114996	0.378652	5850	1473	singular fit
+hq_cap20	a_speciesFE_clspecies	log_n_balon	P0	0.000695881	0.000891469	0.43508	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_n_balon	P0	0.000695881	0.000630205	0.269561	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_balon	P0:is_mag	-0.00157555	0.00125561	0.209616	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_balon	P0 (isolates)	0.00105078	0.00112557	0.350583	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_balon	P0:is_mag	-0.00157555	0.000865328	0.0687128	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_balon	P0 (isolates)	0.00105078	0.000790497	0.183829	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_balon	P0 (MAGs)	-0.000524766	0.000444948	0.238244	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_balon	P0_within:is_mag	-0.00214233	0.00288468	0.457729	5850	1473	singular fit
+hq_cap20	b_e_lmer_randslope_site	log_n_balon	P0_within (isolates)	0.00128321	0.00133882	0.337884	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_n_balon	P0_within	0.000807302	0.00117312	0.491386	5850	1473	singular fit
+hq_cap20	c_speciesFE_within_type_clsite	log_n_balon	P0 (MAG-only species sets)	-0.000658123	0.000530757	0.215132	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_balon	P0 (isolate-only species sets)	0.00111154	0.000802902	0.166368	2992	679	
+hq_cap20	a_lmer_randslope	log_n_sr	P0_within	-0.00839866	0.00440487	0.0585296	5850	1473	
+hq_cap20	a_lmer_randslope	log_n_sr	P0_between	-0.0118205	0.00937217	0.207437	5850	1473	
+hq_cap20	a_lmer_spec	log_n_sr	P0	-0.00847977	0.00395849	0.0333683	5850	1473	
+hq_cap20	a_speciesFE_clspecies	log_n_sr	P0	-0.00550618	0.00475923	0.247357	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_n_sr	P0	-0.00550618	0.0041071	0.180104	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_sr	P0:is_mag	-0.00967104	0.0114797	0.399585	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_sr	P0 (isolates)	-0.00332772	0.00514579	0.517867	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sr	P0:is_mag	-0.00967104	0.0100515	0.336028	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sr	P0 (isolates)	-0.00332772	0.00437208	0.44662	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sr	P0 (MAGs)	-0.0129988	0.00924968	0.159926	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_sr	P0_within:is_mag	0.01064	0.0110208	0.33546	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_sr	P0_within (isolates)	-0.0122626	0.00520069	0.0197881	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_n_sr	P0_within	-0.00923102	0.00450678	0.0422821	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_sr	P0 (MAG-only species sets)	-0.0139161	0.0103974	0.180913	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_sr	P0 (isolate-only species sets)	-0.00408091	0.00420371	0.331755	2992	679	
+hq_cap20	a_lmer_randslope	log_n_sas	P0_within	-0.00297997	0.00564474	0.598609	5850	1473	
+hq_cap20	a_lmer_randslope	log_n_sas	P0_between	-0.00416454	0.00904852	0.645409	5850	1473	
+hq_cap20	a_lmer_spec	log_n_sas	P0	-0.00257443	0.00468183	0.582941	5850	1473	
+hq_cap20	a_speciesFE_clspecies	log_n_sas	P0	-0.0022804	0.00536507	0.670824	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_n_sas	P0	-0.0022804	0.00428442	0.594576	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_sas	P0:is_mag	-0.00132161	0.00981633	0.892908	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_n_sas	P0 (isolates)	-0.0019827	0.00664719	0.765506	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sas	P0:is_mag	-0.00132161	0.00750452	0.860217	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sas	P0 (isolates)	-0.0019827	0.00532276	0.709542	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_n_sas	P0 (MAGs)	-0.00330431	0.00527933	0.531384	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_sas	P0_within:is_mag	0.0249157	0.0158761	0.117974	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_n_sas	P0_within (isolates)	-0.00932005	0.00750314	0.216244	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_n_sas	P0_within	-0.00343836	0.00657521	0.601776	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_sas	P0 (MAG-only species sets)	0.000849732	0.00210946	0.687123	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_n_sas	P0 (isolate-only species sets)	-0.00585119	0.00523131	0.263472	2992	679	
+hq_cap20	a_lmer_randslope	log_spo	P0_within	0.00843887	0.00854763	0.324023	5850	1473	
+hq_cap20	a_lmer_randslope	log_spo	P0_between	0.00198091	0.0225691	0.930071	5850	1473	
+hq_cap20	a_lmer_spec	log_spo	P0	0.0034082	0.00782027	0.663136	5850	1473	
+hq_cap20	a_speciesFE_clspecies	log_spo	P0	0.000959581	0.000817829	0.240729	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_spo	P0	0.000959581	0.000895151	0.28379	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_spo	P0:is_mag	-0.00118561	0.00102582	0.247838	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_spo	P0 (isolates)	0.00122665	0.00104314	0.239694	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_spo	P0:is_mag	-0.00118561	0.00112809	0.293321	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_spo	P0 (isolates)	0.00122665	0.00114492	0.284056	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_spo	P0 (MAGs)	4.1034e-05	0.000135988	0.762846	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_spo	P0_within:is_mag	-0.00137521	0.00511756	0.788175	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_spo	P0_within (isolates)	0.00938046	0.00883211	0.288747	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_spo	P0_within	0.000265477	0.000808462	0.74304	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	log_spo	P0 (MAG-only species sets)	1.90879e-06	1.38952e-05	0.890752	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_spo	P0 (isolate-only species sets)	0.00159196	0.00129826	0.220241	2992	679	
+hq_cap20	a_lmer_randslope	log_rpf	P0_within	0.001415	0.00108327	0.191547	5850	1473	singular fit
+hq_cap20	a_lmer_randslope	log_rpf	P0_between	-0.0198871	0.0120573	0.0992837	5850	1473	
+hq_cap20	a_lmer_spec	log_rpf	P0	0.00118983	0.00107516	0.268505	5850	1473	singular fit
+hq_cap20	a_speciesFE_clspecies	log_rpf	P0	0.00116626	0.000865698	0.177988	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_rpf	P0	0.00116626	0.000781781	0.135823	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_rpf	P0:is_mag	-0.00160714	0.0010406	0.122555	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_rpf	P0 (isolates)	0.00152828	0.00109023	0.161049	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_rpf	P0:is_mag	-0.00160714	0.00101173	0.112242	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_rpf	P0 (isolates)	0.00152828	0.000996806	0.125305	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_rpf	P0 (MAGs)	-7.88611e-05	0.000274214	0.773661	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_rpf	P0_within:is_mag	-0.000725897	0.00264963	0.784127	5850	1473	singular fit
+hq_cap20	b_e_lmer_randslope_site	log_rpf	P0_within (isolates)	0.00157701	0.00123541	0.201845	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_rpf	P0_within	0.001415	0.00108327	0.191547	5850	1473	singular fit
+hq_cap20	c_speciesFE_within_type_clsite	log_rpf	P0 (MAG-only species sets)	-0.000162524	0.000319239	0.610738	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_rpf	P0 (isolate-only species sets)	0.00156425	0.00100348	0.119175	2992	679	
+hq_cap20	a_lmer_randslope	log_ta	P0_within	0.00879761	0.0151591	0.562309	5850	1473	
+hq_cap20	a_lmer_randslope	log_ta	P0_between	-0.0175469	0.0251113	0.484812	5850	1473	
+hq_cap20	a_lmer_spec	log_ta	P0	0.00221932	0.0130147	0.864698	5850	1473	
+hq_cap20	a_speciesFE_clspecies	log_ta	P0	0.00195182	0.0153686	0.898945	5850	1473	
+hq_cap20	a_speciesFE_clsite	log_ta	P0	0.00195182	0.0123672	0.874604	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_ta	P0:is_mag	-0.0211567	0.0296233	0.475147	5850	1473	
+hq_cap20	b_speciesFE_clspecies	log_ta	P0 (isolates)	0.0067175	0.0179763	0.708655	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_ta	P0:is_mag	-0.0211567	0.0253165	0.403375	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_ta	P0 (isolates)	0.0067175	0.014607	0.645625	5850	1473	
+hq_cap20	b_speciesFE_clsite	log_ta	P0 (MAGs)	-0.0144392	0.0208181	0.48794	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_ta	P0_within:is_mag	-0.0139427	0.0423912	0.742441	5850	1473	
+hq_cap20	b_e_lmer_randslope_site	log_ta	P0_within (isolates)	0.00295622	0.0205267	0.88562	5850	1473	
+hq_cap20	e_lmer_randslope_site	log_ta	P0_within	-0.000557211	0.0180567	0.975409	5850	1473	
+hq_cap20	c_speciesFE_within_type_clsite	log_ta	P0 (MAG-only species sets)	0.00364207	0.0214123	0.864954	2770	774	
+hq_cap20	c_speciesFE_within_type_clsite	log_ta	P0 (isolate-only species sets)	0.00778903	0.0143185	0.586506	2992	679	
+hq_cap20	d_paired_mean_MAG_minus_isolate	dDORM	mean difference	-0.00120234	0.0138511	0.931086	295	68	sign test: 13 of 29 species positive
+hq_cap20	d_paired_diff_on_dP0	dDORM	dP0	0.0123496	0.0178599	0.491771	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_paired_mean_MAG_minus_isolate	dlhibx	mean difference	0.0095815	0.0183896	0.604066	295	68	sign test: 3 of 6 species positive
+hq_cap20	d_paired_diff_on_dP0	dlhibx	dP0	0.01608	0.0397245	0.686984	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_paired_mean_MAG_minus_isolate	dhibx	mean difference	0.00385154	0.0300541	0.898411	295	68	sign test: 3 of 6 species positive
+hq_cap20	d_paired_diff_on_dP0	dhibx	dP0	0.022817	0.0571441	0.69101	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_paired_mean_MAG_minus_isolate	dhib	mean difference	-0.000968721	0.037797	0.979629	295	68	sign test: 6 of 14 species positive
+hq_cap20	d_paired_diff_on_dP0	dhib	dP0	0.0265279	0.0584037	0.65121	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_paired_mean_MAG_minus_isolate	dsr	mean difference	-0.0015003	0.0466362	0.974432	295	68	sign test: 8 of 18 species positive
+hq_cap20	d_paired_diff_on_dP0	dsr	dP0	0.0312274	0.0470401	0.509173	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_paired_mean_MAG_minus_isolate	dta	mean difference	-0.157829	0.0518147	0.00331447	295	68	sign test: 12 of 48 species positive
+hq_cap20	d_paired_diff_on_dP0	dta	dP0	-0.0217842	0.0549871	0.693297	295	68	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_cap20	d_mixed_speciesFE_clsite	DORM_z	is_mag (MAG-isolate gap at P0=0)	0.00399699	0.0150748	0.791144	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	DORM_z	P0:is_mag	-0.0146915	0.0148479	0.323515	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	hib_extra	is_mag (MAG-isolate gap at P0=0)	-0.00472454	0.00963802	0.624478	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	hib_extra	P0:is_mag	0.0123991	0.00823486	0.13357	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_n_hib	is_mag (MAG-isolate gap at P0=0)	0.0116068	0.0131934	0.379953	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_n_hib	P0:is_mag	-0.0119801	0.0123823	0.334337	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_hpf_short	is_mag (MAG-isolate gap at P0=0)	-0.00709113	0.0118947	0.551678	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_hpf_short	P0:is_mag	0.0131601	0.0189726	0.488634	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_n_balon	is_mag (MAG-isolate gap at P0=0)				295	68	no within-species variation
+hq_cap20	d_mixed_speciesFE_clsite	log_n_balon	P0:is_mag				295	68	no within-species variation
+hq_cap20	d_mixed_speciesFE_clsite	log_n_sr	is_mag (MAG-isolate gap at P0=0)	-0.00578285	0.0179045	0.747012	295	68	
+hq_cap20	d_mixed_speciesFE_clsite	log_n_sr	P0:is_mag	-0.00333505	0.0139863	0.811751	295	68	
+hq_nosag	descriptive	P0	within_species_SD	0.417027			7058	1462	between-species SD of species-mean P0 = 0.849; species with >1 site = 671
+hq_nosag	a_lmer_randslope	DORM_z	P0_within	-0.000338666	0.00381543	0.929427	7058	1462	
+hq_nosag	a_lmer_randslope	DORM_z	P0_between	-0.0016719	0.014559	0.908592	7058	1462	
+hq_nosag	a_lmer_spec	DORM_z	P0	0.000473001	0.00364037	0.896824	7058	1462	
+hq_nosag	a_speciesFE_clspecies	DORM_z	P0	0.00155761	0.00395964	0.694059	7058	1462	
+hq_nosag	a_speciesFE_clsite	DORM_z	P0	0.00155761	0.00385569	0.686244	7058	1462	
+hq_nosag	b_speciesFE_clspecies	DORM_z	P0:is_mag	-0.00981565	0.010287	0.340034	7058	1462	
+hq_nosag	b_speciesFE_clspecies	DORM_z	P0 (isolates)	0.00303506	0.00432045	0.482405	7058	1462	
+hq_nosag	b_speciesFE_clsite	DORM_z	P0:is_mag	-0.00981565	0.00834134	0.239346	7058	1462	
+hq_nosag	b_speciesFE_clsite	DORM_z	P0 (isolates)	0.00303506	0.00429025	0.479327	7058	1462	
+hq_nosag	b_speciesFE_clsite	DORM_z	P0 (MAGs)	-0.00678059	0.00732169	0.354396	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	DORM_z	P0_within:is_mag	0.000584681	0.00991294	0.953026	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	DORM_z	P0_within (isolates)	-0.0022853	0.00446939	0.610216	7058	1462	
+hq_nosag	e_lmer_randslope_site	DORM_z	P0_within	-0.00211829	0.00395299	0.593028	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	DORM_z	P0 (MAG-only species sets)	-0.00922048	0.00854087	0.28046	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	DORM_z	P0 (isolate-only species sets)	0.00279559	0.00418041	0.503708	4154	679	
+hq_nosag	a_lmer_randslope	log_n_hib	P0_within	0.00473295	0.00329707	0.153016	7058	1462	
+hq_nosag	a_lmer_randslope	log_n_hib	P0_between	0.0244453	0.00962926	0.0112341	7058	1462	
+hq_nosag	a_lmer_spec	log_n_hib	P0	0.00668061	0.0031507	0.0351733	7058	1462	
+hq_nosag	a_speciesFE_clspecies	log_n_hib	P0	0.00127429	0.00523548	0.807708	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_n_hib	P0	0.00127429	0.00537913	0.812746	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_hib	P0:is_mag	0.00141442	0.0118259	0.904801	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_hib	P0 (isolates)	0.0010614	0.00582736	0.85548	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_hib	P0:is_mag	0.00141442	0.0101292	0.88895	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_hib	P0 (isolates)	0.0010614	0.0061069	0.862027	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_hib	P0 (MAGs)	0.00247582	0.0082901	0.765209	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_hib	P0_within:is_mag	-0.00656109	0.00909895	0.471365	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_hib	P0_within (isolates)	0.00388992	0.00395109	0.32646	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_n_hib	P0_within	0.00260238	0.00353445	0.462553	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_hib	P0 (MAG-only species sets)	0.000457773	0.0100527	0.963683	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_hib	P0 (isolate-only species sets)	0.00100407	0.00584485	0.863615	4154	679	
+hq_nosag	a_lmer_randslope	hib_extra	P0_within	0.00714362	0.00422372	0.0923126	7058	1462	
+hq_nosag	a_lmer_randslope	hib_extra	P0_between	0.0324959	0.00967509	0.000803823	7058	1462	
+hq_nosag	a_lmer_spec	hib_extra	P0	0.0105904	0.00388655	0.00683938	7058	1462	
+hq_nosag	a_speciesFE_clspecies	hib_extra	P0	-0.000355373	0.00476281	0.940524	7058	1462	
+hq_nosag	a_speciesFE_clsite	hib_extra	P0	-0.000355373	0.00444718	0.936312	7058	1462	
+hq_nosag	b_speciesFE_clspecies	hib_extra	P0:is_mag	0.0117182	0.00787601	0.136853	7058	1462	
+hq_nosag	b_speciesFE_clspecies	hib_extra	P0 (isolates)	-0.00211918	0.00529183	0.688831	7058	1462	
+hq_nosag	b_speciesFE_clsite	hib_extra	P0:is_mag	0.0117182	0.00649709	0.071348	7058	1462	
+hq_nosag	b_speciesFE_clsite	hib_extra	P0 (isolates)	-0.00211918	0.00507075	0.676019	7058	1462	
+hq_nosag	b_speciesFE_clsite	hib_extra	P0 (MAGs)	0.00959897	0.00430726	0.0258434	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	hib_extra	P0_within:is_mag	0.00402563	0.00992333	0.685288	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	hib_extra	P0_within (isolates)	0.00637839	0.0049224	0.196573	7058	1462	
+hq_nosag	e_lmer_randslope_site	hib_extra	P0_within	0.00738618	0.00427578	0.0856078	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	hib_extra	P0 (MAG-only species sets)	0.00778269	0.00429282	0.0699849	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	hib_extra	P0 (isolate-only species sets)	-0.00169517	0.00479231	0.723565	4154	679	
+hq_nosag	a_lmer_randslope	log_hpf_short	P0_within	0.00246221	0.00195249	0.207339	7058	1462	singular fit
+hq_nosag	a_lmer_randslope	log_hpf_short	P0_between	0.0479108	0.0141075	0.000701961	7058	1462	
+hq_nosag	a_lmer_spec	log_hpf_short	P0	0.0032607	0.00193463	0.0919576	7058	1462	singular fit
+hq_nosag	a_speciesFE_clspecies	log_hpf_short	P0	0.00210156	0.00183276	0.251571	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_hpf_short	P0	0.00210156	0.00161817	0.194092	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_hpf_short	P0:is_mag	0.0114341	0.00927844	0.217878	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_hpf_short	P0 (isolates)	0.000380504	0.00109453	0.728122	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_hpf_short	P0:is_mag	0.0114341	0.00824039	0.165324	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_hpf_short	P0 (isolates)	0.000380504	0.00097422	0.696128	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_hpf_short	P0 (MAGs)	0.0118146	0.00822498	0.15088	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_hpf_short	P0_within:is_mag	0.0144755	0.00559719	0.00972902	7058	1462	singular fit
+hq_nosag	b_e_lmer_randslope_site	log_hpf_short	P0_within (isolates)	0.000159351	0.00212147	0.940127	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_hpf_short	P0_within	0.00246222	0.00195249	0.207339	7058	1462	singular fit
+hq_nosag	c_speciesFE_within_type_clsite	log_hpf_short	P0 (MAG-only species sets)	0.0121378	0.00974652	0.213147	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_hpf_short	P0 (isolate-only species sets)	-7.86902e-05	0.000865459	0.927559	4154	679	
+hq_nosag	a_lmer_randslope	log_n_balon	P0_within	0.000946645	0.00103626	0.361009	7058	1462	singular fit
+hq_nosag	a_lmer_randslope	log_n_balon	P0_between	0.00667385	0.00596202	0.263156	7058	1462	
+hq_nosag	a_lmer_spec	log_n_balon	P0	0.00119322	0.00102014	0.242186	7058	1462	singular fit
+hq_nosag	a_speciesFE_clspecies	log_n_balon	P0	0.000683907	0.000640972	0.286026	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_n_balon	P0	0.000683907	0.000426343	0.108744	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_balon	P0:is_mag	-0.000777062	0.00235505	0.741446	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_balon	P0 (isolates)	0.00080087	0.000679369	0.238511	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_balon	P0:is_mag	-0.000777062	0.00133256	0.559827	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_balon	P0 (isolates)	0.00080087	0.000474513	0.0915109	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_balon	P0 (MAGs)	2.38071e-05	0.0012073	0.984267	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_balon	P0_within:is_mag	-0.00162073	0.0032359	0.616548	7058	1462	singular fit
+hq_nosag	b_e_lmer_randslope_site	log_n_balon	P0_within (isolates)	0.00134445	0.00124622	0.280837	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_n_balon	P0_within	0.00108664	0.00114373	0.342221	7058	1462	singular fit
+hq_nosag	c_speciesFE_within_type_clsite	log_n_balon	P0 (MAG-only species sets)	-4.536e-05	0.001432	0.974733	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_balon	P0 (isolate-only species sets)	0.000649159	0.000454187	0.153014	4154	679	
+hq_nosag	a_lmer_randslope	log_n_sr	P0_within	-0.00660817	0.00412366	0.1124	7058	1462	
+hq_nosag	a_lmer_randslope	log_n_sr	P0_between	-0.0118683	0.00945389	0.209548	7058	1462	
+hq_nosag	a_lmer_spec	log_n_sr	P0	-0.00697535	0.00374763	0.0650183	7058	1462	
+hq_nosag	a_speciesFE_clspecies	log_n_sr	P0	-9.83361e-05	0.00427558	0.981652	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_n_sr	P0	-9.83361e-05	0.00344739	0.977245	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_sr	P0:is_mag	-0.015163	0.0102783	0.140204	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_sr	P0 (isolates)	0.00218399	0.00452423	0.629304	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sr	P0:is_mag	-0.015163	0.0092569	0.101473	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sr	P0 (isolates)	0.00218399	0.00362681	0.547079	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sr	P0 (MAGs)	-0.012979	0.00860035	0.131266	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_sr	P0_within:is_mag	0.00662036	0.0105652	0.531747	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_sr	P0_within (isolates)	-0.00874885	0.0047355	0.0683725	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_n_sr	P0_within	-0.00697161	0.00416084	0.0972426	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_sr	P0 (MAG-only species sets)	-0.0144921	0.00980712	0.139639	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_sr	P0 (isolate-only species sets)	0.0018282	0.00359207	0.610817	4154	679	
+hq_nosag	a_lmer_randslope	log_n_sas	P0_within	-0.000952532	0.00458699	0.836507	7058	1462	
+hq_nosag	a_lmer_randslope	log_n_sas	P0_between	-0.0043418	0.00910172	0.633412	7058	1462	
+hq_nosag	a_lmer_spec	log_n_sas	P0	-0.00113233	0.00409247	0.782751	7058	1462	
+hq_nosag	a_speciesFE_clspecies	log_n_sas	P0	0.000512188	0.00403016	0.898875	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_n_sas	P0	0.000512188	0.0042066	0.903095	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_sas	P0:is_mag	-0.00427192	0.00808994	0.597484	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_n_sas	P0 (isolates)	0.00115519	0.0046096	0.802128	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sas	P0:is_mag	-0.00427192	0.00683831	0.532191	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sas	P0 (isolates)	0.00115519	0.00487129	0.812554	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_n_sas	P0 (MAGs)	-0.00311672	0.0048704	0.522217	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_n_sas	P0_within:is_mag	0.00963412	0.0115759	0.405642	7058	1462	singular fit
+hq_nosag	b_e_lmer_randslope_site	log_n_sas	P0_within (isolates)	-0.00322038	0.00448851	0.473416	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_n_sas	P0_within	-0.00165474	0.00412342	0.688375	7058	1462	singular fit
+hq_nosag	c_speciesFE_within_type_clsite	log_n_sas	P0 (MAG-only species sets)	0.000867405	0.0020473	0.671842	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_n_sas	P0 (isolate-only species sets)	-0.00118412	0.00472515	0.802138	4154	679	
+hq_nosag	a_lmer_randslope	log_spo	P0_within	0.000385603	0.00058148	0.508331	7058	1462	
+hq_nosag	a_lmer_randslope	log_spo	P0_between	0.00118423	0.0226783	0.958362	7058	1462	
+hq_nosag	a_lmer_spec	log_spo	P0	0.00038925	0.000582153	0.504818	7058	1462	
+hq_nosag	a_speciesFE_clspecies	log_spo	P0	0.000622072	0.000528271	0.239021	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_spo	P0	0.000622072	0.000570412	0.27551	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_spo	P0:is_mag	-0.000674059	0.000630622	0.28517	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_spo	P0 (isolates)	0.000723531	0.000619966	0.24324	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_spo	P0:is_mag	-0.000674059	0.000669247	0.313887	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_spo	P0 (isolates)	0.000723531	0.000668958	0.279486	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_spo	P0 (MAGs)	4.94723e-05	0.000127204	0.697335	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_spo	P0_within:is_mag	-0.000230457	0.00167874	0.890926	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_spo	P0_within (isolates)	0.000371633	0.000756262	0.623867	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_spo	P0_within	0.000317315	0.000669771	0.636303	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	log_spo	P0 (MAG-only species sets)	4.11875e-06	1.34765e-05	0.759921	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_spo	P0 (isolate-only species sets)	0.000907664	0.000724217	0.210179	4154	679	
+hq_nosag	a_lmer_randslope	log_rpf	P0_within	0.0014051	0.000775539	0.0700852	7058	1462	singular fit
+hq_nosag	a_lmer_randslope	log_rpf	P0_between	-0.0205011	0.0121488	0.0917214	7058	1462	
+hq_nosag	a_lmer_spec	log_rpf	P0	0.00122098	0.000770597	0.11315	7058	1462	singular fit
+hq_nosag	a_speciesFE_clspecies	log_rpf	P0	0.00079331	0.000555695	0.153463	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_rpf	P0	0.00079331	0.000495938	0.109741	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_rpf	P0:is_mag	-0.00102368	0.0006363	0.107715	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_rpf	P0 (isolates)	0.000947394	0.000646586	0.142916	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_rpf	P0:is_mag	-0.00102368	0.000640448	0.110013	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_rpf	P0 (isolates)	0.000947394	0.000583152	0.104302	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_rpf	P0 (MAGs)	-7.62905e-05	0.000257307	0.766851	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_rpf	P0_within:is_mag	-0.000605222	0.00219998	0.783247	7058	1462	singular fit
+hq_nosag	b_e_lmer_randslope_site	log_rpf	P0_within (isolates)	0.00149375	0.000842125	0.0761612	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_rpf	P0_within	0.0014051	0.000775538	0.0700843	7058	1462	singular fit
+hq_nosag	c_speciesFE_within_type_clsite	log_rpf	P0 (MAG-only species sets)	-9.44582e-05	0.000304486	0.756424	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_rpf	P0 (isolate-only species sets)	0.000894081	0.000567615	0.115312	4154	679	
+hq_nosag	a_lmer_randslope	log_ta	P0_within	0.00374316	0.0144845	0.796384	7058	1462	
+hq_nosag	a_lmer_randslope	log_ta	P0_between	-0.016843	0.0254055	0.50746	7058	1462	
+hq_nosag	a_lmer_spec	log_ta	P0	-0.00128324	0.0125834	0.918847	7058	1462	
+hq_nosag	a_speciesFE_clspecies	log_ta	P0	0.0156307	0.0135097	0.24732	7058	1462	
+hq_nosag	a_speciesFE_clsite	log_ta	P0	0.0156307	0.0127128	0.218927	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_ta	P0:is_mag	-0.0294834	0.0285113	0.301137	7058	1462	
+hq_nosag	b_speciesFE_clspecies	log_ta	P0 (isolates)	0.0200686	0.0146918	0.172002	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_ta	P0:is_mag	-0.0294834	0.0245102	0.229066	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_ta	P0 (isolates)	0.0200686	0.014277	0.159881	7058	1462	
+hq_nosag	b_speciesFE_clsite	log_ta	P0 (MAGs)	-0.00941479	0.0201284	0.639973	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_ta	P0_within:is_mag	-0.00172198	0.0398666	0.965577	7058	1462	
+hq_nosag	b_e_lmer_randslope_site	log_ta	P0_within (isolates)	-0.00532428	0.0185971	0.774994	7058	1462	
+hq_nosag	e_lmer_randslope_site	log_ta	P0_within	-0.00575282	0.0165233	0.728102	7058	1462	
+hq_nosag	c_speciesFE_within_type_clsite	log_ta	P0 (MAG-only species sets)	0.00443876	0.0208065	0.831087	2816	764	
+hq_nosag	c_speciesFE_within_type_clsite	log_ta	P0 (isolate-only species sets)	0.0234826	0.0145672	0.107048	4154	679	
+hq_nosag	d_paired_mean_MAG_minus_isolate	dDORM	mean difference	-0.000397767	0.0136314	0.976806	403	69	sign test: 14 of 31 species positive
+hq_nosag	d_paired_diff_on_dP0	dDORM	dP0	0.014855	0.018913	0.43505	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_paired_mean_MAG_minus_isolate	dlhibx	mean difference	0.00944264	0.0181217	0.604012	403	69	sign test: 3 of 6 species positive
+hq_nosag	d_paired_diff_on_dP0	dlhibx	dP0	0.0157969	0.0423165	0.710137	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_paired_mean_MAG_minus_isolate	dhibx	mean difference	0.00379572	0.0296154	0.898395	403	69	sign test: 3 of 6 species positive
+hq_nosag	d_paired_diff_on_dP0	dhibx	dP0	0.02178	0.0608831	0.721701	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_paired_mean_MAG_minus_isolate	dhib	mean difference	-0.000243362	0.0372157	0.994802	403	69	sign test: 6 of 15 species positive
+hq_nosag	d_paired_diff_on_dP0	dhib	dP0	0.0323772	0.0623203	0.605157	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_paired_mean_MAG_minus_isolate	dsr	mean difference	-0.000696219	0.0459874	0.987965	403	69	sign test: 9 of 20 species positive
+hq_nosag	d_paired_diff_on_dP0	dsr	dP0	0.0327093	0.0500952	0.516096	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_paired_mean_MAG_minus_isolate	dta	mean difference	-0.158342	0.0510393	0.00279549	403	69	sign test: 12 of 50 species positive
+hq_nosag	d_paired_diff_on_dP0	dta	dP0	-0.0214048	0.0565689	0.706378	403	69	Δ(MAG−isolate) ~ ΔP0 + Δcompleteness + Δlog genome size, HC1 SE
+hq_nosag	d_mixed_speciesFE_clsite	DORM_z	is_mag (MAG-isolate gap at P0=0)	0.00824707	0.0137335	0.548582	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	DORM_z	P0:is_mag	-0.00751821	0.0119513	0.529739	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	hib_extra	is_mag (MAG-isolate gap at P0=0)	-0.00707194	0.0100084	0.480316	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	hib_extra	P0:is_mag	0.0124624	0.00761034	0.102471	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_hib	is_mag (MAG-isolate gap at P0=0)	0.00776995	0.009538	0.415873	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_hib	P0:is_mag	-0.00316392	0.00962439	0.742562	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_hpf_short	is_mag (MAG-isolate gap at P0=0)	-0.00456077	0.0107893	0.67278	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_hpf_short	P0:is_mag	0.0159437	0.0195994	0.416531	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_balon	is_mag (MAG-isolate gap at P0=0)	0.00184217	0.00224368	0.412212	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_balon	P0:is_mag	0.0032456	0.00374271	0.386476	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_sr	is_mag (MAG-isolate gap at P0=0)	0.0050758	0.0179772	0.777855	403	69	
+hq_nosag	d_mixed_speciesFE_clsite	log_n_sr	P0:is_mag	-0.00300286	0.011819	0.7996	403	69	
+hq	b_speciesFE_clsite_comp0	DORM_z	P0 (isolates)	0.00294289	0.00428426	0.492141	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	DORM_z	P0:is_mag	-0.0112542	0.00838048	0.179301	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	DORM_z	P0 (MAGs)	-0.00831136	0.00738599	0.260468	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	DORM_z	P0 (isolates)	0.00294289	0.00428426	0.492141	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	DORM_z	P0:is_mag	-0.0112542	0.00838048	0.179301	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	DORM_z	P0 (MAGs)	-0.00831136	0.00738599	0.260468	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp95	DORM_z	P0 (isolates)	0.0034693	0.00411114	0.398738	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	DORM_z	P0:is_mag	0.00536192	0.00646596	0.406961	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	DORM_z	P0 (MAGs)	0.00883123	0.0051798	0.0882064	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp98	DORM_z	P0 (isolates)	0.00387172	0.00409884	0.344869	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	DORM_z	P0:is_mag	0.00132006	0.00546582	0.809159	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	DORM_z	P0 (MAGs)	0.00519178	0.00385955	0.178568	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp0	log1p(hib_extra)	P0 (isolates)	-0.00212374	0.00506283	0.674868	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	log1p(hib_extra)	P0:is_mag	0.0115952	0.0064495	0.0722009	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	log1p(hib_extra)	P0 (MAGs)	0.0094715	0.00424623	0.0257098	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(hib_extra)	P0 (isolates)	-0.00212374	0.00506283	0.674868	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(hib_extra)	P0:is_mag	0.0115952	0.0064495	0.0722009	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(hib_extra)	P0 (MAGs)	0.0094715	0.00424623	0.0257098	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp95	log1p(hib_extra)	P0 (isolates)	-0.00155443	0.00499788	0.755787	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	log1p(hib_extra)	P0:is_mag	0.018855	0.00829064	0.0229508	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	log1p(hib_extra)	P0 (MAGs)	0.0173006	0.00659325	0.00869075	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp98	log1p(hib_extra)	P0 (isolates)	-0.00179935	0.00498436	0.7181	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	log1p(hib_extra)	P0:is_mag	0.00762561	0.00600534	0.204154	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	log1p(hib_extra)	P0 (MAGs)	0.00582626	0.00297997	0.0505664	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp0	log1p(n_sr)	P0 (isolates)	0.00216732	0.0036195	0.549314	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	log1p(n_sr)	P0:is_mag	-0.0148123	0.00915975	0.105855	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp0	log1p(n_sr)	P0 (MAGs)	-0.012645	0.00849509	0.136618	7098	1473	completeness >= 0; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(n_sr)	P0 (isolates)	0.00216732	0.0036195	0.549314	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(n_sr)	P0:is_mag	-0.0148123	0.00915975	0.105855	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp90	log1p(n_sr)	P0 (MAGs)	-0.012645	0.00849509	0.136618	7098	1473	completeness >= 90; MAG genomes = 2901
+hq	b_speciesFE_clsite_comp95	log1p(n_sr)	P0 (isolates)	0.00317996	0.0032842	0.332914	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	log1p(n_sr)	P0:is_mag	-0.00136028	0.00654608	0.835384	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp95	log1p(n_sr)	P0 (MAGs)	0.00181968	0.00571837	0.750321	5734	1113	completeness >= 95; MAG genomes = 1589
+hq	b_speciesFE_clsite_comp98	log1p(n_sr)	P0 (isolates)	0.00393922	0.00320582	0.219158	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	log1p(n_sr)	P0:is_mag	-0.000322291	0.00534929	0.951957	4931	894	completeness >= 98; MAG genomes = 829
+hq	b_speciesFE_clsite_comp98	log1p(n_sr)	P0 (MAGs)	0.00361693	0.0045085	0.42241	4931	894	completeness >= 98; MAG genomes = 829

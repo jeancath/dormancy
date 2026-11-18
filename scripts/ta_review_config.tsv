@@ -1,0 +1,10 @@
+id	response	family	predictor	covars	filter	fdr_family
+T_TA_marine_x_hq	ta_pairs	gaussian_log1p	is_marine:hq	is_marine+hq+lgs+checkm2_completeness+is_mag+log_mobile	none	ta_rev
+T_TA_marine_x_mag	ta_pairs	gaussian_log1p	is_marine:is_mag	is_marine+lgs+checkm2_completeness+is_mag+log_mobile	none	ta_rev
+T_toxins_hq	ta_toxins	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	hq == 1	ta_rev
+T_antitox_hq	ta_antitoxins	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	hq == 1	ta_rev
+T_single_hq	ta_single	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	hq == 1	ta_rev
+T_orphan_hq	ta_orphan_tox	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	hq == 1	ta_rev
+T_pairs_hq	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	hq == 1	ta_rev
+T_pairs_hq_iso	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+log_mobile	hq == 1 & is_mag == 0	ta_rev
+T_pairs_hq_mag	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+log_mobile	hq == 1 & is_mag == 1	ta_rev

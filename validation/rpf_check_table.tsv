@@ -1,0 +1,58 @@
+organism	strain	accession	phylum	expected_rpf	expected_sps	source	evidence	n_proteins	n_rpf	n_rpfB	n_sps	rpf_exact	rpf_presence_ok	sps_diff
+Mycobacterium tuberculosis	H37Rv	GCF_000195955.2	Actinomycetota	5.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39; Kana et al. 2008 Mol Microbiol doi:10.1111/j.1365-2958.2007.06078.x	Table 1A: 5 (RpfA-E)	4085.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium bovis	AF2122/97	GCF_000195835.3	Actinomycetota	5.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 5	4013.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium leprae	TN	GCF_000195855.1	Actinomycetota	3.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 3	3999.0	3.0	1.0	0.0	True	True	0.0
+Mycobacterium avium subsp. paratuberculosis	K-10	GCF_000007865.1	Actinomycetota	4.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 4 (NC_002944)	4544.0	4.0	1.0	0.0	True	True	0.0
+Mycobacterium marinum	M	GCF_000018345.1	Actinomycetota	4.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 4 (genome unfinished in 2005)	5605.0	4.0	1.0	0.0	True	True	0.0
+Mycolicibacterium smegmatis	mc2 155	GCF_000015005.1	Actinomycetota	4.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 4 (genome unfinished in 2005)	6690.0	4.0	1.0	0.0	True	True	0.0
+Corynebacterium diphtheriae	NCTC 13129	GCF_000195815.1	Actinomycetota	3.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 3	2328.0	3.0	1.0	0.0	True	True	0.0
+Corynebacterium glutamicum	ATCC 13032	GCF_000011325.1	Actinomycetota	2.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39; Hartmann et al. 2004	Table 1A: 2	3071.0	2.0	1.0	0.0	True	True	0.0
+Corynebacterium efficiens	YS-314	GCF_000011305.1	Actinomycetota	2.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 2	2877.0	2.0	1.0	0.0	True	True	0.0
+Micrococcus luteus	NCTC 2665	GCF_000023205.1	Actinomycetota	1.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39; Mukamolova et al. 1998 PNAS doi:10.1073/pnas.95.15.8916	Table 1A: 1 (genome not sequenced in 2005; count from Mukamolova 1998)	2288.0	1.0	0.0	0.0	True	True	0.0
+Streptomyces coelicolor	A3(2)	GCF_000203835.1	Actinomycetota	5.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39; Sexton et al. 2015 J Bacteriol	Table 1A: 5 (plus 2 distantly related, Table 1B)	8159.0	5.0	1.0	0.0	True	True	0.0
+Streptomyces avermitilis	MA-4680	GCF_000009765.2	Actinomycetota	6.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1A: 6 (plus 3 distantly related, Table 1B)	7915.0	6.0	1.0	0.0	True	True	0.0
+Saccharopolyspora erythraea	NRRL 2338	GCF_000062885.1	Actinomycetota		0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: Rpf-like proteins present in Saccharopolyspora (count not given)	7279.0	4.0	1.0	0.0	True	True	0.0
+Bifidobacterium longum	NCC2705	GCF_000007525.1	Actinomycetota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1B: 3 distantly related; text: Rpf absent from Bifidobacterium	1833.0	0.0	0.0	0.0	True	True	0.0
+Tropheryma whipplei	Twist	GCF_000007485.1	Actinomycetota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1B: 2 distantly related; text: Rpf absent from Tropheryma	934.0	0.0	0.0	0.0	True	True	0.0
+Thermobifida fusca	YX	GCF_000012405.1	Actinomycetota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: Rpf absent from Thermobifida	3146.0	0.0	0.0	0.0	True	True	0.0
+Mycobacterium tuberculosis	H37Ra	GCF_000016145.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA-E	4093.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium tuberculosis	CDC1551	GCF_000008585.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA-E	4080.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium africanum	GM041182	GCF_000253355.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA-E	4042.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium bovis BCG	Pasteur 1173P2	GCF_000009445.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA-E	4027.0	5.0	1.0	0.0	True	True	0.0
+Mycobacterium avium	104	GCF_000014985.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B,C,E (no rpfD)	5191.0	4.0	1.0	0.0	True	True	0.0
+Mycobacterium intracellulare	ATCC 13950	GCF_000277125.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B,C,E	5036.0	4.0	1.0	0.0	True	True	0.0
+Mycobacterium ulcerans	Agy99	GCF_000013925.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B,C,E	5562.0	4.0	1.0	0.0	True	True	0.0
+Mycobacteroides abscessus	ATCC 19977	GCF_000069185.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B,C,E	4993.0	4.0	1.0	0.0	True	True	0.0
+Mycolicibacterium vanbaalenii	PYR-1	GCA_000015305.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B, rpfE x2 (RefSeq copy suppressed)	6170.0	5.0	1.0	0.0	False	True	0.0
+Mycobacterium sp.	MCS	GCA_000014165.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA, rpfB x2, rpfE x2 (assembly suppressed)					False	False	
+Mycobacterium sp.	KMS	GCA_000015405.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA, rpfB x2, rpfE x2 (assembly suppressed)					False	False	
+Mycobacterium sp.	JLS	GCA_000016005.1	Actinomycetota	5.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA, rpfB x2, rpfE x2 (assembly suppressed)					False	False	
+Mycolicibacterium gilvum	PYR-GCK	GCA_000016365.1	Actinomycetota	4.0	0.0	Machowski2014 BMC Microbiol 14:75 doi:10.1186/1471-2180-14-75	Table 1: rpfA,B, rpfE x2 (assembly suppressed)					False	False	
+Bacillus anthracis	Ames	GCF_000007845.1	Bacillota	0.0	6.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 6	5474.0	0.0	0.0	6.0	True	True	0.0
+Bacillus cereus	ATCC 10987	GCA_000008005.1	Bacillota	0.0	6.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 6 (RefSeq copy suppressed; GenBank used)	5494.0	0.0	0.0	6.0	True	True	0.0
+Bacillus cereus	ATCC 14579	GCF_000007825.1	Bacillota	0.0	5.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 5	5541.0	0.0	0.0	6.0	True	True	1.0
+Halalkalibacterium halodurans	C-125	GCF_000011145.1	Bacillota	0.0	3.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 3	4082.0	0.0	0.0	3.0	True	True	0.0
+Bacillus subtilis	168	GCF_000009045.1	Bacillota	0.0	4.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 4 (YabE, YocH, YuiC, YorM; YorM on SPbeta)	4226.0	0.0	0.0	4.0	True	True	0.0
+Oceanobacillus iheyensis	HTE831	GCF_000011245.1	Bacillota	0.0	4.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 4 (+1 distantly related)	3554.0	0.0	0.0	5.0	True	True	1.0
+Listeria innocua	Clip11262	GCF_000195795.1	Bacillota	0.0	2.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 2	3130.0	0.0	0.0	2.0	True	True	0.0
+Listeria monocytogenes	EGD-e	GCF_000196035.1	Bacillota	0.0	2.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 2	2875.0	0.0	0.0	2.0	True	True	0.0
+Enterococcus faecalis	V583	GCF_000007785.1	Bacillota	0.0	1.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 1	3271.0	0.0	0.0	1.0	True	True	0.0
+Lactococcus lactis subsp. lactis	IL1403	GCF_000006865.1	Bacillota	0.0	1.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 1	2383.0	0.0	0.0	1.0	True	True	0.0
+Clostridium acetobutylicum	ATCC 824	GCF_000008765.1	Bacillota	0.0	2.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 2	3896.0	0.0	0.0	3.0	True	True	1.0
+Clostridium botulinum A	ATCC 3502	GCF_000063585.1	Bacillota	0.0	2.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 2 (genome unfinished in 2005)	3563.0	0.0	0.0	2.0	True	True	0.0
+Clostridium perfringens	13	GCF_000009685.1	Bacillota	0.0	3.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 3	2731.0	0.0	0.0	3.0	True	True	0.0
+Clostridium tetani	E88	GCF_000007625.1	Bacillota	0.0	2.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 2	2799.0	0.0	0.0	2.0	True	True	0.0
+Acetivibrio thermocellus	ATCC 27405	GCF_000015865.1	Bacillota	0.0	4.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 4 (draft AABG03 in 2005)	3398.0	0.0	0.0	4.0	True	True	0.0
+Desulfitobacterium hafniense	DCB-2	GCF_000021925.1	Bacillota	0.0	1.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 1 (draft AAAW in 2005)	4924.0	0.0	0.0	2.0	True	True	1.0
+Caldanaerobacter subterraneus subsp. tengcongensis	MB4	GCF_000007085.1	Bacillota	0.0	1.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 2A: Sps 1	2674.0	0.0	0.0	1.0	True	True	0.0
+Staphylococcus aureus	N315	GCF_000009645.1	Bacillota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1B: 1 distantly related Rpf-like; no Rpf domain	2592.0	1.0	0.0	0.0	False	False	0.0
+Staphylococcus epidermidis	ATCC 12228	GCF_000007645.1	Bacillota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1B: 1 distantly related Rpf-like; no Rpf domain	2354.0	1.0	0.0	0.0	False	False	0.0
+Oenococcus oeni	PSU-1	GCF_000014385.1	Bacillota	0.0	0.0	Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	Table 1B: 1 distantly related (strain in 2005 was a draft; PSU-1 used)	1837.0	1.0	0.0	0.0	False	False	0.0
+Escherichia coli	K-12 MG1655	GCF_000005845.2	Pseudomonadota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: Rpf family confined to actinobacteria	4319.0	0.0	0.0	0.0	True	True	
+Pseudomonas putida	KT2440	GCF_000007565.2	Pseudomonadota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	5584.0	0.0	0.0	0.0	True	True	
+Vibrio cholerae	N16961	GCF_000006745.1	Pseudomonadota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	3594.0	0.0	0.0	0.0	True	True	
+Caulobacter vibrioides	CB15	GCF_000006905.1	Pseudomonadota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	3704.0	0.0	0.0	0.0	True	True	
+Deinococcus radiodurans	R1	GCF_000008565.1	Deinococcota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria; Table 2B: 1 distantly related Sps-like	3248.0	0.0	0.0	0.0	True	True	
+Synechococcus sp.	CC9311	GCF_000014585.1	Cyanobacteriota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	2879.0	0.0	0.0	0.0	True	True	
+Prochlorococcus marinus	CCMP1986	GCF_000011465.1	Cyanobacteriota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	1921.0	0.0	0.0	0.0	True	True	
+Candidatus Pelagibacter ubique	HTCC1062	GCF_000012345.1	Pseudomonadota	0.0		Ravagnani2005 BMC Genomics 6:39 doi:10.1186/1471-2164-6-39	text: confined to actinobacteria	1352.0	0.0	0.0	0.0	True	True	

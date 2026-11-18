@@ -1,0 +1,34 @@
+H1_direct random20 done
+H1_direct one_cell done
+H1_direct contiguous20 done
+H1_direct lambda_free done
+MAGs random20 done
+MAGs one_cell done
+MAGs contiguous20 done
+isolates random20 done
+isolates one_cell done
+isolates contiguous20 done
+          set      variant n_runs         beta   se_median      se_q05
+       <char>       <char>  <int>        <num>       <num>       <num>
+ 1: H1_direct     random20    200  0.006456035 0.003434989 0.002461890
+ 2: H1_direct     one_cell      1  0.006456035 0.003462840 0.003462840
+ 3: H1_direct contiguous20     20  0.006456035 0.003480525 0.003257449
+ 4: H1_direct  lambda_free      1  0.006456035 0.002293253 0.002293253
+ 5:      MAGs     random20    200  0.017493052 0.006220095 0.004865423
+ 6:      MAGs     one_cell      1  0.017493052 0.006327544 0.006327544
+ 7:      MAGs contiguous20     20  0.017493052 0.007234585 0.007112525
+ 8:  isolates     random20    200 -0.008926297 0.004180405 0.003137885
+ 9:  isolates     one_cell      1 -0.008926297 0.004301533 0.004301533
+10:  isolates contiguous20     20 -0.008926297 0.004909102 0.004326357
+         se_q95 p_tost_median share_equivalent p_gt_sesoi_median
+          <num>         <num>            <num>             <num>
+ 1: 0.004297912  0.0111643000            0.995         0.9888357
+ 2: 0.003462840  0.0068569794            1.000         0.9931430
+ 3: 0.004050000  0.0119538287            1.000         0.9880462
+ 4: 0.002293253  0.0007166306            1.000         0.9992834
+ 5: 0.007823246  0.6534830338            0.000         0.3465170
+ 6: 0.006327544  0.6530934930            0.000         0.3469065
+ 7: 0.007512670  0.6329109387            0.000         0.3670891
+ 8: 0.005382477  0.0812843419            0.175         0.9999919
+ 9: 0.004301533  0.0790917072            0.000         1.0000000
+10: 0.005535931  0.1155142778            0.000         0.9999462

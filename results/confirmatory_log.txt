@@ -1,0 +1,43 @@
+H1_DORM_P0                   n= 7327  b=+0.0065  se=0.0025  p=0.0091  par=0.936
+H1_DORM_P0_total             n= 7327  b=+0.0057  se=0.0025  p=0.0252  par=0.949
+PATH_gsize_P0                n= 7327  b=+0.0004  se=0.0008  p=0.558  par=0.992
+H1a_sporulator               n=  394  b=+0.0243  se=0.0955  p=0.799  par=1.928
+H1a_spo_strict               n=  394  b=-0.0037  se=0.0024  p=0.121  par=1.000
+H1b_rpf                      n= 7327  b=-0.0014  se=0.0010  p=0.161  par=0.983
+H1b_rpf_actino               n= 1029  b=-0.0053  se=0.0061  p=0.385  par=0.987
+H1c_hib                      n= 7327  b=+0.0051  se=0.0025  p=0.0367  par=0.936
+H1d_sr                       n= 7327  b=+0.0049  se=0.0024  p=0.0395  par=0.896
+H6_seasonal                  n= 7327  b=+0.0066  se=0.0025  p=0.0076  par=0.936
+H6_resid                     n= 7327  b=+0.0061  se=0.0024  p=0.0129  par=0.936
+H6_ac1                       n= 7327  b=-0.0027  se=0.0024  p=0.255  par=0.936
+H6_colwellP                  n= 7326  b=-0.0047  se=0.0025  p=0.0572  par=0.936
+H6_colwellM                  n= 7326  b=+0.0052  se=0.0025  p=0.0366  par=0.936
+H6_colwellC                  n= 7326  b=-0.0055  se=0.0025  p=0.0254  par=0.936
+H6_joint_resid_given_seasonal n= 7327  b=+0.0023  se=0.0042  p=0.587  par=0.936
+H6_joint_seasonal_given_resid n= 7327  b=+0.0047  se=0.0043  p=0.267  par=0.936
+H4_streamlined               n= 2333  b=-0.0999  se=0.0952  p=0.294  par=0.928
+H3_TA_marine                 n= 7327  b=-0.2311  se=0.0256  p=2.08e-19  par=0.830
+H3_TA_marine_mob             n= 7327  b=-0.2241  se=0.0246  p=1.19e-19  par=0.807
+H3_TA_P0                     n= 7327  b=+0.0213  se=0.0079  p=0.00734  par=0.806
+H5_ssu                       n=  864  b=+0.0352  se=0.0192  p=0.0675  par=0.980
+PATH_ssu_P0                  n=  864  b=-0.0013  se=0.0114  p=0.908  par=0.947
+S_isolates                   n= 2835  b=-0.0079  se=0.0036  p=0.03  par=0.967
+S_comp95                     n= 5484  b=+0.0046  se=0.0027  p=0.0947  par=0.948
+S_spmed                      n= 7327  b=+0.0070  se=0.0025  p=0.00464  par=0.936
+S_marine                     n= 2333  b=+0.0067  se=0.0045  p=0.131  par=0.928
+S_land                       n= 4994  b=+0.0051  se=0.0031  p=0.0991  par=0.938
+S_noBacCPR                   n= 6661  b=+0.0072  se=0.0026  p=0.00524  par=0.924
+S_growth                     n= 7321  b=+0.0064  se=0.0025  p=0.00924  par=0.936
+S_mobile                     n= 7327  b=+0.0066  se=0.0025  p=0.00816  par=0.936
+S_sum                        n= 7327  b=+0.0048  se=0.0023  p=0.0367  par=0.962
+S_Tmean                      n= 7327  b=+0.0058  se=0.0027  p=0.0327  par=0.936
+X_chl_total                  n= 2158  b=+0.0003  se=0.0042  p=0.939  par=0.931
+X_chl_resid                  n= 2133  b=+0.0027  se=0.0044  p=0.541  par=0.931
+X_prec_cv                    n= 4994  b=+0.0078  se=0.0032  p=0.0141  par=0.938
+X_prec_cvres                 n= 4994  b=+0.0077  se=0.0034  p=0.0233  par=0.938
+X_hao_nb                     n= 2805  b=+0.0106  se=0.0089  p=0.235  par=0.957
+X_snb                        n= 3109  b=+0.0072  se=0.0078  p=0.353  par=0.953
+Warning message:
+In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.

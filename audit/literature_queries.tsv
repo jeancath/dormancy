@@ -1,0 +1,68 @@
+source	query	n_hits	date
+EuropePMC	(dormancy OR sporulation OR "resuscitation-promoting factor" OR "ribosome hibernation") AND ("environmental variability" OR fluctuat* OR seasonality) AND (genomes OR "comparative genomics") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	1250	2026-11-17
+EuropePMC	"seed bank" AND (bacteria OR microbial) AND (genome OR genomic) AND (bet-hedging OR "bet hedging") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	5	2026-11-17
+EuropePMC	ABSTRACT:(dormancy) AND ABSTRACT:(genomes) AND ABSTRACT:("temperature variability" OR "climate variability" OR "environmental fluctuation" OR "temperature fluctuation" OR seasonality) AND ABSTRACT:(bacteria OR prokaryot*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	0	2026-11-17
+EuropePMC	ABSTRACT:("ribosome hibernation" OR "hibernation factor") AND ABSTRACT:(distribution OR phylogen* OR "across bacteria" OR genomes) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	11	2026-11-17
+EuropePMC	ABSTRACT:("phylogenetic generalized least squares" OR PGLS OR phylolm OR "phylogenetic regression") AND ABSTRACT:(bacteri* OR prokaryot*) AND ABSTRACT:(genomes) AND ABSTRACT:(environment* OR climate OR temperature) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	0	2026-11-17
+EuropePMC	ABSTRACT:("metagenome-assembled genomes" OR MAGs) AND ABSTRACT:(isolate* OR cultured OR "reference genomes") AND ABSTRACT:("gene content" OR "accessory genes" OR "functional") AND ABSTRACT:(bias OR discrepan* OR underestimat* OR incomplete) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	2	2026-11-17
+EuropePMC	"metagenome-assembled genomes" isolate genomes comparison bias gene content AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	211	2026-11-17
+EuropePMC	MAG "strain heterogeneity" binning accessory genes AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	16	2026-11-17
+EuropePMC	"metagenome-assembled genomes" "trait" "isolates" "genome size" bias AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	29	2026-11-17
+EuropePMC	(paralog OR paralogs OR "gene duplication" OR "multicopy genes" OR "copy number") AND ("metagenome-assembled" OR MAGs) AND (collapse OR underestimat* OR overestimat* OR chimer*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	332	2026-11-17
+EuropePMC	"culture collection" OR culturomics bias "uncultured" growth rate genomic traits isolates versus MAGs AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	22	2026-11-17
+EuropePMC	"cultivation bias" bacteria genomes AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	30	2026-11-17
+EuropePMC	(pseudoreplication OR "spatial autocorrelation" OR "site random effect" OR "non-independence") AND (bacteria OR prokaryot*) AND ("comparative genomics" OR genomes) AND (phylogen*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	203	2026-11-17
+EuropePMC	GTDB genome size GC content environment temperature association phylogenetic thousands of genomes AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	21	2026-11-17
+EuropePMC	"optimal growth temperature" genomes environment phylogenetic comparative AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	128	2026-11-17
+EuropePMC	"toxin-antitoxin" AND (marine OR ocean OR seawater) AND (genomes OR "comparative genomics") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	304	2026-11-17
+EuropePMC	"toxin-antitoxin" AND (habitat OR lifestyle OR environment) AND ("genome size") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	266	2026-11-17
+EuropePMC	"defense systems" AND (marine OR ocean) AND (depleted OR depletion OR fewer OR "lower abundance") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	552	2026-11-17
+EuropePMC	"defence systems" AND (marine OR ocean) AND (metagenom*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	78	2026-11-17
+EuropePMC	Balon AND (ribosome OR hibernation OR EF-Tu) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	19	2026-11-17
+EuropePMC	"ribosome hibernation" AND (cold OR psychrophil* OR "low temperature" OR polar) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	83	2026-11-17
+EuropePMC	("Simpson's paradox" OR "sign reversal" OR "opposite direction") AND ("metagenome-assembled") AND (isolate*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	31	2026-11-17
+EuropePMC	"bet-hedging" AND bacteria AND ("environmental variability" OR "fluctuating environments") AND (genom*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	60	2026-11-17
+EuropePMC	sporulation AND (climate OR aridity OR "temperature variability" OR seasonality) AND (genomes OR metagenom*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	584	2026-11-17
+EuropePMC	"resuscitation-promoting factor" AND (distribution OR phylogen* OR genomes) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	63	2026-11-17
+EuropePMC	("small alarmone synthetase" OR "RelA/SpoT homolog") AND (distribution OR phylogen* OR evolution) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	42	2026-11-17
+EuropePMC	GTDB AND (trait OR traits) AND (environment* OR habitat) AND (phylogenetic) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	1333	2026-11-17
+EuropePMC	"isolation source" AND (climate OR temperature) AND (bacterial genomes) AND (metadata) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	175	2026-11-17
+EuropePMC	(microdiversity OR "strain heterogeneity") AND (binning OR "metagenome-assembled") AND (recovery OR completeness) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	252	2026-11-17
+EuropePMC	"long-read" AND ("metagenome-assembled") AND ("short-read") AND ("mobile genetic elements" OR plasmids OR "genomic islands") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	240	2026-11-17
+Crossref	microbial dormancy genes environmental variability comparative genomics [filter from-pub-date:2024-01-01]	957466 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	seed bank bet hedging bacterial genomes environmental fluctuation [filter from-pub-date:2024-01-01]	668605 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	metagenome-assembled genomes versus isolate genomes trait environment association [filter from-pub-date:2024-01-01]	741237 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	metagenome-assembled genomes gene content bias strain heterogeneity accessory genes [filter from-pub-date:2024-01-01]	7847 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	toxin-antitoxin systems marine bacteria genome distribution [filter from-pub-date:2024-01-01]	1243388 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	ribosome hibernation factor Balon distribution cold [filter from-pub-date:2024-01-01]	283309 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	phylogenetic comparative analysis bacterial traits climate isolation site [filter from-pub-date:2024-01-01]	2091589 (relevance-ranked; total not meaningful)	2026-11-17
+Crossref	genome streamlining marine bacteria mobile genetic elements defense systems [filter from-pub-date:2024-01-01]	1382540 (relevance-ranked; total not meaningful)	2026-11-17
+EuropePMC	SRC:PPR AND (dormancy OR sporulation OR hibernation) AND (genomes) AND (environment* OR climate OR temperature) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	128	2026-11-17
+EuropePMC	SRC:PPR AND ("metagenome-assembled genomes") AND (isolates) AND (bias OR artifact OR artefact) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	19	2026-11-17
+EuropePMC	SRC:PPR AND ("toxin-antitoxin") AND (habitat OR marine OR environment) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	42	2026-11-17
+EuropePMC	SRC:PPR AND ("phylogenetic") AND ("bacterial traits" OR "microbial traits") AND (environment OR climate) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	17	2026-11-17
+EuropePMC	AUTH:"Shade A" AND (dormancy OR dormant OR seed) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	14	2026-11-17
+EuropePMC	AUTH:"Lennon JT" AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	47	2026-11-17
+EuropePMC	("dormancy genes" OR "dormancy-related genes" OR "dormancy traits") AND (metagenom* OR genomes) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	73	2026-11-17
+EuropePMC	(aridity OR drought OR desiccation) AND (sporulation OR dormancy) AND ("metagenome-assembled" OR "global soil") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	80	2026-11-17
+EuropePMC	("temporal variability" OR "environmental stability" OR "environmental fluctuations") AND ("genomic traits" OR "genome traits") AND (bacteria OR prokaryot*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	32	2026-11-17
+EuropePMC	("cultivated and uncultivated" OR "cultured and uncultured") AND ("genomic traits" OR "genome size" OR "gene content") AND (environment* OR habitat) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	44	2026-11-17
+EuropePMC	("genome source" OR "MAGs and isolates" OR "isolates and MAGs") AND (trait* OR functional) AND (differ* OR discrepan*) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	213	2026-11-17
+EuropePMC	"metagenome-assembled genomes" AND ("genome size" OR "gene copy number") AND (underestimat* OR overestimat* OR biased) AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	303	2026-11-17
+EuropePMC	"single-copy" AND "multi-copy" AND (binning OR "metagenome-assembled") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	44	2026-11-17
+EuropePMC	("population genome" OR "consensus genome" OR "composite genome") AND ("metagenome-assembled") AND (FIRST_PDATE:[2024-01-01 TO 2026-12-31])	35	2026-11-17
+EuropePMC	("toxin-antitoxin" OR "toxin antitoxin") AND (metagenome OR metagenomes OR metagenomic) AND (marine OR ocean OR seawater OR "Global Ocean Sampling" OR Tara)	544	2026-11-17
+EuropePMC	"genome size" AND ("ecosystem type" OR habitat OR environment) AND (archaea AND bacteria) AND ("metagenome-assembled" OR GTDB) AND (thousands OR "large-scale" OR global)	685	2026-11-17
+EuropePMC	("GC content" OR "genome size") AND (temperature OR latitude OR nitrogen) AND ("phylogenetic") AND (prokaryot*) AND (genomes) AND ("across" ) AND (global)	2328	2026-11-17
+EuropePMC	"optimal growth temperature" AND (prediction OR predicted) AND (genomes) AND ("environmental temperature" OR habitat temperature OR isolation)	1280	2026-11-17
+EuropePMC	TITLE:"genome size in Archaea and Bacteria is linked to ecosystem type"	2	2026-11-17
+EuropePMC	TITLE:"positive correlation between GC content and growth temperature"	2	2026-11-17
+EuropePMC	TITLE:"habitat generalists" AND TITLE:"specialists" AND AUTH:"Sriswasdi"	0	2026-11-17
+EuropePMC	TITLE:"social niche breadth" OR (TITLE:"generalists" AND AUTH:"von Meijenfeldt")	2	2026-11-17
+EuropePMC	TITLE:"near-independent dimensions" AND AUTH:"Westoby"	1	2026-11-17
+EuropePMC	("genome size" OR "GC content" OR "genomic traits") AND ("metagenome-assembled genomes") AND (latitude OR "mean annual temperature" OR aridity OR climate) AND (global) AND (FIRST_PDATE:[2022-01-01 TO 2026-12-31])	372	2026-11-17
+EuropePMC	("isolation site" OR "sampling location" OR geolocation OR coordinates) AND (bacterial genomes) AND (climate OR "WorldClim" OR "sea surface temperature") AND (trait*) AND (FIRST_PDATE:[2022-01-01 TO 2026-12-31])	877	2026-11-17
+bioRxiv API	details/biorxiv/10.1101/2025.11.04.686544 (publication status, Chan et al.)	2 versions; not published	2026-11-17
+bioRxiv API	details/biorxiv/10.64898/2026.06.03.729626 (publication status, Henderson et al.)	3 versions; not published	2026-11-17
+bioRxiv API	details/biorxiv/10.64898/2026.10.22.761225 (publication status, Hao et al.)	1 version; not published	2026-11-17
+bioRxiv API	NOTE: api.biorxiv.org has no keyword search; bioRxiv preprints were keyword-searched via Europe PMC SRC:PPR (rows above)	NA	2026-11-17

@@ -1,0 +1,39 @@
+real residual between-cell share: total 0.4114443 phylogenetic part 0.451138 non-phylogenetic part 0.05859419 
+DGM D beta -0.015 done 40 2026-11-18 19:48:36 
+DGM D beta -0.015 done 80 2026-11-18 19:54:52 
+DGM D beta -0.015 done 120 2026-11-18 20:00:43 
+DGM D beta -0.015 done 160 2026-11-18 20:03:01 
+DGM D beta -0.015 done 200 2026-11-18 20:05:08 
+DGM D beta -0.015 done 240 2026-11-18 20:07:20 
+DGM D beta -0.015 done 280 2026-11-18 20:09:31 
+DGM D beta -0.015 done 320 2026-11-18 20:11:39 
+DGM D beta -0.015 done 360 2026-11-18 20:13:36 
+DGM D beta -0.015 done 400 2026-11-18 20:15:53 
+DGM D beta -0.015 done 440 2026-11-18 20:17:57 
+DGM D beta -0.015 done 480 2026-11-18 20:20:03 
+DGM D beta -0.015 done 500 2026-11-18 20:21:09 
+DGM D beta 0.015 done 40 2026-11-18 20:23:06 
+DGM D beta 0.015 done 80 2026-11-18 20:25:07 
+DGM D beta 0.015 done 120 2026-11-18 20:27:11 
+DGM D beta 0.015 done 160 2026-11-18 20:29:39 
+DGM D beta 0.015 done 200 2026-11-18 20:31:53 
+DGM D beta 0.015 done 240 2026-11-18 20:33:55 
+DGM D beta 0.015 done 280 2026-11-18 20:35:47 
+DGM D beta 0.015 done 320 2026-11-18 20:37:39 
+DGM D beta 0.015 done 360 2026-11-18 20:39:34 
+DGM D beta 0.015 done 400 2026-11-18 20:41:27 
+DGM D beta 0.015 done 440 2026-11-18 20:43:24 
+DGM D beta 0.015 done 480 2026-11-18 20:45:17 
+DGM D beta 0.015 done 500 2026-11-18 20:46:16 
+   true_beta  nsim n_equiv P_declare_equivalence n_equiv_avg P_equiv_se_avg
+       <num> <int>   <int>                 <num>       <int>          <num>
+1:    -0.015   500      24                 0.048          22          0.044
+2:     0.015   500      18                 0.036          17          0.034
+   mean_lambda_hat sd_estimate mean_estimate     mean_se median_se_avg
+             <num>       <num>         <num>       <num>         <num>
+1:       0.9743855 0.002275002   -0.01492932 0.002378402   0.002385945
+2:       0.9743530 0.002255485    0.01494714 0.002416929   0.002412957
+   mean_between_cell_share    mc_lo95    mc_hi95 avg_mc_lo95 avg_mc_hi95
+                     <num>      <num>      <num>       <num>       <num>
+1:               0.3574453 0.03099317 0.07058080  0.02777677  0.06586100
+2:               0.3560297 0.02147286 0.05630018  0.01992860  0.05388035

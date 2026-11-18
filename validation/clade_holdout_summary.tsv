@@ -1,0 +1,3 @@
+check	n_genomes	n_genera	AUC	AUC_lo	AUC_hi	sens_rule	sens_lo	sens_hi	spec_rule	spec_lo	spec_hi	acc_heldout	acc_prereg_rule	thresholds_chosen
+genus-clustered bootstrap (2,000)	543	270	0.9168	0.878	0.9459	0.9026	0.8393	0.9534	0.7787	0.7021	0.8438			
+leave-one-order-out (weighted by n)	543	13										0.8692	0.8232	27

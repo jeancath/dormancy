@@ -1,0 +1,29 @@
+species 7327 sites 1680 
+               set    n n_sites        beta  se_phylolm se_site_jackknife
+Estimate H1_direct 7327    1680 0.006456035 0.002474712      0.0004279363
+         p_site_jackknife    ci_lo_jk   ci_hi_jk cap_K cap_n_mean
+Estimate      1.98898e-51 0.005617279 0.00729479     1         NA
+         cap_beta_median cap_beta_q025 cap_beta_q975 cap_frac_positive
+Estimate      -0.0058196  -0.007832805  -0.003806396                 0
+              set    n n_sites        beta  se_phylolm se_site_jackknife
+Estimate H1_total 7327    1680 0.005670034 0.002531845       0.006896924
+         p_site_jackknife     ci_lo_jk ci_hi_jk cap_K cap_n_mean
+Estimate        0.4110139 -0.007847936 0.019188     1         NA
+         cap_beta_median cap_beta_q025 cap_beta_q975 cap_frac_positive
+Estimate    -0.003223126  -0.003623442  -0.002822811                 0
+          set    n n_sites       beta  se_phylolm se_site_jackknife
+Estimate MAGs 4492     368 0.01806894 0.003389135      0.0002787919
+         p_site_jackknife   ci_lo_jk   ci_hi_jk cap_K cap_n_mean
+Estimate                0 0.01752251 0.01861538     1         NA
+         cap_beta_median cap_beta_q025 cap_beta_q975 cap_frac_positive
+Estimate      0.02285837    0.01869704    0.02701969                 1
+              set    n n_sites         beta  se_phylolm se_site_jackknife
+Estimate isolates 2835    1399 -0.007918786 0.003648235        0.00684813
+         p_site_jackknife    ci_lo_jk    ci_hi_jk cap_K cap_n_mean
+Estimate        0.2475409 -0.02134112 0.005503548     1         NA
+         cap_beta_median cap_beta_q025 cap_beta_q975 cap_frac_positive
+Estimate    -0.007651746  -0.008421481  -0.006882011                 0
+                                model    n   post_mean          l95         u95
+post.mean MCMCglmm_DORM_z_animal_site 7327 0.003921576 -0.002655144 0.009821498
+          pMCMC var_animal     var_site  var_resid   ess_P0
+post.mean 0.202  0.3301934 0.0007984466 0.01800778 874.6116

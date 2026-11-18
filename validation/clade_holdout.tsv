@@ -1,0 +1,14 @@
+held_out_order	n	n_pos	threshold_chosen_on_others	acc_heldout	sens_heldout	spec_heldout	acc_prereg_rule
+Acidaminococcales	6	0	27	1		1	1
+Bacillales	140	70	27	0.9357	0.9571	0.9143	0.9071
+Clostridiales	140	70	27	0.7143	0.8286	0.6	0.6071
+Entomoplasmatales	4	0	27	1		1	1
+Erysipelotrichales	16	3	27	0.8125	0	1	0.75
+Halanaerobiales	11	5	27	0.7273	1	0.5	0.7273
+Lactobacillales	73	3	27	0.9589	0	1	0.9589
+Mycoplasmatales	42	0	27	1		1	1
+Natranaerobiales	1	0	27	0		0	0
+Selenomonadales	30	12	27	0.9667	1	0.9444	0.9667
+Thermoanaerobacterales	39	23	27	0.8205	0.9565	0.625	0.6923
+Tissierellales	23	9	27	0.8261	0.5556	1	0.8261
+Veillonellales	18	0	27	1		1	1

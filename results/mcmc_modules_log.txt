@@ -1,0 +1,10 @@
+                             test    n  b_seasonal     b_resid         diff
+seas H6_wald_resid_minus_seasonal 7327 0.004726148 0.002283604 -0.002442544
+         se_diff          z         p cor_predictors
+seas 0.008058828 -0.3030892 0.7618219       0.823541
+          response    post_mean         l95        u95 pMCMC
+post.mean    n_rpf -0.004078058 -0.03458909 0.02332193 0.848
+          response  post_mean         l95        u95 pMCMC
+post.mean    n_hib 0.01743892 0.003089972 0.03067138 0.001
+          response   post_mean         l95        u95 pMCMC
+post.mean     n_sr 0.009892642 0.000489286 0.02065787 0.058

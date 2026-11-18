@@ -1,0 +1,11 @@
+{
+  "title": "The Dormancy Rule: code and data for a pre-registered phylogenetic test of seed-bank theory across 7,327 bacterial species",
+  "upload_type": "software",
+  "description": "Code, dormancy-gene HMM dictionary, analysis tables, model outputs, the frozen pre-registration, deviation log, phenotype calibration, within-species replication and independent audit for the article 'Dormancy gene content of bacterial genomes tracks ancestry, not environmental variability'.",
+  "creators": [
+    {"name": "Fathy, Melad Naieem", "affiliation": "Independent researcher", "orcid": "0009-0002-4553-8894"}
+  ],
+  "license": "MIT",
+  "keywords": ["microbial dormancy", "seed bank", "phylogenetic comparative methods", "GTDB", "metagenome-assembled genomes", "pre-registration"],
+  "access_right": "open"
+}

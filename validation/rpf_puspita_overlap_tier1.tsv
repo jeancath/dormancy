@@ -1,0 +1,17 @@
+name	family	genome_size	expected_rpf_puspita	habitat	nuc	accession	asm_org	consistent	expected_rpf_tier1
+Corynebacterium diphtheriae gravis NCTC 13129	Corynebacteriaceae	2488635	3	Respiratory tract	NC_002935	GCF_000195815.1	Corynebacterium diphtheriae NCTC 13129 (high G+C Gram-positive bacteria)	True	3.0
+Corynebacterium efficiens YS--314, DSM 44549	Corynebacteriaceae	3219505	2	Soil	NC_004369	GCF_000011305.1	Corynebacterium efficiens YS-314 (high G+C Gram-positive bacteria)	True	2.0
+Corynebacterium glutamicum Nakagawa ATCC 13032	Corynebacteriaceae	3309401	2	Soil	NC_003450	GCF_000011325.1	Corynebacterium glutamicum ATCC 13032 (high G+C Gram-positive bacteria)	True	2.0
+Micrococcus luteus Fleming NCTC 2665	Micrococcaceae	2501097	1	Soil	NC_012803	GCF_000023205.1	Micrococcus luteus NCTC 2665 (high G+C Gram-positive bacteria)	True	1.0
+Mycobacterium africanum GM041182	Mycobacteriaceae	4389314	5	Respiratory tract	NC_015758	GCF_000253355.1	Mycobacterium tuberculosis variant africanum GM041182 (high G+C Gram-positive bacteria)	True	5.0
+Mycobacterium avium 104	Mycobacteriaceae	5475491	4	Respiratory tract	NC_008595	GCF_000014985.1	Mycobacterium avium 104 (high G+C Gram-positive bacteria)	True	4.0
+Mycobacterium avium paratuberculosis K--10	Mycobacteriaceae	4829781	4	Gastrointestinal tract	NC_002944	GCF_000007865.1	Mycobacterium avium subsp. paratuberculosis K-10 (high G+C Gram-positive bacteria)	True	4.0
+Mycobacterium bovis AF2122/97	Mycobacteriaceae	4345492	5	Respiratory tract	NC_002945	GCF_000195835.3	Mycobacterium tuberculosis variant bovis AF2122/97 (high G+C Gram-positive bacteria)	True	5.0
+Mycobacterium leprae TN	Mycobacteriaceae	3268203	3	Skin	NC_002677	GCF_000195855.1	Mycobacterium leprae TN (high G+C Gram-positive bacteria)	True	3.0
+Mycobacterium smegmatis MC2 155	Mycobacteriaceae	6988209	4	Soft tissue	NC_008596	GCF_000015005.1	Mycolicibacterium smegmatis MC2 155 (high G+C Gram-positive bacteria)	True	4.0
+Mycobacterium tuberculosis H37Rv (lab strain)	Mycobacteriaceae	4411532	5	Respiratory tract	NC_000962	GCF_000195955.2	Mycobacterium tuberculosis H37Rv (high G+C Gram-positive bacteria)	True	5.0
+Mycobacterium ulcerans Agy99	Mycobacteriaceae	5805761	4	Skin, soil	NC_008611	GCF_000013925.1	Mycobacterium ulcerans Agy99 (high G+C Gram-positive bacteria)	True	4.0
+Saccharopolyspora erythraea NRRL 2338 white	Pseudonocardiaceae	8212805	4	Soil	NC_009142	GCF_000062885.1	Saccharopolyspora erythraea NRRL 2338 (high G+C Gram-positive bacteria)	True	
+Streptomyces avermitilis MA--4680	Streptomycetaceae	9119895	5	Soil	NC_003155	GCF_000009765.2	Streptomyces avermitilis MA-4680 = NBRC 14893 (high G+C Gram-positive bacteria)	True	6.0
+Streptomyces coelicolor A3(2)	Streptomycetaceae	9054847	4	Soil	NC_003888	GCF_000203835.1	Streptomyces coelicolor A3(2) (high G+C Gram-positive bacteria)	True	5.0
+Thermobifida fusca YX	Nocardiopsaceae	3642249	0	Compost, soil	CP000088	GCF_000012405.1	Thermobifida fusca YX (high G+C Gram-positive bacteria)	True	0.0

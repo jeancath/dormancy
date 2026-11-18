@@ -1,0 +1,15 @@
+estimator	role	se	p_tost	equivalent
+P-bar: P with jackknife variance averaged over 200 random groupings, t19	FINAL	0.0034772	0.011895	True
+delete-one-cell jackknife (no grouping randomness), t on cells-1 df	sensitivity	0.0034628	0.006857	True
+20 spatially contiguous groups (k-means), variance averaged over 20 k-means seeds, t19	sensitivity	0.0035968	0.014104	True
+P with the single original grouping (seed 20261118), t19	superseded (earlier report)	0.0022139	0.00052835	True
+P with lambda re-estimated in every jackknife replicate (original grouping), t19	sensitivity	0.0022933	0.00071663	True
+phylolm lambda, model SE	sensitivity	0.0024747	0.00027767	True
+site jackknife, G=100 (0.5-deg centred cells)	sensitivity	0.0037976	0.012229	True
+MCMCglmm phylogeny + site (95% HPD)	sensitivity			True
+block jackknife, 0.5-degree grid blocks (1642 blocks in 100 groups; scripts/25)	sensitivity (robustness)	0.0035062	0.0074087	True
+block jackknife, 1-degree grid blocks (1374 blocks in 100 groups; scripts/25)	sensitivity (robustness)	0.0035189	0.0075908	True
+block jackknife, 2-degree grid blocks (1049 blocks in 100 groups; scripts/25)	sensitivity (robustness)	0.0033003	0.0048146	True
+block jackknife, 5-degree grid blocks (599 blocks in 100 groups; scripts/25)	sensitivity (robustness)	0.0039473	0.015212	True
+single random groupings (200 realisations of P; not an estimator choice)	randomisation of P	0.003435	0.054086	False
+INTERSECTION-UNION: equivalence only if every non-superseded estimator above declares it	decision rule		0.015212	True

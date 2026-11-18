@@ -1,0 +1,73 @@
+E_mag_x_P0                   n= 7327  b=+0.0241  se=0.0050  p=1.75e-06  par=0.936
+E_MAGs_only                  n= 4492  b=+0.0181  se=0.0034  p=1.02e-07  par=0.875
+E_isolates_complete          n=  865  b=-0.0097  se=0.0060  p=0.108  par=0.980
+E_sporulator27               n=  394  b=-0.0709  se=0.1157  p=0.54  par=1.927
+E_abslat                     n= 7327  b=+0.0043  se=0.0030  p=0.157  par=0.936
+E_abslat_only                n= 7327  b=+0.0064  se=0.0025  p=0.0125  par=0.936
+E_pseudo                     n= 2644  b=+0.0043  se=0.0035  p=0.217  par=0.926
+E_actino                     n= 1029  b=+0.0010  se=0.0082  p=0.901  par=0.943
+E_bacter                     n=  878  b=+0.0002  se=0.0075  p=0.982  par=0.811
+E_bacill                     n=  394  b=+0.0059  se=0.0060  p=0.323  par=0.995
+E_cyanob                     n=  311  b=+0.0356  se=0.0122  p=0.00385  par=0.947
+E_hib_marine                 n= 2333  b=+0.0057  se=0.0045  p=0.203  par=0.911
+E_hib_land                   n= 4994  b=+0.0037  se=0.0031  p=0.231  par=0.933
+E_sr_marine                  n= 2333  b=+0.0052  se=0.0042  p=0.22  par=0.855
+E_sr_land                    n= 4994  b=+0.0053  se=0.0029  p=0.073  par=0.906
+E_rmf_any                    n= 7327  b=+0.1183  se=0.0710  p=0.0955  par=1.299
+E_balon_any                  n= 7327  b=+0.0708  se=0.0258  p=0.00607  par=1.299
+E_hpflong_any                n= 7327  b=+0.0017  se=0.1030  p=0.987  par=0.863
+E_sas_any                    n= 7327  b=+0.0261  se=0.0280  p=0.352  par=1.299
+E_rpoS                       n= 7327  b=+0.0487  se=0.0684  p=0.477  par=2.232
+E_TA_isolates                n= 2835  b=-0.0433  se=0.0402  p=0.281  par=0.877
+E_TA_mob_marine              n= 7327  b=-0.0722  se=0.0275  p=0.00866  par=0.685
+E_gsize_marine               n= 7327  b=-0.0072  se=0.0026  p=0.00511  par=0.992
+E_H1_asmq                    n= 7327  b=+0.0063  se=0.0025  p=0.0121  par=0.936
+E_MAGs_asmq                  n= 4492  b=+0.0178  se=0.0034  p=1.92e-07  par=0.876
+E_mag_x_P0_asmq              n= 7327  b=+0.0242  se=0.0050  p=1.62e-06  par=0.936
+E_n50_P0                     n= 7327  b=+0.0593  se=0.0066  p=5.28e-19  par=0.170
+E_n50_P0_MAGs                n= 4492  b=+0.0422  se=0.0062  p=8.55e-12  par=0.436
+E_DORM_n50                   n= 7327  b=+0.0031  se=0.0039  p=0.427  par=0.936
+E_TA_marine_asmq             n= 7327  b=-0.2277  se=0.0246  p=2.98e-20  par=0.806
+E_n50_marine                 n= 7327  b=-0.0349  se=0.0173  p=0.0443  par=0.162
+E_H1_habitat                 n= 7327  b=+0.0065  se=0.0025  p=0.00846  par=0.936
+E_MAGs_habitat               n= 4492  b=+0.0181  se=0.0034  p=1.04e-07  par=0.875
+E_MAGs_marine                n= 1514  b=+0.0236  se=0.0066  p=0.000379  par=0.883
+E_MAGs_land                  n= 2978  b=+0.0133  se=0.0042  p=0.00137  par=0.866
+E_iso_marine                 n=  819  b=-0.0161  se=0.0056  p=0.00415  par=0.972
+E_iso_land                   n= 2016  b=-0.0039  se=0.0048  p=0.411  par=0.970
+E_TA_MAGs                    n= 4492  b=-0.3256  se=0.0308  p=6.94e-26  par=0.712
+E_TA_isolates_nomob          n= 2835  b=-0.0163  se=0.0416  p=0.695  par=0.885
+E_TA_complete_iso            n=  865  b=-0.1550  se=0.0710  p=0.0293  par=0.835
+E_toxins_marine              n= 7327  b=-0.2199  se=0.0222  p=5.48e-23  par=0.902
+E_antitox_marine             n= 7327  b=-0.2297  se=0.0246  p=1.37e-20  par=0.847
+E_TA_plasmidfree             n= 7195  b=-0.2318  se=0.0249  p=1.44e-20  par=0.800
+E_DORM_marine                n= 7327  b=-0.0063  se=0.0081  p=0.438  par=0.936
+E_reparam_fracseas           n= 7327  b=+0.0009  se=0.0044  p=0.839  par=0.936
+E_reparam_logsd              n= 7327  b=+0.0064  se=0.0045  p=0.156  par=0.936
+E_reparam_ac1                n= 7327  b=+0.0012  se=0.0029  p=0.68  par=0.936
+E_reparam_fracseas_MAGs      n= 4492  b=+0.0009  se=0.0064  p=0.884  par=0.875
+E_reparam_fracseas_iso       n= 2835  b=-0.0006  se=0.0060  p=0.916  par=0.967
+E_marine_resid_given_seas    n= 2333  b=+0.0058  se=0.0060  p=0.338  par=0.928
+E_marine_seas_given_resid    n= 2333  b=+0.0029  se=0.0060  p=0.625  par=0.928
+E_marine_fracseas            n= 2333  b=-0.0002  se=0.0065  p=0.97  par=0.928
+E_marine_resid_MAGs          n= 1514  b=+0.0075  se=0.0088  p=0.398  par=0.883
+E_marine_resid_iso           n=  819  b=+0.0034  se=0.0074  p=0.648  par=0.972
+Warning messages:
+1: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+2: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+3: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+4: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+5: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.
+6: In phyloglm(f, data = d, phy = ph, method = "logistic_MPLE", btol = 30) :
+  the boundary of the linear predictor has been reached during the optimization procedure.
+You can increase this bound by increasing 'btol'.

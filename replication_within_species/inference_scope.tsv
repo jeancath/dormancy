@@ -1,0 +1,20 @@
+quantity	value	note
+genomes	7098	
+species	1473	
+MAG genomes	2901	
+isolate genomes	4197	
+species with within-species P0 variation	700	contribute to any within-species slope
+species with >= 2 MAG genomes	774	
+species with MAG genomes at >= 2 P0 values	238	identify the within-species MAG slope
+MAG genomes in those species	1214	
+species with >= 2 isolate genomes	679	
+species with isolate genomes at >= 2 P0 values	431	identify the within-species isolate slope
+isolate genomes in those species	3295	
+species with both MAG and isolate genomes	71	
+genomes in those species	413	
+  of which MAG genomes	188	
+  of which isolate genomes	225	
+mixed species with P0 variation within BOTH sources	2	
+share of within-species P0 variation from MAG-only species	0.11	
+share of within-species P0 variation from isolate-only species	0.806	
+share of within-species P0 variation from mixed species	0.084	

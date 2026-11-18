@@ -1,0 +1,6 @@
+id	response	family	predictor	covars	filter	fdr_family
+P_all	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	pilot_rep
+P_MAGs	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	pilot_rep
+P_isolates	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	pilot_rep
+P_interaction	DORM_z	gaussian	T_logsd_total:is_mag	T_logsd_total+domain+lgs+checkm2_completeness+is_mag	none	pilot_rep
+P_TA_marine	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	none	pilot_rep

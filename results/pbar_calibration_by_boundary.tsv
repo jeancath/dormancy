@@ -1,0 +1,21 @@
+dgm	boundary	K	nsim	n_equivalent	rate	mc_lo95	mc_hi95	sd_slope	mean_se_one_grouping
+A original, lambda fixed (first calibration)	-0.015	K = 1 (one grouping)	5000	250	0.05	0.044123	0.056409	0.0034779	0.0036412
+A original, lambda fixed (first calibration)	-0.015	oracle SE (simulation SD of the slope; limit of large K)	5000	209	0.0418	0.036422	0.047721	0.0034779	0.0036412
+A original, lambda fixed (first calibration)	0.015	K = 1 (one grouping)	5000	225	0.045	0.039421	0.051118	0.0034806	0.003659
+A original, lambda fixed (first calibration)	0.015	oracle SE (simulation SD of the slope; limit of large K)	5000	204	0.0408	0.035486	0.046658	0.0034806	0.003659
+A original, lambda re-estimated	-0.015	K = 1 (one grouping)	500	18	0.036	0.021473	0.0563	0.0034286	0.0036037
+A original, lambda re-estimated	-0.015	oracle SE (simulation SD of the slope; limit of large K)	500	19	0.038	0.023031	0.058707	0.0034286	0.0036037
+A original, lambda re-estimated	0.015	K = 1 (one grouping)	500	21	0.042	0.026184	0.063487	0.0034804	0.0036678
+A original, lambda re-estimated	0.015	oracle SE (simulation SD of the slope; limit of large K)	500	22	0.044	0.027777	0.065861	0.0034804	0.0036678
+B single fitted model, lambda re-estimated	-0.015	K = 1 (one grouping)	500	28	0.056	0.03753	0.079921	0.0035304	0.0036636
+B single fitted model, lambda re-estimated	-0.015	K = 5	500	23	0.046	0.02938	0.068225	0.0035304	0.0036636
+B single fitted model, lambda re-estimated	-0.015	oracle SE (simulation SD of the slope; limit of large K)	500	22	0.044	0.027777	0.065861	0.0035304	0.0036636
+B single fitted model, lambda re-estimated	0.015	K = 1 (one grouping)	500	31	0.062	0.042511	0.086853	0.0034292	0.0036709
+B single fitted model, lambda re-estimated	0.015	K = 5	500	26	0.052	0.034246	0.075266	0.0034292	0.0036709
+B single fitted model, lambda re-estimated	0.015	oracle SE (simulation SD of the slope; limit of large K)	500	26	0.052	0.034246	0.075266	0.0034292	0.0036709
+D real residual structure, lambda re-estimated	-0.015	K = 1 (one grouping)	500	24	0.048	0.030993	0.070581	0.002275	0.0023784
+D real residual structure, lambda re-estimated	-0.015	K = 5	500	22	0.044	0.027777	0.065861	0.002275	0.0023784
+D real residual structure, lambda re-estimated	-0.015	oracle SE (simulation SD of the slope; limit of large K)	500	23	0.046	0.02938	0.068225	0.002275	0.0023784
+D real residual structure, lambda re-estimated	0.015	K = 1 (one grouping)	500	18	0.036	0.021473	0.0563	0.0022555	0.0024169
+D real residual structure, lambda re-estimated	0.015	K = 5	500	17	0.034	0.019929	0.05388	0.0022555	0.0024169
+D real residual structure, lambda re-estimated	0.015	oracle SE (simulation SD of the slope; limit of large K)	500	20	0.04	0.024601	0.061103	0.0022555	0.0024169

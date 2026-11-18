@@ -1,0 +1,5 @@
+species_type	species	genomes	MAG_genomes	isolate_genomes	species_with_P0_variation	species_with_P0_variation_among_MAGs	species_with_P0_variation_among_isolates	species_with_P0_variation_in_both_sources	share_of_within_species_P0_variation
+MAG-only	751	2713	2713	0	222	222	0	0	0.11
+isolate-only	651	3972	0	3972	412	0	412	0	0.806
+mixed	71	413	188	225	66	16	19	2	0.084
+all	1473	7098	2901	4197	700	238	431	2	1.0

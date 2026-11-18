@@ -1,0 +1,59 @@
+id	response	family	predictor	covars	filter	fdr_family
+E_mag_x_P0	DORM_z	gaussian	T_logsd_total:is_mag	T_logsd_total+domain+lgs+checkm2_completeness+is_mag	none	expl
+E_MAGs_only	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	expl
+E_isolates_complete	DORM_z	gaussian	T_logsd_total	domain+lgs	is_mag == 0 & complete_asm == 1	expl
+E_sporulator27	sporulator27	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacillota == 1	expl
+E_abslat	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+abslat_z	none	expl
+E_abslat_only	DORM_z	gaussian	abslat_z	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_pseudo	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_pseudo == 1	expl
+E_actino	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_actino == 1	expl
+E_bacter	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacter == 1	expl
+E_bacill	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_bacillota == 1	expl
+E_cyanob	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_cyanob == 1	expl
+E_hib_marine	n_hib	gaussian_log1p	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'marine'	expl
+E_hib_land	n_hib	gaussian_log1p	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'land'	expl
+E_sr_marine	n_sr	gaussian_log1p	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'marine'	expl
+E_sr_land	n_sr	gaussian_log1p	T_logsd_total	lgs+checkm2_completeness+is_mag	domain == 'land'	expl
+E_rmf_any	rmf_any	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_balon_any	balon_any	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_hpflong_any	hpf_long_any	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_sas_any	sas_any	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_rpoS	rpoS	binary	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_TA_isolates	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+log_mobile	is_mag == 0	expl
+E_TA_mob_marine	log_mobile	gaussian	is_marine	lgs+checkm2_completeness+is_mag	none	expl
+E_gsize_marine	lgs	gaussian	is_marine	checkm2_completeness+is_mag	none	expl
+E_H1_asmq	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+log_n50+checkm2_contamination	none	expl
+E_MAGs_asmq	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+log_n50+checkm2_contamination	is_mag == 1	expl
+E_mag_x_P0_asmq	DORM_z	gaussian	T_logsd_total:is_mag	T_logsd_total+domain+lgs+checkm2_completeness+is_mag+log_n50+checkm2_contamination	none	expl
+E_n50_P0	log_n50	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_n50_P0_MAGs	log_n50	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	expl
+E_DORM_n50	DORM_z	gaussian	log_n50	domain+lgs+checkm2_completeness+is_mag	none	expl
+E_TA_marine_asmq	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile+log_n50+checkm2_contamination	none	expl
+E_n50_marine	log_n50	gaussian	is_marine	lgs+checkm2_completeness+is_mag	none	expl
+E_H1_habitat	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_mag+is_soil+is_sed	none	expl
+E_MAGs_habitat	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness+is_soil+is_sed	is_mag == 1	expl
+E_MAGs_marine	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness	is_mag == 1 & domain == 'marine'	expl
+E_MAGs_land	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness	is_mag == 1 & domain == 'land'	expl
+E_iso_marine	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness	is_mag == 0 & domain == 'marine'	expl
+E_iso_land	DORM_z	gaussian	T_logsd_total	lgs+checkm2_completeness	is_mag == 0 & domain == 'land'	expl
+E_TA_MAGs	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+log_mobile+log_n50	is_mag == 1	expl
+E_TA_isolates_nomob	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness	is_mag == 0	expl
+E_TA_complete_iso	ta_pairs	gaussian_log1p	is_marine	lgs+log_mobile	is_mag == 0 & complete_asm == 1	expl
+E_toxins_marine	ta_toxins	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	none	expl
+E_antitox_marine	ta_antitoxins	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	none	expl
+E_TA_plasmidfree	ta_pairs	gaussian_log1p	is_marine	lgs+checkm2_completeness+is_mag+log_mobile	ta_pairs_plasmid == 0	expl
+E_DORM_marine	DORM_z	gaussian	is_marine	lgs+checkm2_completeness+is_mag	none	expl
+E_reparam_fracseas	DORM_z	gaussian	T_fracseas	T_logsd_total+T_ac1+domain+lgs+checkm2_completeness+is_mag	none	expl
+E_reparam_logsd	DORM_z	gaussian	T_logsd_total	T_fracseas+T_ac1+domain+lgs+checkm2_completeness+is_mag	none	expl
+E_reparam_ac1	DORM_z	gaussian	T_ac1	T_logsd_total+T_fracseas+domain+lgs+checkm2_completeness+is_mag	none	expl
+E_reparam_fracseas_MAGs	DORM_z	gaussian	T_fracseas	T_logsd_total+T_ac1+domain+lgs+checkm2_completeness	is_mag == 1	expl
+E_reparam_fracseas_iso	DORM_z	gaussian	T_fracseas	T_logsd_total+T_ac1+domain+lgs+checkm2_completeness	is_mag == 0	expl
+E_marine_resid_given_seas	DORM_z	gaussian	T_logsd_resid	T_logsd_seasonal+lgs+checkm2_completeness+is_mag	domain == 'marine'	expl
+E_marine_seas_given_resid	DORM_z	gaussian	T_logsd_seasonal	T_logsd_resid+lgs+checkm2_completeness+is_mag	domain == 'marine'	expl
+E_marine_fracseas	DORM_z	gaussian	T_fracseas	T_logsd_total+T_ac1+lgs+checkm2_completeness+is_mag	domain == 'marine'	expl
+E_marine_resid_MAGs	DORM_z	gaussian	T_logsd_resid	T_logsd_seasonal+lgs+checkm2_completeness	domain == 'marine' & is_mag == 1	expl
+E_marine_resid_iso	DORM_z	gaussian	T_logsd_resid	T_logsd_seasonal+lgs+checkm2_completeness	domain == 'marine' & is_mag == 0	expl
+E_growth_P0_MAGs	log_d_hours	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	expl
+E_growth_P0_iso	log_d_hours	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	expl
+E_mag_x_P0_growth	DORM_z	gaussian	T_logsd_total:is_mag	T_logsd_total+domain+lgs+checkm2_completeness+is_mag+log_d_hours	none	expl
+E_DORM_growth	DORM_z	gaussian	log_d_hours	domain+lgs+checkm2_completeness+is_mag	none	expl

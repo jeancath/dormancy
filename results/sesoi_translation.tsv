@@ -1,0 +1,6 @@
+module	mean_count	sd_log1p	pct_change_per_SD_P0_all_modules	pct_change_5to95pct_sites_all	pct_change_per_SD_P0_this_module_only	pct_change_5to95pct_sites_this_only
+sporulation core genes	1.29	0.689	1.04	3.48	4.22	14.67
+Rpf genes	0.29	0.404	0.61	2.03	2.45	8.36
+hibernation-factor genes	1.38	0.356	0.53	1.78	2.16	7.32
+stringent-response genes	1.56	0.382	0.57	1.91	2.32	7.88
+# SD(DORM_z)=0.572; SESOI/SD=0.026; P0 5-95% span=3.31 SD; SD of phylum means (n>=30)=0.444

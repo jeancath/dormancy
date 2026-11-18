@@ -1,0 +1,17 @@
+step	count
+BioSamples requested (all analysed genomes)	7714
+  analysed genomes linked to them	7715
+step 1: records returned	7708
+step 1: returned records matching a request	7593
+step 1: returned records NOT requested (misresolved, discarded)	115
+step 1: requests without their own record	121
+  of which a misresolved record was returned for them	115
+  of which nothing was returned for them	6
+step 2: requests resolved by esearch	121
+step 2: records verified (accession matches)	121
+final: BioSamples linked	7714
+final: BioSamples not retrieved (missing)	0
+final: confirmatory genomes	7327
+final: confirmatory genomes with a linked BioSample	7327
+check: raw date identical to the original run (BioSamples)	7714
+check: raw date differs from the original run (BioSamples)	0

@@ -1,0 +1,224 @@
+claim	location	source_value	paper_value	status	note
+confirmatory species	paper.md abstract/methods; student_report.md	7327	7327	match	
+land species	paper.md methods	4994	4994	match	
+marine species	paper.md methods	2333	2333	match	
+isolate genomes	paper.md methods; student_report.md §3	2835	2835	match	
+MAGs	paper.md methods; student_report.md §3	4492	4492	match	
+phyla	paper.md methods	81	81	match	
+distinct 0.5° sites	paper.md methods	1680	1680	match	
+MAG sites	paper.md results site pseudoreplication	368	368	match	
+share of MAGs in 10 largest sites (%)	paper.md results; REPORT §3.2	42.2306	41	rounding	
+QC failures (all, incl. pilot)	REPORT §1	152	152	match	
+pilot species after QC	paper.md results (pilot replication)	388	388	match	
+genome pool species	paper.md methods	33581	33581	match	
+genome pool genomes	paper.md methods	120086	120086	match	rows in data_small/habitat_classified.tsv.gz
+median marine SST SD (°C)	paper.md results	2.958	3.0	match	
+median land air-T SD (°C)	paper.md results	6.9314	6.9	match	
+SD of DORM_z (confirmatory)	paper.md methods	0.57216	0.57	match	
+phenotype calibration strains	paper.md methods; student_report.md	543	543	match	validation/calibration_numbers.json n_calibration
+"GTDB genome total ""about 900,000"""	student_report.md §3	not in repo	about 900,000	unsourced	
+H1 direct β	paper.md Table 1/results	0.00645603	0.0065	match	
+H1 total β	paper.md Table 1/results	0.00567003	0.0057	match	
+genome size ~ P0 β	paper.md Table 1/results	0.000446786	0.0004	match	
+H1a spo genes β	paper.md Table 1/results	-0.00371742	-0.0037	match	
+H1b Rpf β	paper.md Table 1/results	-0.00136513	-0.0014	match	
+H1b Rpf actino β	paper.md Table 1/results	-0.0053435	-0.0053	match	
+H1c hib β	paper.md Table 1/results	0.00512618	0.0051	match	
+H1d SR β	paper.md Table 1/results	0.00485618	0.0049	match	
+H1a sporulator logit	paper.md Table 1/results	0.0243237	0.024	match	
+H3 marine TA β	paper.md Table 1/results	-0.231148	-0.231	match	
+H3 + mobile	paper.md Table 1/results	-0.224101	-0.224	match	
+H3b TA~P0	paper.md Table 1/results	0.0213197	0.021	match	
+H4 β	paper.md Table 1/results	-0.0998866	-0.100	match	
+H5 β	paper.md Table 1/results	0.035156	0.035	match	
+S isolates β	paper.md Table 1/results	-0.00791879	-0.0079	match	
+precip CV β	paper.md Table 1/results	0.00777752	0.0078	match	
+chl β	paper.md Table 1/results	0.000318026	0.0003	match	
+H1 CI lower	paper.md Table 1	0.0016056	0.0016	match	
+H1 CI upper	paper.md Table 1	0.0113065	0.0113	match	
+H1-total CI lower	paper.md Table 1	0.000707617	0.0007	match	
+H1-total CI upper	paper.md Table 1	0.0106325	0.0106	match	
+PATH CI lower	paper.md Table 1	-0.00104815	-0.0010	match	
+PATH CI upper	paper.md Table 1	0.00194172	0.0019	match	
+sporulator CI lower	paper.md Table 1	-0.162793	-0.163	match	
+sporulator CI upper	paper.md Table 1	0.21144	0.211	match	
+spo CI lower	paper.md Table 1	-0.00840958	-0.0084	match	
+spo CI upper	paper.md Table 1	0.000974743	0.0010	match	
+Rpf CI lower	paper.md Table 1	-0.00327437	-0.0033	match	
+Rpf CI upper	paper.md Table 1	0.000544103	0.0005	match	
+Rpf actino CI lower	paper.md Table 1	-0.0173861	-0.0174	match	
+Rpf actino CI upper	paper.md Table 1	0.00669911	0.0067	match	
+hib CI lower	paper.md Table 1	0.000317156	0.0003	match	
+hib CI upper	paper.md Table 1	0.00993521	0.0099	match	
+SR CI lower	paper.md Table 1	0.000233389	0.0002	match	
+SR CI upper	paper.md Table 1	0.00947898	0.0095	match	
+TA CI lower	paper.md Table 1	-0.281296	-0.281	match	
+TA CI upper	paper.md Table 1	-0.181	-0.181	match	
+H4 CI lower	paper.md Table 1	-0.286383	-0.286	match	
+H4 CI upper	paper.md Table 1	0.0866094	0.087	match	
+H5 CI lower	paper.md Table 1	-0.00248224	-0.003	rounding	
+H5 CI upper	paper.md Table 1	0.0727943	0.073	match	
+S isolates CI lower	paper.md Table 1	-0.0150693	-0.0151	match	
+S isolates CI upper	paper.md Table 1	-0.000768245	-0.0008	match	
+precip CI lower	paper.md Table 1	0.00157023	0.0016	match	
+precip CI upper	paper.md Table 1	0.0139848	0.014	match	
+H1 p	paper.md Table 1/results	0.00910445	0.009	match	
+H1-total p	paper.md Table 1/results	0.0251542	0.025	match	
+PATH p	paper.md Table 1/results	0.558043	0.56	match	
+sporulator p	paper.md Table 1/results	0.798889	0.80	match	
+spo p	paper.md Table 1/results	0.121278	0.12	match	
+Rpf p	paper.md Table 1/results	0.161128	0.16	match	
+Rpf actino p	paper.md Table 1/results	0.384677	0.39	rounding	
+hib p	paper.md Table 1/results	0.0367186	0.037	match	
+SR p	paper.md Table 1/results	0.039534	0.040	match	
+H4 p	paper.md Table 1/results	0.293933	0.29	match	
+H5 p	paper.md Table 1/results	0.0674855	0.068	rounding	
+H3b p	paper.md Table 1/results	0.00734021	0.007	match	
+S isolates p	paper.md Table 1/results	0.0300458	0.03	match	
+H3 p (2e-19)	paper.md; student_report.md	2.08052e-19	2e-19	match	
+spo q	paper.md Table 1	0.241692	0.24	match	
+Rpf q	paper.md Table 1	0.241692	0.24	match	
+Rpf actino q	paper.md Table 1	0.461613	0.46	match	
+hib q	paper.md Table 1	0.118602	0.12	match	
+SR q	paper.md Table 1	0.118602	0.12	match	
+sporulator q	paper.md Table 1	0.798889	0.80	match	
+λ H1	paper.md Table 1	0.935987	0.94	match	
+λ total	paper.md Table 1	0.948502	0.95	match	
+λ PATH	paper.md Table 1	0.991686	0.99	match	
+λ spo	paper.md Table 1	1	1.00	match	
+λ rpf	paper.md Table 1	0.983196	0.98	match	
+λ rpf actino	paper.md Table 1	0.987174	0.99	match	
+λ hib	paper.md Table 1	0.936201	0.94	match	
+λ sr	paper.md Table 1	0.896411	0.90	match	
+λ TA	paper.md Table 1	0.830096	0.83	match	
+λ H4	paper.md Table 1	0.928319	0.93	match	
+λ H5	paper.md Table 1	0.979729	0.98	match	
+n Bacillota	paper.md Table 1	394	394	match	
+n Actinomycetota	paper.md Table 1	1029	1029	match	
+n complete isolates H5	paper.md Table 1	864	864	match	
+H1 in composite SDs (β / SD DORM_z)	paper.md results	0.0112836	0.011	match	
+"CI upper in composite SDs (""excludes > 0.02 SD"")"	paper.md discussion	0.019761	0.02	match	
+% fewer TA pairs (1 − e^β)	paper.md; student_report.md	20.6378	21	match	
+% fewer TA in complete isolates	paper.md; student_report.md	14.3587	14	match	
+"MAG / complete-isolate TA deficit ratio (""about twice""; was ""three times"" before commit a78a042)"	paper.md discussion	2.10066	2	match	fixed upstream in a78a042 after this audit flagged it
+"% fewer TA loci in MAGs (""about 28 %"")"	paper.md discussion	27.7912	28	match	
+MCMCglmm Poisson n_rpf post_mean	paper.md results (sens. 10)	-0.0155061	-0.016	match	
+MCMCglmm Poisson n_rpf l95	paper.md results (sens. 10)	-0.0502126	-0.050	match	
+MCMCglmm Poisson n_rpf u95	paper.md results (sens. 10)	0.0219478	0.022	match	
+MCMCglmm Poisson n_hib post_mean	paper.md results (sens. 10)	0.0175165	0.018	match	
+MCMCglmm Poisson n_hib l95	paper.md results (sens. 10)	0.00046394	0.0005	match	
+MCMCglmm Poisson n_hib u95	paper.md results (sens. 10)	0.0373049	0.037	match	
+MCMCglmm Poisson n_sr post_mean	paper.md results (sens. 10)	0.0138484	0.014	match	
+MCMCglmm Poisson n_sr l95	paper.md results (sens. 10)	0.00237747	0.002	match	
+MCMCglmm Poisson n_sr u95	paper.md results (sens. 10)	0.025389	0.025	match	
+MCMCglmm phylo+site all_interaction P0:is_mag post_mean	paper.md results / Table 2	0.029202	0.029	match	
+MCMCglmm phylo+site all_interaction P0:is_mag l95	paper.md results / Table 2	0.016443	0.016	match	
+MCMCglmm phylo+site all_interaction P0:is_mag u95	paper.md results / Table 2	0.0436978	0.044	match	
+MCMCglmm phylo+site MAGs P0 post_mean	paper.md results / Table 2	0.0240625	0.024	match	
+MCMCglmm phylo+site MAGs P0 l95	paper.md results / Table 2	0.0135338	0.014	match	
+MCMCglmm phylo+site MAGs P0 u95	paper.md results / Table 2	0.0352104	0.035	match	
+MCMCglmm phylo+site isolates P0 post_mean	paper.md results / Table 2	-0.00940795	-0.009	match	
+MCMCglmm phylo+site isolates P0 l95	paper.md results / Table 2	-0.0170034	-0.017	match	
+MCMCglmm phylo+site isolates P0 u95	paper.md results / Table 2	-0.000308754	-0.0003	match	
+MCMCglmm pooled H1 phylo+site post_mean	paper.md results	0.00794389	0.0079	match	
+MCMCglmm pooled H1 phylo+site l95	paper.md results	0.000331923	0.0003	match	
+MCMCglmm pooled H1 phylo+site u95	paper.md results	0.0143412	0.0143	match	
+sensitivity slope range min	paper.md results; REPORT §2	0.00457208	0.0046	match	
+sensitivity slope range max	paper.md	0.00722789	0.0072	match	
+"""all inside the SESOI"" (9 non-isolate sensitivity CIs)"	paper.md results; REPORT §2	8/9 inside; S_marine upper 0.0155	all 9 inside	mismatch	"results/decisions.md itself labels S_marine ""inconclusive""; S_sum is on log1p(DORM_sum) scale, not comparable to SESOI"
+"number of pre-registered sensitivity analyses run (""nine of ten"")"	paper.md results	9 configs + isolates; prereg item 10 (MCMCglmm Poisson) not finished; item 4 is one item (marine & land)	Nine of ten	mismatch	count conflates prereg items
+H6 seasonal β	paper.md	0.00660454	0.0066	match	
+H6 resid β	paper.md	0.00608659	0.0061	match	
+H6 Wald diff	paper.md Table 1	-0.00244254	-0.002	match	
+H6 Wald SE	paper.md Table 1	0.00805883	0.008	match	
+H6 Wald p	paper.md	0.761822	0.76	match	
+r(seasonal, residual)	paper.md	0.823541	0.82	match	
+r(log total SD, log seasonal SD) land	paper.md	0.996656	1.00	match	
+r(resid, seasonal fraction) marine	REPORT §3.3	0.240963	0.25	rounding	
+reparam fracseas β	paper.md	0.000893295	0.0009	match	
+reparam fracseas p	paper.md	0.838622	0.84	match	
+reparam ac1 β	paper.md	0.00120571	0.0012	match	
+reparam ac1 p	paper.md	0.679688	0.68	match	
+marine resid|seas β	paper.md	0.00575455	0.006	match	
+marine resid p	paper.md	0.337612	0.34	match	
+marine seas|resid β	paper.md	0.00292825	0.003	match	
+marine seas p	paper.md	0.625109	0.63	match	
+TA + N50/contam	paper.md	-0.227739	-0.228	match	
+TA plasmid-free	paper.md	-0.231811	-0.232	match	
+TA MAGs β	paper.md	-0.325609	-0.33	match	
+TA MAGs p (7e-26)	paper.md	6.93511e-26	7e-26	match	p underflows at 5 decimals in the TSV; consistent with z = -10.6
+TA isolates β	paper.md	-0.0163073	-0.016	match	matches E_TA_isolates_nomob (no mobile covariate); E_TA_isolates with mobile is -0.043
+TA isolates p	paper.md	0.695007	0.70	match	
+TA complete isolates β	paper.md	-0.155003	-0.155	match	
+TA complete iso p	paper.md	0.0292635	0.03	match	
+pilot TA β	paper.md	-0.25115	-0.25	match	
+pilot TA p	paper.md	0.00935259	0.009	match	
+pilot interaction β	paper.md	0.0134866	0.013	match	
+pilot interaction SE	paper.md	0.0337727	0.034	match	
+pilot described as independent replication of TA deficit	paper.md results; REPORT §3.6	pilot H3_TA_marine = -0.272, p = 0.008 was computed BEFORE the freeze (results/pilot_report.md)	"""replicated in the held-out pilot"""	mismatch	the pilot is the discovery sample for this effect, not a replication
+MAG slope	paper.md; student_report.md	0.0180689	0.018	match	
+isolate slope	paper.md; student_report.md	-0.00791879	-0.008	match	
+MAG CI lower	paper.md results; REPORT §3.1	0.0114262	0.012	rounding	normal-approximation CI; phylolm Wald
+MAG CI upper	paper.md	0.0247116	0.025	match	
+MAG p (1e-7)	paper.md	9.74413e-08	1e-7	match	
+interaction β	paper.md	0.024064	0.024	match	
+interaction p (2e-6)	paper.md	1.71803e-06	2e-6	match	
+MAG marine	paper.md results/Table 2	0.0235681	0.024	match	
+MAG land	paper.md results/Table 2	0.0133176	0.013	match	
+iso marine	paper.md results/Table 2	-0.0160558	-0.016	match	
+iso land	paper.md results/Table 2	-0.00393523	-0.004	match	
+jackknife p MAGs	paper.md Table 2	0.00324947	0.003	match	
+jackknife p isolates	paper.md Table 2	0.0535495	0.054	match	
+K1 MAG median	paper.md Table 2	0.0231976	0.023	match	
+K1 MAG % >0	paper.md Table 2	99	99	match	
+K1 iso median	paper.md Table 2	-0.00810145	-0.008	match	
+K1 iso % >0	paper.md	0	0	match	
+K3 MAG median	paper.md Table 2	0.0262257	0.026	match	
+K3 MAG % >0	paper.md	100	100	match	
+K3 iso median	paper.md Table 2	-0.00712622	-0.007	match	
+K1 pooled median	paper.md	-0.00506289	-0.005	match	
+K1 pooled % >0	paper.md	1	1	match	
+K3 pooled median	paper.md	-0.00307724	-0.003	match	
+jackknife SE inflation	paper.md	1.53458	1.5	match	
+jackknife pooled p	paper.md	0.0891288	0.089	match	
+number of site-capped resamples	paper.md Table 2 / Fig 5 legend	200	200	match	
+leave-one-site-out min	paper.md	0.0169403	0.017	match	
+leave-one-site-out max	paper.md	0.0230849	0.023	match	
+drop top-15 β	paper.md Table 2	0.0213654	0.021	match	
+drop top-15 p (2e-4)	paper.md	0.000171034	2e-4	match	
+shared families interaction	paper.md Table 2	0.0231049	0.023	match	
+shared fam p	paper.md	0.00170706	0.002	match	
+negative control HE MAG	paper.md Table 2	-0.00532225	-0.005	match	
+negative control HE isolates	paper.md Table 2	0.000527232	0.0005	match	
+long RSH MAG	paper.md	0.00321004	0.003	match	
+long RSH p	paper.md	0.116229	0.12	match	
+MAG hib module	REPORT §3.1	0.0168351	0.017	match	
+MAG SR module	REPORT	0.00884392	0.009	match	
+iso hib module	REPORT	-0.00803243	-0.008	match	
+interaction with gRodon	paper.md Table 2	0.0241204	0.024	match	source row ['E_mag_x_P0_growth']
+hib_extra MAG	paper.md results / Table 2	0.0131951	0.013	match	
+hib_extra iso	paper.md results / Table 2	-0.0111922	-0.011	match	
+short HPF MAG	paper.md results / Table 2	0.0134229	0.013	match	
+short HPF iso	paper.md results / Table 2	-0.00571576	-0.006	match	
+Balon MAG	paper.md results / Table 2	0.00804255	0.008	match	
+hib_extra MAG low contam	paper.md results / Table 2	0.0165551	0.017	match	
+DORM MAG low contam	paper.md results / Table 2	0.0219852	0.022	match	
+DORM comp98	paper.md results / Table 2	0.00704834	0.007	match	
+iso precise	paper.md results / Table 2	-0.010405	-0.010	match	
+iso coarse	paper.md results / Table 2	-0.000557243	-0.001	match	
+MAG precise	paper.md results / Table 2	0.0143027	0.014	match	
+MAG coarse	paper.md results / Table 2	0.0419519	0.042	match	
+Balon~SST marine iso logit	paper.md results / Table 2	-0.338029	-0.34	match	
+Balon~T land logit	paper.md results / Table 2	0.161128	0.16	match	
+Cyanobacteriota slope	paper.md results / Table 2	0.0355551	0.036	match	
+Balon~P0 logit	paper.md results / Table 2	0.0707681	0.071	match	
+hib_extra MAG p (2e-5)	paper.md	2.48845e-05	2e-5	match	
+hib_extra iso p	paper.md	0.00153191	0.0015	match	
+comp98 p	paper.md	0.351078	0.35	match	
+comp98 n	paper.md	906	906	match	
+Balon marine iso p (4e-4)	paper.md	0.000425211	4e-4	match	
+Balon marine MAG p	paper.md	0.126577	0.13	match	
+Cyanobacteriota p	paper.md	0.00385403	0.004	match	
+"Balon % in marine isolates, coldest octile (""about 17 % below 5 °C"")"	paper.md; student_report.md	17.4757	17	mismatch	"17 % is the coldest octile, which spans -1.6 to 9.7 °C, not ""below 5 °C""; coldest octile (-1.605, 9.67] = 17.5%; all marine isolates with SST < 5 °C: 21.2% (n=80)"
+"Balon % warm (""about 5 % above 20 °C"")"	paper.md; student_report.md	12	5	mismatch	"warmest octile (27.346, 29.723] = 12.0%; all with SST > 20 °C: 8.4% (n=379); octile curve is non-monotonic: 17, 12, 10, 9, 4, 12, 5, 12 %; ""5 %"" matches only the 5th/7th octiles"
+"student: ""λ = 0.94 means about 94 % of the pattern follows the family tree"""	student_report.md §4.2	λ is a scaling of the Brownian covariance, not a variance share	94 %	mismatch	interpretation error

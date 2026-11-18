@@ -1,0 +1,60 @@
+         block_deg       set    n n_blocks        beta  se_phylolm
+Estimate       0.5 H1_direct 7327     1642 0.006456035 0.002474712
+         se_block_jackknife      ci90_lo    ci90_hi      p_TOST
+Estimate        0.003506209 0.0006883208 0.01222375 0.007408729
+         block_deg  set    n n_blocks       beta  se_phylolm se_block_jackknife
+Estimate       0.5 MAGs 4492      363 0.01806894 0.003389135        0.006562958
+             ci90_lo    ci90_hi    p_TOST
+Estimate 0.007272879 0.02886501 0.6799704
+         block_deg      set    n n_blocks         beta  se_phylolm
+Estimate       0.5 isolates 2835     1358 -0.007918786 0.003648235
+         se_block_jackknife     ci90_lo       ci90_hi     p_TOST
+Estimate        0.004605509 -0.01549485 -0.0003427247 0.06207897
+         block_deg       set    n n_blocks        beta  se_phylolm
+Estimate         1 H1_direct 7327     1374 0.006456035 0.002474712
+         se_block_jackknife      ci90_lo    ci90_hi      p_TOST
+Estimate        0.003518907 0.0006674326 0.01224464 0.007590818
+         block_deg  set    n n_blocks       beta  se_phylolm se_block_jackknife
+Estimate         1 MAGs 4492      336 0.01806894 0.003389135        0.006496725
+             ci90_lo    ci90_hi    p_TOST
+Estimate 0.007381832 0.02875606 0.6816734
+         block_deg      set    n n_blocks         beta  se_phylolm
+Estimate         1 isolates 2835     1145 -0.007918786 0.003648235
+         se_block_jackknife     ci90_lo       ci90_hi     p_TOST
+Estimate        0.004416314 -0.01518362 -0.0006539491 0.05442081
+     block_deg n_blocks   R       median         q025          q25          q75
+2.5%         1     1374 100 -0.002638642 -0.007844392 -0.004285229 -0.000763899
+            q975 frac_positive frac_inside_SESOI
+2.5% 0.002058062          0.13                 1
+         block_deg       set    n n_blocks        beta  se_phylolm
+Estimate         2 H1_direct 7327     1049 0.006456035 0.002474712
+         se_block_jackknife     ci90_lo    ci90_hi     p_TOST
+Estimate        0.003300274 0.001027083 0.01188499 0.00481464
+         block_deg  set    n n_blocks       beta  se_phylolm se_block_jackknife
+Estimate         2 MAGs 4492      303 0.01806894 0.003389135        0.006637755
+             ci90_lo    ci90_hi    p_TOST
+Estimate 0.007149838 0.02898805 0.6780837
+         block_deg      set    n n_blocks         beta  se_phylolm
+Estimate         2 isolates 2835      880 -0.007918786 0.003648235
+         se_block_jackknife     ci90_lo      ci90_hi     p_TOST
+Estimate        0.004129593 -0.01471197 -0.001125606 0.04319566
+     block_deg n_blocks   R       median        q025         q25         q75
+2.5%         2     1049 100 -0.004369093 -0.01184534 -0.00588575 -0.00127387
+            q975 frac_positive frac_inside_SESOI
+2.5% 0.002399598          0.15              0.99
+         block_deg       set    n n_blocks        beta  se_phylolm
+Estimate         5 H1_direct 7327      599 0.006456035 0.002474712
+         se_block_jackknife       ci90_lo    ci90_hi     p_TOST
+Estimate        0.003947268 -3.722143e-05 0.01294929 0.01521199
+         block_deg  set    n n_blocks       beta  se_phylolm se_block_jackknife
+Estimate         5 MAGs 4492      223 0.01806894 0.003389135        0.006721909
+             ci90_lo    ci90_hi    p_TOST
+Estimate 0.007011404 0.02912648 0.6760058
+         block_deg      set    n n_blocks         beta  se_phylolm
+Estimate         5 isolates 2835      502 -0.007918786 0.003648235
+         se_block_jackknife     ci90_lo      ci90_hi     p_TOST
+Estimate        0.004689631 -0.01563323 -0.000204344 0.06552521
+     block_deg n_blocks   R      median         q025         q25        q75
+2.5%         5      599 100 0.004409752 -0.007219144 0.001483663 0.00712289
+           q975 frac_positive frac_inside_SESOI
+2.5% 0.01492702          0.83              0.98

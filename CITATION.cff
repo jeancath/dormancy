@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article (and this archive)."
+title: "The Dormancy Rule: code and data for a pre-registered phylogenetic test of seed-bank theory across 7,327 bacterial species"
+authors:
+  - family-names: "Fathy"
+    given-names: "Melad Naieem"
+    orcid: "https://orcid.org/0009-0002-4553-8894"
+    affiliation: "Independent researcher"
+version: "1.0.0"
+date-released: "2026-11-18"
+license: ["MIT", "CC-BY-4.0"]
+repository-code: "https://github.com/jeancath/dormancy"
+doi: "[10.5281/zenodo.XXXXXXX]"
+keywords: [microbial dormancy, seed bank, phylogenetic comparative methods, GTDB, metagenome-assembled genomes, pre-registration]

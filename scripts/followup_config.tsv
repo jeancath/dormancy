@@ -1,0 +1,35 @@
+id	response	family	predictor	covars	filter	fdr_family
+F_collider_iso_PxD	is_isolate	binary	T_logsd_total:DORM_z	T_logsd_total+DORM_z+domain+lgs+checkm2_completeness	none	follow
+F_iso_precise	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0 & coord_precise == 1	follow
+F_iso_coarse	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0 & coord_precise == 0	follow
+F_MAG_precise	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1 & coord_precise == 1	follow
+F_MAG_coarse	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1 & coord_precise == 0	follow
+F_MAG_hib_systems	hib_systems	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_hib_extra	hib_extra	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_iso_hib_systems	hib_systems	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_iso_hib_extra	hib_extra	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_MAG_rsh_extra	rsh_extra	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_hpfshort	hpf_short	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_hpflong	hpf_long	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_rmf	n_rmf	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_balon	n_balon	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_sas	n_sas	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_MAG_sah	n_sah	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1	follow
+F_iso_hpfshort	hpf_short	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_iso_hpflong	hpf_long	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_iso_rmf	n_rmf	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_iso_balon	n_balon	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 0	follow
+F_balon_Tmean	balon_any	binary	T_mean_z	T_logsd_total+domain+lgs+checkm2_completeness+is_mag	none	follow
+F_balon_P0_given_Tmean	balon_any	binary	T_logsd_total	T_mean_z+domain+lgs+checkm2_completeness+is_mag	none	follow
+F_balon_Tmean_marine	balon_any	binary	T_mean_z	T_logsd_total+lgs+checkm2_completeness+is_mag	domain == 'marine'	follow
+F_cyano_hib	n_hib	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_cyanob == 1	follow
+F_cyano_sr	n_sr	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+is_mag	is_cyanob == 1	follow
+F_cyano_MAGs	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_cyanob == 1 & is_mag == 1	follow
+F_cyano_iso	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_cyanob == 1 & is_mag == 0	follow
+F_MAG_hib_extra_lowcont	hib_extra	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1 & checkm2_contamination < 1	follow
+F_MAG_hib_extra_contcov	hib_extra	gaussian_log1p	T_logsd_total	domain+lgs+checkm2_completeness+checkm2_contamination	is_mag == 1	follow
+F_MAG_DORM_lowcont	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1 & checkm2_contamination < 1	follow
+F_MAG_DORM_comp98	DORM_z	gaussian	T_logsd_total	domain+lgs+checkm2_completeness	is_mag == 1 & checkm2_completeness >= 98 & checkm2_contamination < 1	follow
+F_balon_Tmean_land	balon_any	binary	T_mean_z	T_logsd_total+lgs+checkm2_completeness+is_mag	domain == 'land'	follow
+F_balon_Tmean_marine_iso	balon_any	binary	T_mean_z	T_logsd_total+lgs+checkm2_completeness	domain == 'marine' & is_mag == 0	follow
+F_balon_Tmean_marine_MAG	balon_any	binary	T_mean_z	T_logsd_total+lgs+checkm2_completeness	domain == 'marine' & is_mag == 1	follow

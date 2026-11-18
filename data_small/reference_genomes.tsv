@@ -1,0 +1,15 @@
+accession	ncbi_assembly_name	ncbi_translation_table	name	expected_sporulator	expected_rpf
+RS_GCF_000006745.1	ASM674v1	11	Vibrio cholerae O1 biovar El Tor str. N16961	0	0
+RS_GCF_000009045.1	ASM904v1	11	Bacillus subtilis subsp. subtilis str. 168	1	0
+RS_GCF_000007565.2	ASM756v2	11	Pseudomonas putida KT2440	0	0
+RS_GCF_000023205.1	ASM2320v1	11	Micrococcus luteus NCTC 2665	0	1
+RS_GCF_000008565.1	ASM856v1	11	Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539	0	0
+RS_GCF_000012345.1	ASM1234v1	11	Candidatus Pelagibacter ubique HTCC1062	0	0
+RS_GCF_000005845.2	ASM584v2	11	Escherichia coli str. K-12 substr. MG1655	0	0
+RS_GCF_000011465.1	ASM1146v1	11	Prochlorococcus marinus subsp. pastoris str. CCMP1986	0	0
+RS_GCF_000195955.2	ASM19595v2	11	Mycobacterium tuberculosis H37Rv	0	1
+RS_GCF_000014725.1	ASM1472v1	11	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	1	0
+RS_GCF_000009205.2	ASM920v2	11	Clostridioides difficile 630	1	0
+RS_GCF_000203835.1	ASM20383v1	11	Streptomyces coelicolor A3(2)	0	1
+RS_GCF_000006905.1	ASM690v1	11	Caulobacter vibrioides CB15	0	0
+RS_GCF_000014585.1	ASM1458v1	11	Synechococcus sp. CC9311	0	0
